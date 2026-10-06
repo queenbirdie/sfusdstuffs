@@ -7,7 +7,7 @@ In GitHub:    runs on a schedule via .github/workflows/refresh.yml
 Tours that drop off a school's form are KEPT and marked "full" (they filled, or
 occasionally were cancelled). If a time reappears, it flips back to "open".
 """
-import csv, json, re, sys, time
+import csv, json, re, sys, time, unicodedata
 from datetime import datetime, date
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -21,6 +21,13 @@ JSON_OUT, CSV_OUT = DATA_DIR / "tours.json", DATA_DIR / "tours.csv"
 HEADERS = {"User-Agent": "Mozilla/5.0 (SF school tour tracker)"}
 MIN_SCHOOLS = 30  # sanity check: if the SFUSD page parses to fewer, abort without writing
 TZ = ZoneInfo("America/Los_Angeles")
+DIRECTORY = "https://www.sfusd.edu/schools/directory"
+PROFILES_OUT = DATA_DIR / "profiles.json"          # cache of school details (hours, programs)
+OVERRIDES = Path(__file__).resolve().parent / "school_pages.json"  # manual name -> school page URL fixes
+PROFILE_MAX_AGE_DAYS = 7
+KNOWN_LANGS = ["Spanish", "Cantonese", "Mandarin", "Chinese", "Filipino", "Japanese", "Korean",
+               "Vietnamese", "Russian", "Arabic", "French", "Italian", "German"]
+GENERIC = {"elementary", "school", "es", "ees", "the", "of", "at", "and", "alternative", "sf", "san", "francisco"}
 SLOT_RE = re.compile(r"^\w{3,5},?\s+(\w{3})\w*\.?\s+(\d{1,2}),\s+(\d{4})\s*@\s*(.+)$")
 TIME_RE = re.compile(r"(\d{1,2})(?::(\d{2}))?\s*(a\.?\s?m\.?|p\.?\s?m\.?|a|p)?(?![a-z])", re.I)
 
@@ -115,6 +122,121 @@ def parse_slot(text):
     return d, t.strip()
 
 
+
+# ---------- School profiles (hours, neighborhood, language + special ed programs) ----------
+
+def _tokens(name):
+    name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()  # José -> Jose, drops CJK
+    name = re.sub(r"[^\w\s-]", " ", name.lower()).replace("-", " ")
+    return [t for t in name.split() if t and not re.fullmatch(r"[\u4e00-\u9fff]+", t)]
+
+
+def get_directory():
+    """{directory name: school page URL} from SFUSD's paginated Directory of Schools."""
+    found = {}
+    for page in range(0, 25):
+        html = requests.get(DIRECTORY, params={"page": page}, headers=HEADERS, timeout=30).text
+        soup = BeautifulSoup(html, "html.parser")
+        new = 0
+        for a in soup.select('a[href*="/school/"]'):
+            href = a["href"].split("?")[0].split("#")[0].rstrip("/")
+            m = re.search(r"/school/([^/]+)$", href)
+            name = a.get_text(" ", strip=True)
+            if m and name and len(name) < 120:
+                url = "https://www.sfusd.edu/school/" + m.group(1)
+                if url not in found.values():
+                    found[name] = url
+                    new += 1
+        if not new:
+            break
+        time.sleep(0.5)
+    return found
+
+
+def match_school(name, directory, overrides):
+    """Match a tours-page school name to its directory entry by name tokens."""
+    if name in overrides:
+        return overrides[name]
+    want = {t for t in _tokens(name) if t not in GENERIC}
+    if not want:
+        return None
+    best = None
+    for dname, url in directory.items():
+        have = set(_tokens(dname))
+        if want <= have:
+            extra = len({t for t in have if t not in GENERIC} - want)
+            if best is None or extra < best[0]:
+                best = (extra, url)
+    return best[1] if best else None
+
+
+def _section_items(soup, title):
+    """List items under the heading whose text is exactly `title`."""
+    for h in soup.find_all(["h2", "h3", "h4"]):
+        if h.get_text(" ", strip=True).replace("Link to this section", "").strip() != title:
+            continue
+        items = []
+        for el in h.find_all_next():
+            if el.name in ("h2", "h3", "h4"):
+                break
+            if el.name == "li":
+                items.append(el.get_text(" ", strip=True))
+        return items
+    return []
+
+
+def get_profile(url):
+    html = requests.get(url + "/details", headers=HEADERS, timeout=30).text
+    soup = BeautifulSoup(html, "html.parser")
+    main = soup.find("main") or soup
+    lines = [l.strip() for l in main.get_text("\n").split("\n") if l.strip()]
+    prof = {"url": url, "start": None, "end": None, "hours": "", "neighborhood": "",
+            "languages": _section_items(main, "Languages"),
+            "special_ed": _section_items(main, "Special Education")}
+    for i, l in enumerate(lines):
+        if l == "Neighborhood" and i + 1 < len(lines) and not prof["neighborhood"]:
+            prof["neighborhood"] = lines[i + 1]
+        m = re.match(r"^(Monday|Mon|Mo):\s*(.+)$", l)
+        if m and not prof["hours"]:
+            prof["hours"] = m.group(2).replace("\u2013", "-")
+            toks = TIME_RE.findall(prof["hours"])
+            if len(toks) >= 2:
+                (h1, m1, a1), (h2, m2, a2) = toks[0], toks[1]
+                a1, a2 = _mer(a1) or "am", _mer(a2) or "pm"   # school days run morning to afternoon
+                to24 = lambda h, mm, ap: f"{int(h) % 12 + (12 if ap == 'pm' else 0):02d}:{int(mm or 0):02d}"
+                prof["start"], prof["end"] = to24(h1, m1, a1), to24(h2, m2, a2)
+    prof["language_tags"] = sorted({k for k in KNOWN_LANGS for p in prof["languages"] if k.lower() in p.lower()})
+    return prof
+
+
+def load_profiles(schools, today):
+    """Refresh cached profiles older than PROFILE_MAX_AGE_DAYS. Failures keep the cached copy."""
+    cache = json.loads(PROFILES_OUT.read_text()) if PROFILES_OUT.exists() else {}
+    overrides = json.loads(OVERRIDES.read_text()) if OVERRIDES.exists() else {}
+    stale = [s["name"] for s in schools
+             if s["name"] not in cache or s["name"] in overrides and cache[s["name"]].get("url") != overrides[s["name"]]
+             or (date.fromisoformat(today) - date.fromisoformat(cache[s["name"]].get("fetched", "2000-01-01"))).days >= PROFILE_MAX_AGE_DAYS]
+    if not stale:
+        return cache, []
+    try:
+        directory = get_directory()
+    except Exception as e:
+        print(f"! Couldn't read SFUSD directory ({e}); keeping cached profiles")
+        return cache, []
+    unmatched = []
+    for name in stale:
+        url = match_school(name, directory, overrides)
+        if not url:
+            unmatched.append(name)
+            continue
+        try:
+            cache[name] = {**get_profile(url), "fetched": today}
+        except Exception as e:
+            print(f"! Profile failed for {name}: {e}")
+        time.sleep(1)
+    return cache, unmatched
+
+
 def tour_id(school, d, t):
     return "|".join([school, d, re.sub(r"\s+", "", t.lower())])
 
@@ -129,6 +251,7 @@ def main():
     if len(schools) < MIN_SCHOOLS:
         sys.exit(f"Only parsed {len(schools)} schools from SFUSD page - layout may have changed. Not writing.")
 
+    profiles, unmatched = load_profiles(schools, today)
     tours, out_schools, errors = {}, [], []
     for s in schools:
         status, opts, ok = "", [], True
@@ -179,7 +302,11 @@ def main():
 
         if unparsed:
             status = (status + ". " if status else "") + "Unrecognized options: " + "; ".join(unparsed)
-        out_schools.append({**s, "status": status})
+        p = profiles.get(s["name"], {})
+        out_schools.append({**s, "status": status,
+                            "profile_url": p.get("url", ""), "start": p.get("start"), "end": p.get("end"),
+                            "neighborhood": p.get("neighborhood", ""), "languages": p.get("languages", []),
+                            "language_tags": p.get("language_tags", []), "special_ed": p.get("special_ed", [])})
         print(f"{s['name']}: {len(seen)} open {status}")
 
     # Schools that vanished from the SFUSD page: keep their history as-is.
@@ -190,6 +317,7 @@ def main():
 
     ordered = sorted(tours.values(), key=lambda t: (t["date"], t["start"] or "99", t["school"]))
     DATA_DIR.mkdir(parents=True, exist_ok=True)
+    PROFILES_OUT.write_text(json.dumps(profiles, indent=1, ensure_ascii=False))
     JSON_OUT.write_text(json.dumps({
         "updated": now.isoformat(timespec="minutes"),
         "first_run": prev.get("first_run", today),
@@ -199,16 +327,22 @@ def main():
     }, indent=1))
     with CSV_OUT.open("w", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["Date", "Day", "Time", "School", "Grades", "Status", "Full since", "First seen", "Sign-up form"])
+        w.writerow(["Date", "Day", "Time", "School", "Grades", "Neighborhood", "School start", "Language programs",
+                    "Special ed programs", "Status", "Full since", "First seen", "Sign-up form"])
+        sp = {x["name"]: x for x in out_schools}
         for t in ordered:
-            d = date.fromisoformat(t["date"])
-            w.writerow([t["date"], d.strftime("%a"), t["time"], t["school"], t["grades"],
+            d, x = date.fromisoformat(t["date"]), sp.get(t["school"], {})
+            w.writerow([t["date"], d.strftime("%a"), t["time"], t["school"], t["grades"], x.get("neighborhood", ""),
+                        x.get("start") or "", "; ".join(x.get("languages", [])), "; ".join(x.get("special_ed", [])),
                         t["status"], t["full_since"] or "", t["first_seen"], t["link"]])
 
     n_open = sum(t["status"] == "open" for t in ordered)
     print(f"\n{n_open} open | {len(ordered) - n_open} full | {len(errors)} form errors")
     for e in errors:
         print("  !", e)
+    if unmatched:
+        print("\nNo school page found for:", ", ".join(unmatched))
+        print("Add them to scripts/school_pages.json as {\"Tours page name\": \"https://www.sfusd.edu/school/...\"}")
 
 
 if __name__ == "__main__":
