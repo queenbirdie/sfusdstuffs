@@ -22,7 +22,7 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (SF school tour tracker)"}
 MIN_SCHOOLS = 30  # sanity check: if the SFUSD page parses to fewer, abort without writing
 TZ = ZoneInfo("America/Los_Angeles")
 SLOT_RE = re.compile(r"^\w{3,5},?\s+(\w{3})\w*\.?\s+(\d{1,2}),\s+(\d{4})\s*@\s*(.+)$")
-TIME_RE = re.compile(r"(\d{1,2})(?::(\d{2}))?\s*(am|pm)?", re.I)
+TIME_RE = re.compile(r"(\d{1,2})(?::(\d{2}))?\s*(a\.?\s?m\.?|p\.?\s?m\.?|a|p)?(?![a-z])", re.I)
 
 
 def get_schools():
@@ -60,26 +60,47 @@ def get_form_options(url):
     return []
 
 
-def parse_range(text):
-    """'8:30-9:30am' / '10:00-11:00 am' / '12:45-1:45pm' / '11am-12pm' -> ('HH:MM','HH:MM') or None"""
-    toks = TIME_RE.findall(text)
-    if len(toks) < 2:
-        return None
-    (h1, m1, ap1), (h2, m2, ap2) = toks[0], toks[1]
-    h1, h2 = int(h1), int(h2)
-    ap2 = (ap2 or ap1).lower()
-    if not ap2 or not (1 <= h1 <= 12 and 1 <= h2 <= 12):
-        return None
-    if ap1:
-        ap1 = ap1.lower()
-    elif h1 == 12:
-        ap1 = "pm"
-    elif ap2 == "pm" and (h1 > h2 or h2 == 12):
-        ap1 = "am"
-    else:
-        ap1 = ap2
-    to24 = lambda h, ap: (h % 12) + (12 if ap == "pm" else 0)
-    return f"{to24(h1, ap1):02d}:{int(m1 or 0):02d}", f"{to24(h2, ap2):02d}:{int(m2 or 0):02d}"
+def _mer(x):
+    return ("pm" if x.lower().startswith("p") else "am") if x else ""
+
+
+def _guess(h):
+    """No am/pm given anywhere: school tours run 7am-6pm."""
+    return "am" if 7 <= h <= 11 else "pm"
+
+
+def parse_times(text):
+    """Parse every time range in a tour label.
+    Returns (ranges, label): ranges = [('HH:MM','HH:MM'), ...] in 24h; label = tidy display text.
+    Handles '8:30-9:30am', '10:00-11:00 am', '8:00-9:00a', '9:00-9:45', '12:45-1:45pm',
+    '11am-12pm', '9:00-10:00, 11:00-12:00'. Returns ([], text) if it can't parse."""
+    toks = [(int(h), int(m or 0), _mer(ap)) for h, m, ap in TIME_RE.findall(text)]
+    if len(toks) < 2 or len(toks) % 2 or any(not (1 <= h <= 12) or m > 59 for h, m, _ in toks):
+        return [], text
+    ranges, parts = [], []
+    for (h1, m1, a1), (h2, m2, a2) in zip(toks[::2], toks[1::2]):
+        if not a2:
+            if a1:
+                a2 = a1 if (h2 > h1 and h2 != 12) or h1 == h2 else ("pm" if a1 == "am" else a1)
+            else:
+                a2 = _guess(h2)
+        if not a1:
+            if h1 == 12:
+                a1 = "pm"
+            elif a2 == "pm" and (h1 > h2 or h2 == 12):
+                a1 = "am"
+            else:
+                a1 = a2
+        to24 = lambda h, ap: (h % 12) + (12 if ap == "pm" else 0)
+        s24, e24 = to24(h1, a1) * 60 + m1, to24(h2, a2) * 60 + m2
+        if not (0 < e24 - s24 <= 240):
+            return [], text
+        ranges.append((f"{s24 // 60:02d}:{s24 % 60:02d}", f"{e24 // 60:02d}:{e24 % 60:02d}"))
+        hm = lambda h, m: f"{h}:{m:02d}"
+        parts.append(f"{hm(h1, m1)}\u2013{hm(h2, m2)} {a2.upper()}" if a1 == a2
+                     else f"{hm(h1, m1)} {a1.upper()}\u2013{hm(h2, m2)} {a2.upper()}")
+    extra = " ".join(re.findall(r"\([^)]*\)", text))
+    return ranges, ", ".join(parts) + (f" {extra}" if extra else "")
 
 
 def parse_slot(text):
@@ -138,10 +159,11 @@ def main():
             if tid in seen:
                 continue
             seen.add(tid)
-            rng = parse_range(t)
+            ranges, label = parse_times(t)
+            rng = ranges[0] if ranges else None
             old = prev_tours.get(tid, {})
             tours[tid] = {"id": tid, "school": s["name"], "grades": s["grades"], "link": s["link"],
-                          "date": d.isoformat(), "time": t,
+                          "date": d.isoformat(), "time": label, "raw_time": t,
                           "start": rng[0] if rng else None, "end": rng[1] if rng else None,
                           "status": "open", "first_seen": old.get("first_seen", today),
                           "last_seen": today, "full_since": None}
