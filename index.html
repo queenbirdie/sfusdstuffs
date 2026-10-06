@@ -1,0 +1,301 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>SF school tours</title>
+<meta name="description" content="Every SFUSD elementary and TK-8 school tour time in one list, refreshed daily from each school's sign-up form.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏫</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#EEF1F4; --card:#FFFFFF; --ink:#1B2740; --muted:#5C6778; --line:#D5DBE3;
+  --bus:#F6C328; --bus-ink:#3A2E00; --link:#1C56B8; --full:#8B95A5; --focus:#1C56B8;
+  --display:"Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
+  --body:"Atkinson Hyperlegible", "Helvetica Neue", Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#121A27; --card:#1A2434; --ink:#E9EDF3; --muted:#9AA6B8; --line:#2C3A50;
+    --bus:#F6C328; --bus-ink:#2B2200; --link:#8DB4FF; --full:#6D7889; --focus:#8DB4FF;
+  }
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.5 var(--body);
+  padding:env(safe-area-inset-top,0) 0 env(safe-area-inset-bottom,0)}
+a{color:var(--link)}
+:focus-visible{outline:3px solid var(--focus);outline-offset:2px;border-radius:4px}
+.wrap{max-width:760px;margin:0 auto;padding:0 18px}
+
+header{padding:36px 0 18px}
+h1{font:800 clamp(2.4rem,9vw,3.6rem)/.95 var(--display);letter-spacing:-.03em;margin:0 0 14px}
+.lede{margin:0;color:var(--muted);max-width:56ch}
+.stats{margin:16px 0 0;font-weight:700}
+
+.filters{position:sticky;top:0;z-index:5;background:var(--paper);padding:12px 0;border-bottom:1px solid var(--line)}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.row + .row{margin-top:8px}
+input[type=search],select{font:inherit;color:var(--ink);background:var(--card);border:1px solid var(--line);
+  border-radius:10px;padding:9px 12px;min-height:44px}
+input[type=search]{flex:1 1 220px}
+select{flex:1 1 140px;min-width:0;max-width:100%;text-overflow:ellipsis}
+.chip{display:inline-flex;align-items:center;gap:8px;min-height:40px;padding:6px 14px;border:1px solid var(--line);
+  border-radius:999px;background:var(--card);cursor:pointer;user-select:none;font-size:.95rem}
+.chip input{accent-color:var(--ink);width:18px;height:18px;margin:0}
+.count{margin-left:auto;color:var(--muted);font-size:.9rem}
+
+main{padding:8px 0 40px}
+.day{display:grid;grid-template-columns:64px 1fr;gap:0 14px;padding:18px 0;border-bottom:1px solid var(--line)}
+.date{position:sticky;top:var(--filters-h,120px);align-self:start;text-align:center;padding-top:2px}
+.date .dow{display:block;font:700 .85rem/1 var(--display);color:var(--muted)}
+.date .num{display:block;font:800 2.6rem/1 var(--display);letter-spacing:-.04em}
+.date .mon{display:block;font:500 .85rem/1.2 var(--display);color:var(--muted)}
+.date.weekend .num{color:var(--bus-ink);background:var(--bus);border-radius:10px;padding:4px 0}
+ul.tours{list-style:none;margin:0;padding:0;display:grid;gap:10px}
+.tour{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.tour .top{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.time{font:700 1rem/1.3 var(--display);white-space:nowrap}
+.school{font-weight:700;font-size:1.05rem}
+.grades{color:var(--muted);font-size:.9rem}
+.note{color:var(--muted);font-size:.88rem;margin:4px 0 0}
+.tags{display:inline-flex;gap:6px;flex-wrap:wrap}
+.tag{font-size:.78rem;font-weight:700;padding:2px 8px;border-radius:6px;border:1px solid var(--line);color:var(--muted)}
+.tag.new{background:var(--bus);border-color:var(--bus);color:var(--bus-ink)}
+.actions{display:flex;flex-wrap:wrap;gap:4px 16px;margin-top:8px;font-size:.95rem}
+.actions a,.actions button{font:inherit;font-weight:700;color:var(--link);background:none;border:0;padding:6px 0;cursor:pointer;text-decoration:underline;text-underline-offset:3px}
+.tour.full{background:transparent;border-style:dashed}
+.tour.full .time,.tour.full .school{color:var(--full);text-decoration:line-through;text-decoration-thickness:2px}
+.tour.full .actions{display:none}
+
+details.more{margin-top:8px}
+details.more > summary{cursor:pointer;font-weight:700;color:var(--link);min-height:40px;display:inline-flex;align-items:center;list-style:none}
+details.more > summary::-webkit-details-marker{display:none}
+details.more > summary::before{content:"+";display:inline-block;width:1.1em;font-weight:800}
+details.more[open] > summary::before{content:"\2212"}
+details.more .row{margin-top:6px}
+.meta{display:flex;flex-wrap:wrap;gap:6px 14px;margin:6px 0 0;font-size:.9rem;color:var(--muted)}
+.meta b{color:var(--ink);font-weight:700}
+.lang{font-size:.8rem;font-weight:700;padding:2px 8px;border-radius:6px;background:var(--paper);color:var(--ink)}
+details.sped{margin-top:6px;font-size:.9rem;color:var(--muted)}
+details.sped summary{cursor:pointer;color:var(--ink);font-weight:700}
+details.sped ul{margin:4px 0 0;padding-left:18px}
+.empty{padding:40px 0;text-align:center;color:var(--muted)}
+.empty button{font:inherit;font-weight:700;color:var(--link);background:none;border:0;text-decoration:underline;cursor:pointer}
+footer{border-top:1px solid var(--line);padding:24px 0 48px;color:var(--muted);font-size:.9rem}
+footer h2{font:700 1.1rem/1.2 var(--display);color:var(--ink);margin:0 0 8px}
+footer ul{padding-left:18px;margin:0 0 20px}
+footer p{max-width:62ch}
+@media (max-width:480px){
+  .day{grid-template-columns:48px 1fr;gap:0 10px}
+  .date .num{font-size:2rem}
+  .count{margin-left:0;width:100%}
+  .filters{position:static}
+}
+@media (prefers-reduced-motion:no-preference){ .tour{transition:border-color .15s} }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>SF school tours</h1>
+    <p class="lede">Every SFUSD elementary and TK-8 tour time in one list, pulled daily from each school's sign-up form.</p>
+    <p class="stats" id="stats">Loading tour times…</p>
+  </header>
+</div>
+
+<div class="filters" id="filters">
+  <div class="wrap">
+    <div class="row">
+      <input type="search" id="q" placeholder="Search schools" aria-label="Search schools" autocomplete="off">
+      <select id="grade" aria-label="Grade">
+        <option value="">Any grade</option>
+        <option value="tk">Offers TK</option>
+        <option value="k">Offers kindergarten</option>
+        <option value="prek">Offers Pre-K</option>
+        <option value="k8">TK-8 / K-8</option>
+      </select>
+      <select id="when" aria-label="When">
+        <option value="all">All upcoming</option>
+        <option value="7">Next 7 days</option>
+        <option value="14">Next 2 weeks</option>
+        <option value="30">Next 30 days</option>
+      </select>
+    </div>
+    <details class="more" id="more">
+      <summary id="moresum">More filters</summary>
+      <div class="row">
+        <select id="lang" aria-label="Language program"><option value="">Any language program</option></select>
+        <select id="sped" aria-label="Special education program"><option value="">Any special ed program</option></select>
+      </div>
+      <div class="row">
+        <select id="start" aria-label="School start time"><option value="">Any school start time</option></select>
+        <select id="hood" aria-label="Neighborhood"><option value="">Any neighborhood</option></select>
+      </div>
+    </details>
+    <div class="row">
+      <label class="chip"><input type="checkbox" id="offhours"> Weekends &amp; evenings</label>
+      <label class="chip"><input type="checkbox" id="newonly"> New this week</label>
+      <label class="chip"><input type="checkbox" id="showfull"> Show full tours</label>
+      <span class="count" id="count" aria-live="polite"></span>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <main id="list"></main>
+  <footer id="footer"></footer>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const todayISO = new Date().toLocaleDateString("en-CA", {timeZone: "America/Los_Angeles"});
+const addDays = (iso, n) => { const d = new Date(iso + "T12:00:00"); d.setDate(d.getDate() + n); return d.toISOString().slice(0,10); };
+const fmt = (iso, o) => new Date(iso + "T12:00:00").toLocaleDateString("en-US", o);
+let DATA = null;
+
+function isOffHours(t){
+  const dow = new Date(t.date + "T12:00:00").getDay();
+  return dow === 0 || dow === 6 || (t.start && t.start >= "16:00");
+}
+function isNew(t){ return t.first_seen > DATA.first_run && t.first_seen >= addDays(todayISO, -7); }
+function gradeMatch(g, f){
+  if (!f) return true;
+  if (f === "tk") return /\bTK\b/.test(g);
+  if (f === "k") return /(^|[\s,])(TK|K)-\d/.test(g);
+  if (f === "prek") return /pre-?k/i.test(g);
+  if (f === "k8") return /-8\b/.test(g);
+  return true;
+}
+
+let SCH = {};
+const SELECTS = ["#lang", "#sped", "#start", "#hood"];
+const hm12 = hm => { if (!hm) return ""; let [h, m] = hm.split(":").map(Number); const ap = h >= 12 ? "PM" : "AM"; h = h % 12 || 12; return `${h}:${String(m).padStart(2,"0")} ${ap}`; };
+
+function fillSelect(sel, values, label = v => v){
+  $(sel).insertAdjacentHTML("beforeend", values.map(v => `<option value="${esc(v)}">${esc(label(v))}</option>`).join(""));
+}
+function buildFilters(){
+  const S = DATA.schools, uniq = a => [...new Set(a.filter(Boolean))];
+  fillSelect("#lang", uniq(S.flatMap(s => s.language_tags || [])).sort(), v => v + " program");
+  fillSelect("#sped", uniq(S.flatMap(s => s.special_ed || [])).sort());
+  fillSelect("#start", uniq(S.map(s => s.start)).sort(), v => "Starts " + hm12(v));
+  fillSelect("#hood", uniq(S.map(s => s.neighborhood)).sort());
+  if (!S.some(s => s.neighborhood || s.start || (s.language_tags||[]).length)) $("#more").hidden = true;
+}
+
+function filtered(){
+  const q = $("#q").value.trim().toLowerCase(), grade = $("#grade").value, when = $("#when").value;
+  const lang = $("#lang").value, sped = $("#sped").value, start = $("#start").value, hood = $("#hood").value;
+  const active = SELECTS.filter(s => $(s).value).length;
+  $("#moresum").textContent = active ? `More filters (${active})` : "More filters";
+  const end = when === "all" ? "9999" : addDays(todayISO, +when);
+  return DATA.tours.filter(t =>
+    t.date >= todayISO && t.date <= end &&
+    ($("#showfull").checked || t.status === "open") &&
+    (!q || t.school.toLowerCase().includes(q)) &&
+    gradeMatch(t.grades, grade) &&
+    (!$("#offhours").checked || isOffHours(t)) &&
+    (!$("#newonly").checked || isNew(t)) &&
+    (!lang || (SCH[t.school]?.language_tags || []).includes(lang)) &&
+    (!sped || (SCH[t.school]?.special_ed || []).includes(sped)) &&
+    (!start || SCH[t.school]?.start === start) &&
+    (!hood || SCH[t.school]?.neighborhood === hood));
+}
+
+function render(){
+  const tours = filtered(), notes = Object.fromEntries(DATA.schools.map(s => [s.name, s.note]));
+  const open = tours.filter(t => t.status === "open").length;
+  $("#count").textContent = `${open} open` + (tours.length > open ? `, ${tours.length - open} full` : "");
+  if (!tours.length){
+    $("#list").innerHTML = `<div class="empty"><p>No tours match these filters.</p><button type="button" id="reset">Clear filters</button></div>`;
+    $("#reset").onclick = () => { $("#q").value=""; $("#grade").value=""; $("#when").value="all"; SELECTS.forEach(x => $(x).value = "");
+      ["#offhours","#newonly","#showfull"].forEach(s => $(s).checked = false); render(); };
+    return;
+  }
+  const byDay = {};
+  tours.forEach(t => (byDay[t.date] ??= []).push(t));
+  $("#list").innerHTML = Object.entries(byDay).map(([d, ts]) => {
+    const dow = new Date(d + "T12:00:00").getDay(), weekend = dow === 0 || dow === 6;
+    return `<section class="day" aria-label="${fmt(d,{weekday:"long",month:"long",day:"numeric"})}">
+      <div class="date${weekend ? " weekend" : ""}"><span class="dow">${fmt(d,{weekday:"short"})}</span><span class="num">${fmt(d,{day:"numeric"})}</span><span class="mon">${fmt(d,{month:"short"})}</span></div>
+      <ul class="tours">${ts.map(t => card(t, notes[t.school])).join("")}</ul></section>`;
+  }).join("");
+}
+
+function card(t, note){
+  const full = t.status !== "open", tags = [], sc = SCH[t.school] || {};
+  const meta = [];
+  if (sc.start) meta.push(`<span>School day <b>${hm12(sc.start)}${sc.end ? "\u2013" + hm12(sc.end) : ""}</b></span>`);
+  if (sc.neighborhood) meta.push(`<span>${esc(sc.neighborhood)}</span>`);
+  (sc.languages || []).forEach(l => meta.push(`<span class="lang">${esc(l)}</span>`));
+  const sped = (sc.special_ed || []).length && !full
+    ? `<details class="sped"><summary>Special education (${sc.special_ed.length})</summary><ul>${sc.special_ed.map(x => `<li>${esc(x)}</li>`).join("")}</ul></details>` : "";
+  if (isNew(t) && !full) tags.push(`<span class="tag new">New</span>`);
+  if (t.start && t.start >= "16:00") tags.push(`<span class="tag">Evening</span>`);
+  if (full) tags.push(`<span class="tag">Full${t.full_since ? " since " + fmt(t.full_since,{month:"short",day:"numeric"}) : ""}</span>`);
+  return `<li class="tour${full ? " full" : ""}">
+    <div class="top"><span class="time">${esc(t.time)}</span><span class="school">${esc(t.school)}</span><span class="grades">${esc(t.grades)}</span><span class="tags">${tags.join("")}</span></div>
+    ${meta.length && !full ? `<div class="meta">${meta.join("")}</div>` : ""}
+    ${note ? `<p class="note">${esc(note)}</p>` : ""}
+    ${sped}
+    <div class="actions"><a href="${esc(t.link)}" target="_blank" rel="noopener">Sign up</a>${t.start ? `<button type="button" data-ics="${esc(t.id)}">Add to calendar</button>` : ""}${sc.profile_url ? `<a href="${esc(sc.profile_url)}/details" target="_blank" rel="noopener">School details</a>` : ""}</div>
+  </li>`;
+}
+
+function downloadICS(id){
+  const t = DATA.tours.find(x => x.id === id); if (!t) return;
+  const stamp = (d, hm) => d.replace(/-/g,"") + "T" + hm.replace(":","") + "00";
+  const ics = ["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//SF school tours//EN","BEGIN:VEVENT",
+    "UID:" + encodeURIComponent(t.id) + "@sf-school-tours",
+    "DTSTAMP:" + new Date().toISOString().replace(/[-:]/g,"").slice(0,15) + "Z",
+    "DTSTART;TZID=America/Los_Angeles:" + stamp(t.date, t.start),
+    "DTEND;TZID=America/Los_Angeles:" + stamp(t.date, t.end || t.start),
+    "SUMMARY:School tour: " + t.school,
+    "DESCRIPTION:Confirm your spot on the sign-up form: " + t.link,
+    "URL:" + t.link, "END:VEVENT","END:VCALENDAR"].join("\r\n");
+  const a = Object.assign(document.createElement("a"), {
+    href: URL.createObjectURL(new Blob([ics], {type: "text/calendar"})),
+    download: t.school.replace(/[^\w]+/g,"-") + "-tour.ics"});
+  document.body.appendChild(a); a.click(); a.remove();
+}
+
+function footer(){
+  const closed = DATA.schools.filter(s => s.status);
+  const upd = new Date(DATA.updated);
+  $("#footer").innerHTML = `
+    ${closed.length ? `<h2>Schools with no open tour times</h2><ul>${closed.map(s =>
+      `<li><strong>${esc(s.name)}</strong>: ${esc(s.status)}${s.link ? ` (<a href="${esc(s.link)}" target="_blank" rel="noopener">form</a>)` : ""}</li>`).join("")}</ul>` : ""}
+    <h2>About this list</h2>
+    <p>Tour times are pulled from each school's Google Form, linked from the <a href="${esc(DATA.source)}" target="_blank" rel="noopener">SFUSD school tours page</a>. Full tours are times that dropped off a school's form, usually because they filled up and occasionally because they were cancelled. Always confirm on the form before you go.</p>
+    <p>School hours, neighborhoods, and programs come from each school's SFUSD details page and are refreshed weekly. The <a href="https://www.sfusd.edu/schools/enroll/discover/school-finder" target="_blank" rel="noopener">SFUSD School Finder</a> has more filters, including distance from your address.</p>
+    <p>Last updated ${upd.toLocaleString("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit",timeZone:"America/Los_Angeles"})} Pacific. <a href="data/tours.csv">Download as a spreadsheet</a>.</p>
+    <p>Not affiliated with SFUSD.</p>`;
+}
+
+function setFiltersHeight(){
+  const sticky = getComputedStyle($("#filters")).position === "sticky";
+  document.documentElement.style.setProperty("--filters-h", sticky ? ($("#filters").offsetHeight + 8) + "px" : "8px");
+}
+
+fetch("data/tours.json", {cache: "no-store"}).then(r => { if (!r.ok) throw 0; return r.json(); }).then(d => {
+  DATA = d;
+  SCH = Object.fromEntries(d.schools.map(s => [s.name, s]));
+  buildFilters();
+  const upcoming = d.tours.filter(t => t.date >= todayISO && t.status === "open");
+  const schools = new Set(upcoming.map(t => t.school)).size;
+  const upd = new Date(d.updated).toLocaleString("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit",timeZone:"America/Los_Angeles"});
+  $("#stats").textContent = `${upcoming.length} open tour times at ${schools} schools. Updated ${upd}.`;
+  ["#q","#grade","#when","#offhours","#newonly","#showfull", ...SELECTS].forEach(s => $(s).addEventListener("input", render));
+  $("#list").addEventListener("click", e => { const b = e.target.closest("[data-ics]"); if (b) downloadICS(b.dataset.ics); });
+  setFiltersHeight(); addEventListener("resize", setFiltersHeight);
+  render(); footer();
+}).catch(() => {
+  $("#stats").textContent = "Tour data hasn't been generated yet. Run the refresh workflow in GitHub Actions, then reload.";
+});
+</script>
+</body>
+</html>
