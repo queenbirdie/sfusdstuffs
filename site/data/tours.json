@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T21:31-07:00",
+ "updated": "2026-10-05T22:02-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -8,560 +8,1460 @@
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfyup35MI3qBYfzCCaEGEyWOLe6kiLhILyenjvolpGXnRhiOg/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/alamo-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Richmond",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Moderate/severe with autism focus"
+   ]
   },
   {
    "name": "Alvarado Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSdKQlam4uOWYeqIf5d9CCQB1sjkJTuvQaIHqvWFX1PxiCDg3w/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/alvarado-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Noe Valley",
+   "languages": [
+    "Spanish Dual Language Immersion"
+   ],
+   "language_tags": [
+    "Spanish"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Moderate/severe"
+   ]
   },
   {
    "name": "Argonne Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSeatjaXQ7YNYvE2OAuU4TU43BbDXquqqKRN9VzJZ-qOnV1NgA/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/argonne-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Richmond",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Mild/moderate with autism focus"
+   ]
   },
   {
    "name": "Argonne Early Education School",
    "grades": "Pre-K, TK",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfA3NEtldkl2_9KJzIRHMvydNBr1iywRMp5MUGCh6DwJw9Xxw/viewform",
    "note": "TK feeds into Jefferson ES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/argonne-early-education-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Inner Richmond",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Integrated General Education Class (PK only)"
+   ]
   },
   {
    "name": "Bryant Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSf26_LledLvcRk10HF6XTZM_INrgS6qrXpULVXp-xU37DZLmQ/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/bryant-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Mission",
+   "languages": [
+    "Spanish Biliteracy Program"
+   ],
+   "language_tags": [
+    "Spanish"
+   ],
+   "special_ed": [
+    "PreK Special Day Class",
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Buena Vista Horace Mann TK-8 School",
    "grades": "TK-8",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSeoHnQj1m7RCu4EHleNs_bALD_iZ4I0Q0299yTnF1K2fiyTkA/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "",
+   "start": null,
+   "end": null,
+   "neighborhood": "",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": []
   },
   {
    "name": "Carmichael\u00a0TK-8 School",
    "grades": "Pre-K, TK-8",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSd0b_u5eqFVQ6GV8iU0j48ExYx-qrKpYpGB2xvSpOHEo28biA/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "",
+   "start": null,
+   "end": null,
+   "neighborhood": "",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": []
   },
   {
    "name": "Carver Elementary",
    "grades": "Pre-K, TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSectKbpUZwfqgjbKJ6juyO_Nk6PI1qrwC27OY4O02V3kcnTEw/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/dr-george-washington-carver-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Bayview",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Chavez Elementary",
    "grades": "Pre-K, TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSf_VUj49rSeMSpY9tw_IhcP1rq6Q7P5OpnUq3YF7HzQGLw68g/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/cesar-chavez-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Mission",
+   "languages": [
+    "Spanish Biliteracy Program"
+   ],
+   "language_tags": [
+    "Spanish"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Deaf and hard of hearing (total communication)"
+   ]
   },
   {
    "name": "Chin Elementary",
    "grades": "K-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSeYdzPVlHgSsS5gsW7BVxzyyZkEYLeKBJcvk0HwlMeuEPjTJA/viewform",
    "note": "TK feeder at Stockton EES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/john-yehall-chin-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "North Beach",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Chinese Immersion School",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSc5PAj7fjP641XA0kC_KUbXZvKIM7pBwzWCfBU-NRUV838GDQ/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/chinese-immersion-school-de-avila-zhongwenchenjinxuexiao",
+   "start": null,
+   "end": null,
+   "neighborhood": "Haight Ashbury",
+   "languages": [
+    "Cantonese Dual Language Immersion"
+   ],
+   "language_tags": [
+    "Cantonese"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Clarendon Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSeQNbeIX60U5mM4M-lF4cHNR6f23sgt98Cvab5lqpSEgtmaKA/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/clarendon-alternative-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Twin Peaks",
+   "languages": [
+    "Japanese Foreign Language in Elementary School (FLES) Program"
+   ],
+   "language_tags": [
+    "Japanese"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Cleveland Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSdSyTo2pkf45UnefaUTJ4jFa2nYzmqx1FvDpsoRD1SDj86tvw/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/cleveland-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Excelsior",
+   "languages": [
+    "Spanish Biliteracy Program"
+   ],
+   "language_tags": [
+    "Spanish"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Cobb Elementary",
    "grades": "Pre-K, TK-5",
    "link": "https://forms.gle/6NdeYvMnrFGicyKQA",
    "note": "",
-   "status": "Couldn't read form (form data not found (closed, moved, or sign-in required))"
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/dr-william-l-cobb-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Lower Pacific Heights",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "PreK Special Day Class",
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Drew Elementary",
    "grades": "Toddler, Pre-K, TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSf9c_ZCodOW06O6l2HxbMQ3kU8a8AxoZU3-Ojevz723lyqR8Q/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/dr-charles-r-drew-college-preparatory-academy",
+   "start": null,
+   "end": null,
+   "neighborhood": "Bayview",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": []
   },
   {
    "name": "El Dorado Elementary",
    "grades": "Pre-K, TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSedbO2as7n1UncAj_F4Pm9fdlQduEZTqaWtRqsQ-E5Ab7ciOQ/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/el-dorado-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Visitacion Valley",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "PreK Special Day Class",
+    "Related Services Only (Speech Only/No SAI)",
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Feinstein Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSd3pWaENmETjb2yHFMj8VlI-4QhjeJWq3GaumCDw81El7uZhQ/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/dianne-feinstein-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Parkside/Sunset",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "SOAR (Success, Opportunity, Achievement, Resiliency formerly known as ED or Emotionally Disturbed)"
+   ]
   },
   {
    "name": "Flynn Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSerTiL3KN1PMSb3nsLCEmV0Cftm0YtziFTJtyWeUObJCGEEUA/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/leonard-r-flynn-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Bernal Heights",
+   "languages": [
+    "Spanish Dual Language Immersion"
+   ],
+   "language_tags": [
+    "Spanish"
+   ],
+   "special_ed": [
+    "Integrated General Education Class (TK)",
+    "Resource Specialist Program Services",
+    "SOAR (Success, Opportunity, Achievement, Resiliency formerly known as ED or Emotionally Disturbed)"
+   ]
   },
   {
    "name": "Garfield Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSd6e6v-GNRoUbfilSWY2kaq6SpW8W6suTt26nc62cOTJ2llTg/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/garfield-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "North Beach",
+   "languages": [
+    "Cantonese Dual Language Immersion"
+   ],
+   "language_tags": [
+    "Cantonese"
+   ],
+   "special_ed": [
+    "Learning Center 50%+ of the day; assigned to GE",
+    "Resource Specialist Program Services",
+    "Separate class - Mild/moderate with autism focus"
+   ]
   },
   {
    "name": "Glen Park Elementary",
    "grades": "K-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSeorR9G6wD922pX3GX1ngOZwK4UrNAKdcRLmd6PtIRhDGlgOA/viewform",
    "note": "TK feeder at Mission Education Center EES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/glen-park-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Glen Park",
+   "languages": [
+    "Spanish Biliteracy Program"
+   ],
+   "language_tags": [
+    "Spanish"
+   ],
+   "special_ed": [
+    "Separate class - Moderate/severe with autism focus"
+   ]
   },
   {
    "name": "Grattan Elementary",
    "grades": "Pre-K, TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfGKB9rGl5ZIy15j8V6KFqp7M4NvVaIOW0YGDBvsRaZyBnxuA/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/grattan-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Haight Ashbury",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "PreK Special Day Class",
+    "Resource Specialist Program Services",
+    "Separate class - Moderate/severe with autism focus"
+   ]
   },
   {
    "name": "Guadalupe Elementary",
    "grades": "Pre-K, TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKKHjc9cnCtCVoJVwOdSCrn-oeoZf7mO6aybxVQTOvaY_Fxg/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/guadalupe-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Excelsior",
+   "languages": [
+    "Spanish Biliteracy Program"
+   ],
+   "language_tags": [
+    "Spanish"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Harte Elementary",
    "grades": "Pre-K, TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSeOiClzysiFbt8-BQEg36QFFEDNDTKQyt23M9vkTXxyN7rRNw/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/bret-harte-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Bayview",
+   "languages": [
+    "Spanish Dual Language Immersion"
+   ],
+   "language_tags": [
+    "Spanish"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Mild/moderate"
+   ]
   },
   {
    "name": "Hillcrest Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfdSiVr8KU6feah_nrffWnx3CiGO4fJm2A2LxaOzFlyaz8YpQ/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/hillcrest-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Excelsior",
+   "languages": [
+    "Spanish Biliteracy Program"
+   ],
+   "language_tags": [
+    "Spanish"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Mild/moderate"
+   ]
   },
   {
    "name": "Huerta Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLSeBtM_CR7MwfcbWXyjN2kIqp9lZuAG8sNFPLPoSaiRhMaTPrg/viewform",
    "note": "TK onsite, and additional TK feeder at Mission Education Center EES (Spanish Immersion)",
-   "status": "Full: interest list only"
+   "status": "Full: interest list only",
+   "profile_url": "https://www.sfusd.edu/school/dolores-huerta-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Glen Park",
+   "languages": [
+    "Spanish Dual Language Immersion",
+    "Spanish Dual Language Learner Pre-Kindergarten"
+   ],
+   "language_tags": [
+    "Spanish"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Moderate/severe"
+   ]
   },
   {
    "name": "Jefferson Elementary",
    "grades": "K-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfiOapBapE-eJSSMJOSEL6y68F1ZR7BHfbX7KcphdQBEDgKvg/viewform",
    "note": "TK feeder at Argonne EES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/jefferson-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Inner Sunset",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Mild/moderate with autism focus"
+   ]
   },
   {
    "name": "Key Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSf9qtSo8KlkBd1Z8Eanxz6W7kd5pZL-fA-AqdbLG-RVeoGxTA/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/francis-scott-key-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Outer Sunset",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Moderate/severe"
+   ]
   },
   {
    "name": "Lafayette Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSdWeBMWLMuRmKa-WpEhian25H7mBcNmbLHhSuf4IBdDaoHDYA/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/lafayette-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Outer Richmond",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Deaf and hard of hearing (auditory/oral)"
+   ]
   },
   {
    "name": "Lakeshore Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLScFcHIVR7h9CSlF2qNtgyeSKoN1qmImmxE87YjT4rUxdjJncg/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/lakeshore-alternative-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Lakeshore",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Mild/moderate with autism focus"
+   ]
   },
   {
    "name": "Lau Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSe-A0kP43BPsFL7cZgjbnCiNTUYprn5ASKyES7LaG937-kv8w/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/gordon-j-lau-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Chinatown",
+   "languages": [
+    "Cantonese Biliteracy Program"
+   ],
+   "language_tags": [
+    "Cantonese"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Lawton Elementary",
    "grades": "TK-8",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSc9jhBJ9eLBUUoRVQPYLb6sKmBLVl_c14cpvPFQlW3hIdQoJA/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/lawton-alternative-school-k-8",
+   "start": null,
+   "end": null,
+   "neighborhood": "Outer Sunset",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Moderate/severe"
+   ]
   },
   {
    "name": "Lee Newcomer School",
    "grades": "K-5",
    "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLSdWgfgDpxisiyW3TuDWUxg1Pt9FyE9zDcm9Xc3WSKztPrx7MQ/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/edwin-and-anita-lee-newcomer-school-limengxiankanglixinyiminxuexiao",
+   "start": null,
+   "end": null,
+   "neighborhood": "Chinatown",
+   "languages": [
+    "Chinese Newcomer Program"
+   ],
+   "language_tags": [
+    "Chinese"
+   ],
+   "special_ed": [
+    "Integrated General Education Class (PK only)"
+   ]
   },
   {
    "name": "Lilienthal TK-8 School",
    "grades": "K-8",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSddb8ggymi3fjB7lnNbw058u4V930lgzl9yV06QtyYxjVkxjQ/viewform",
    "note": "TK feeder at Tule Elk Park EES",
-   "status": ""
+   "status": "",
+   "profile_url": "",
+   "start": null,
+   "end": null,
+   "neighborhood": "",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": []
   },
   {
    "name": "Longfellow Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSe4J0xoqDn7-qJ79RRUXwzexlDE27KbXuX0GUdEqmHTe-aUKQ/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/longfellow-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Outer Mission",
+   "languages": [
+    "Filipino Foreign Language in Elementary School (FLES) Program",
+    "Spanish Biliteracy Program"
+   ],
+   "language_tags": [
+    "Filipino",
+    "Spanish"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Mild/moderate"
+   ]
   },
   {
    "name": "Malcolm X Elementary",
    "grades": "Pre-K, TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfS9Wt--Mx3DyoDYNNpt9vKUG7lSr14DeOLSrAw7mmS3HKPfQ/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/malcolm-x-academy-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Bayview",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Learning Center 50%+ of the day; assigned to GE",
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Mandarin Immersion TK-8",
    "grades": "TK-K",
    "link": "",
    "note": "This brand new school does not yet have tours available. Please check back periodically; we will add tour dates as soon as we can.",
-   "status": "No sign-up form posted yet"
+   "status": "No sign-up form posted yet",
+   "profile_url": "",
+   "start": null,
+   "end": null,
+   "neighborhood": "",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": []
   },
   {
    "name": "Marshall Elementary",
    "grades": "K-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfEGpQSoxxXXDEYt4eG6cafC9XJC64pWdx-Z88UfcMbYWE8Nw/viewform",
    "note": "TK feeder at Mission Education Center EES (Spanish Immersion)",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/marshall-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Mission",
+   "languages": [
+    "Spanish Dual Language Immersion"
+   ],
+   "language_tags": [
+    "Spanish"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "McCoppin Elementary",
    "grades": "Pre-K,\u00a0TK-5",
    "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLSdR2bW1uJplVZ6Ao3t9CvljW_k4QNQc9-Xb8c_7-WSrzT0ykg/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "",
+   "start": null,
+   "end": null,
+   "neighborhood": "",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": []
   },
   {
    "name": "McKinley Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSeMI529Q3BcAO3Jf3CskqwYZfP-UxMpl-nAURYFQxpeFe_Dlw/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/mckinley-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Castro/Upper Market",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Separate class - Mild/moderate with autism focus"
+   ]
   },
   {
    "name": "McLaren Early Education School",
    "grades": "Pre-K, TK",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKzxUe3rsV_Rwny_XMvVMuJYEl7tI6at7CGXZF10QAlpPcFw/viewform",
    "note": "TK feeds into Cleveland ES or Taylor ES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/john-mclaren-early-education-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Excelsior",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Integrated General Education Class (PK only)",
+    "PreK Inclusion",
+    "PreK Special Day Class",
+    "Separate class - Mild/moderate"
+   ]
   },
   {
    "name": "Milk Civil Rights Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSf6JQicVERGYqNFPr5V1aVjd8UwFs4ifeZdLKXSB0_bBsWzIA/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/harvey-milk-civil-rights-academy",
+   "start": null,
+   "end": null,
+   "neighborhood": "Castro/Upper Market",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Miraloma Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLScvxCBQc8jeiYfDQiKCUX6FfFdRiEgUbLrYOnBW-xkaWTl7Tw/viewform",
    "note": "TK onsite, and additional TK feeder at Mission Education Center EES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/miraloma-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Miraloma",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Mild/moderate with autism focus"
+   ]
   },
   {
    "name": "Mission Bay Elementary School",
    "grades": "Pre-K, TK-1",
    "link": "https://forms.gle/rDwhWjjHnDj4qTQ29",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/mission-bay-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Mission Bay",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": []
   },
   {
    "name": "Mission Education Center Early Education School",
    "grades": "Pre-K, TK",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSe3387bwlTqXyaYl7959WCXvKNiQcG4vE5l50ScIXofau-sug/viewform",
    "note": "General Education TK feeds into Glen Park ES, Miraloma ES, Sunnyside ES, or West Portal ES Spanish Immersion TK feeds into Huerta ES or Marshall ES",
-   "status": "Full: interest list only"
+   "status": "Full: interest list only",
+   "profile_url": "",
+   "start": null,
+   "end": null,
+   "neighborhood": "",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": []
   },
   {
    "name": "Monroe Elementary",
    "grades": "K-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSc5It2I53pZzYoM6onEQGMEYAyJyhZcVkIazHlh8BUxFQILMA/viewform",
    "note": "TK feeder at McLaren EES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/monroe-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Excelsior",
+   "languages": [
+    "Cantonese Biliteracy Program",
+    "Spanish Dual Language Immersion"
+   ],
+   "language_tags": [
+    "Cantonese",
+    "Spanish"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Moscone Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSd_oPcd9kYNy9L9iWU-1v-wXJwOY8eIO3N2onmr8WRPGDdqWA/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/george-r-moscone-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Mission",
+   "languages": [
+    "Cantonese Biliteracy Program",
+    "Cantonese Dual Language Learner Pre-Kindergarten",
+    "Spanish Biliteracy Program",
+    "Spanish Dual Language Learner Pre-Kindergarten"
+   ],
+   "language_tags": [
+    "Cantonese",
+    "Spanish"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Muir Elementary",
    "grades": "Pre-K, TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLScgzmbzKBWHP2HHNWFVBwMsgkQUEUrxsG1H7enUwfGKV0Pkzw/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/john-muir-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Lower Haight/Western Addition",
+   "languages": [
+    "Spanish Biliteracy Program"
+   ],
+   "language_tags": [
+    "Spanish"
+   ],
+   "special_ed": [
+    "PreK Special Day Class",
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "New Traditions Elementary",
    "grades": "K-5",
    "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLSdttbyVviotDeHYJWbJOjaRLGrE-E_yMMf28mRxCuE_MEYZRg/viewform",
    "note": "TK feeder at Tule Elk Park EES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/new-traditions-creative-arts-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Haight Ashbury",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Noriega Early Education School",
    "grades": "Pre-K, TK",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLScRG2VhCh2sGcvKfFGy5CF-5IN5bLaxnpk7iTNk2cjtUTCZ1w/viewform",
    "note": "TK feeds into Sunset ES or Ulloa ES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/noriega-early-education-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Outer Sunset",
+   "languages": [
+    "Cantonese Dual Language Learner Pre-Kindergarten"
+   ],
+   "language_tags": [
+    "Cantonese"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Ortega Elementary",
    "grades": "Pre-K, TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSeXLRezEAhptKqZlawmKuDQgHshr6-NDNgy5bOHBSXXFtD_Uw/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/jose-ortega-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Ocean View",
+   "languages": [
+    "Mandarin Dual Language Immersion"
+   ],
+   "language_tags": [
+    "Mandarin"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Parker Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSeKa9IhWVOnWqWTpeN6DK3Y_rDhBncD2eAiIRI2z8zSZaAjSA/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/jean-parker-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Chinatown",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Parks Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLScRupKDwHx7u8dvNz9HvzP1N2TWOn8EvnaZbEP9kM4tvZfKKA/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/rosa-parks-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Western Addition",
+   "languages": [
+    "Japanese Foreign Language in Elementary School (FLES) Program",
+    "Japanese World Language"
+   ],
+   "language_tags": [
+    "Japanese"
+   ],
+   "special_ed": [
+    "PreK Special Day Class",
+    "Resource Specialist Program Services",
+    "Separate class - Mild/moderate with autism focus"
+   ]
   },
   {
    "name": "Peabody Elementary",
    "grades": "K-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSdEiEUA3MjhN4g5vzKRwxvifBptvCl5d4ucOHMq0hShg5ZtWA/viewform",
    "note": "TK feeder at Tule Elk Park EES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/george-peabody-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Inner Richmond",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Mild/moderate"
+   ]
   },
   {
    "name": "Redding Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLScfMa_KjszAdGKg_FlO8yHs5e3E-msXD0VplZSOk_9s2Sh-Hw/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/redding-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Nob Hill",
+   "languages": [
+    "Arabic Foreign Language in Elementary School (FLES) Program"
+   ],
+   "language_tags": [
+    "Arabic"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Revere TK-8 School",
    "grades": "Pre-K, TK-8",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfg19NDZGaA_GpLWWpHE08OqXM7cTCzEe-0HUQfSUX40ep1qA/viewform",
    "note": "",
-   "status": "Full: interest list only"
+   "status": "Full: interest list only",
+   "profile_url": "",
+   "start": null,
+   "end": null,
+   "neighborhood": "",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": []
   },
   {
    "name": "Rodriguez Early Education School",
    "grades": "Pre-K, TK",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSeZ4aoLQGhOVW5cgYvn6JQcgYeLr-4vAx-aqezRTvXvDR6P7g/viewform",
    "note": "Spanish Immersion TK feeds into Webster ES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/zaida-t-rodriguez-early-education-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Mission",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": []
   },
   {
    "name": "Rooftop TK-8 School",
    "grades": "TK-8",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfI7C8Sw-1dLuTFqtQHdeptxR8V2EO53sone66feTs0q2iAkA/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/rooftop-school-tk-8",
+   "start": null,
+   "end": null,
+   "neighborhood": "Twin Peaks",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "San Francisco Community TK-8",
    "grades": "TK-8",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSevIbM2tFhpjTOu4JWh9Q2J_-0JgEaSg5m46UcfBdBtyZ_VVw/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "",
+   "start": null,
+   "end": null,
+   "neighborhood": "",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": []
   },
   {
    "name": "San Francisco Public Montessori Elementary",
    "grades": "Pre-K, TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLScKSAeBtjyyyOSlW6dsnQNKD9sLB0rZ1raCPQb0ZDzWNPTqUw/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/san-francisco-public-montessori",
+   "start": null,
+   "end": null,
+   "neighborhood": "Pacific Heights",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Sanchez Elementary",
    "grades": "Pre-K, TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSe3nEx3wE-4PVwnjm6ZHa74b76ptSiy4khPuq5I_z2DRuJHfw/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/sanchez-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Mission / Castro / Upper Market",
+   "languages": [
+    "Spanish Biliteracy Program"
+   ],
+   "language_tags": [
+    "Spanish"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Mild/moderate"
+   ]
   },
   {
    "name": "Serra Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfpe6Rhf-j-DLWD9-mDxFUHlcoByZGxUEYxAc8PrE77qPHwzQ/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/junipero-serra-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Bernal Heights",
+   "languages": [
+    "Spanish Biliteracy Program"
+   ],
+   "language_tags": [
+    "Spanish"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Sheridan Elementary",
    "grades": "Pre-K, TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSezIpXttoKr28anB_YG88ceRIcge0tYoTIY1FmjsJJsBWbJuA/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/sheridan-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Ocean View",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "PreK Special Day Class",
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Sherman Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSdOa41ZAnNoLqSvf1mCs931E-9X2ZRuL0Y-fKvjIsMGOGsqrA/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/sherman-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Marina",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Mild/moderate with autism focus"
+   ]
   },
   {
    "name": "Sloat Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLScfg1TMBfqzFHtdIVUccl7snTBcdE8e4AQv-c49NaamoceQCQ/viewform",
    "note": "TK onsite, and additional TK feeder at San Miguel EES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/commodore-sloat-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Lakeside",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Spring Valley Science Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLSco8QW_aHb11GesZcZo8z4NlDvuVQ30Ps1YkUOS-TavXIkK0w/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/spring-valley-science-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Nob Hill",
+   "languages": [
+    "Cantonese Biliteracy Program",
+    "Spanish Biliteracy Program"
+   ],
+   "language_tags": [
+    "Cantonese",
+    "Spanish"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Starr King Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSeZKcjtmijMw6YrRJXPqVU2A4pPT3MrPgRL4eUxeSCWT4Ebxg/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/starr-king-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Potrero Hill",
+   "languages": [
+    "Mandarin Dual Language Immersion"
+   ],
+   "language_tags": [
+    "Mandarin"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Moderate/severe with autism focus"
+   ]
   },
   {
    "name": "Stevenson Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfqTrSNlVPi1gRA3DyNN3sHJdqlSHDvSvouNBe4IAnbuGgVxA/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/robert-louis-stevenson-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Outer Sunset",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Mild/moderate"
+   ]
   },
   {
    "name": "Stockton Early Education School",
    "grades": "Toddler, Pre-K, TK",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLScQCvqzTgXNf6l1Y7pcsFykC4EYKUA79TEqh4TjU9GnXiSSDg/viewform",
    "note": "TK feeds into Chin ES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/commodore-stockton-early-education-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Chinatown",
+   "languages": [
+    "Cantonese Dual Language Learner Pre-Kindergarten"
+   ],
+   "language_tags": [
+    "Cantonese"
+   ],
+   "special_ed": []
   },
   {
    "name": "Sunnyside Elementary",
    "grades": "K-5",
    "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLSeq3ihwxPo-L8UWZwupaa9ay1l5tN35OSyZ1clIfwP8YLS-mw/viewform",
    "note": "TK feeder at San Miguel EES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/sunnyside-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Sunnyside",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Moderate/severe"
+   ]
   },
   {
    "name": "Sunset Elementary",
    "grades": "K-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSdvGEoQuVBcdOgBDkkWN-rJOF97gor1y33HV5POHkW22RWDnA/viewform",
    "note": "TK feeder at Noriega EES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/sunset-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Outer Sunset",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Moderate/severe with autism focus"
+   ]
   },
   {
    "name": "Sutro Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLSewZ33SLL-W-AI5KiIvTxr8807MjHMxVCpJRAYdGttPt7aOrw/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/sutro-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Inner Richmond",
+   "languages": [
+    "Cantonese Biliteracy Program"
+   ],
+   "language_tags": [
+    "Cantonese"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Taylor Elementary",
    "grades": "Pre-K, TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSf5EehOkCafPlOJ8uRb_4QSrueO4r2QcMrH4dRdQHyaErSXxg/viewform",
    "note": "TK onsite, and additional TK feeder at McLaren EES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/er-taylor-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Portola",
+   "languages": [
+    "Cantonese Biliteracy Program",
+    "Spanish Biliteracy Program"
+   ],
+   "language_tags": [
+    "Cantonese",
+    "Spanish"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Mild/moderate with autism focus"
+   ]
   },
   {
    "name": "Tenderloin Community Elementary",
    "grades": "Pre-K, TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSf5fWGyNiZE_vwwUkjq24zpYt7v7vRcneobhzWZiQJd54E4zg/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/tenderloin-community-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Downtown/Civic Center",
+   "languages": [
+    "Vietnamese Foreign Language in Elementary School (FLES) Program"
+   ],
+   "language_tags": [
+    "Vietnamese"
+   ],
+   "special_ed": [
+    "SOAR (Success, Opportunity, Achievement, Resiliency formerly known as ED or Emotionally Disturbed)"
+   ]
   },
   {
    "name": "Tule Elk Park Early Education School",
    "grades": "Pre-K, TK",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSe5_WH3IJ3NRXqnIduat7LFflffTwYiWmXaGWWSCzzmBlrD2g/viewform",
    "note": "TK feeds into Lilienthal K-8, New Traditions ES, Peabody ES, or Yick Wo ES",
-   "status": "Full: interest list only"
+   "status": "Full: interest list only",
+   "profile_url": "https://www.sfusd.edu/school/tule-elk-park-early-education-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Marina",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Integrated General Education Class (PK only)",
+    "Integrated General Education Class (TK)",
+    "Resource Specialist Program Services",
+    "Separate class - Mild/moderate",
+    "Separate class - Moderate/severe"
+   ]
   },
   {
    "name": "Ulloa Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLScYZQK1WwjHRZW42pv-fR0Jaym0GzDui1KHksSAoU7sDsNkfg/viewform",
    "note": "TK onsite, and additional TK feeder at Noriega EES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/ulloa-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Outer Sunset",
+   "languages": [
+    "Cantonese Biliteracy Program"
+   ],
+   "language_tags": [
+    "Cantonese"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Visitacion Valley Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLSd-eCDJ_W2Q1xgCEhcPitOMdJq4xofWgggM0EVyNSlzFeXCuQ/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/visitacion-valley-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Visitacion Valley",
+   "languages": [
+    "Cantonese Biliteracy Program"
+   ],
+   "language_tags": [
+    "Cantonese"
+   ],
+   "special_ed": [
+    "Learning Center 50%+ of the day; assigned to GE",
+    "Related Services Only (Speech Only/No SAI)",
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "Webster Elementary",
    "grades": "K-5",
    "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLSfM0lJb3r1nDxHWVugW-S-GiZb97O_1qIgFXgu_K0WBdvKweA/viewform",
    "note": "TK feeder at Rodriguez EES (Spanish Immersion)",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/daniel-webster-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Potrero Hill",
+   "languages": [
+    "Spanish Dual Language Immersion"
+   ],
+   "language_tags": [
+    "Spanish"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   },
   {
    "name": "West Portal Elementary",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSeu4a63PL9LEKD4SIP1g9yYS6nZXfIkaSBOf6_Ls_kjy3BddQ/viewform",
    "note": "TK onsite, and additional TK feeder at Mission Education Center EES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/west-portal-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "West Portal",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": []
   },
   {
    "name": "Yick Wo Elementary School",
    "grades": "K-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSf0go9Rsh8q032i7X8al-Pk2zUHLL1ukUOvUnRRHLM8dhJjaw/viewform",
    "note": "TK feeder at Tule Elk Park EES",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/yick-wo-alternative-elementary-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "North Beach",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Resource Specialist Program Services",
+    "Separate class - Moderate/severe with autism focus"
+   ]
   },
   {
    "name": "Yu K-8 School",
    "grades": "K-8",
    "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLScl4ym57C_rlSI4QNi5sxxZ53dkZ0ERsHimAcUFzedABru_uA/viewform",
    "note": "",
-   "status": ""
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/alice-fong-yu-alternative-school-k-8",
+   "start": null,
+   "end": null,
+   "neighborhood": "Inner Sunset",
+   "languages": [
+    "Cantonese Dual Language Immersion"
+   ],
+   "language_tags": [
+    "Cantonese"
+   ],
+   "special_ed": [
+    "Resource Specialist Program Services"
+   ]
   }
  ],
  "tours": [
@@ -2551,7 +3451,8 @@
    "grades": "Pre-K, TK-5",
    "link": "https://forms.gle/6NdeYvMnrFGicyKQA",
    "date": "2026-11-05",
-   "time": "9:00-10:00 am",
+   "time": "9:00\u201310:00 AM",
+   "raw_time": "9:00-10:00 am",
    "start": "09:00",
    "end": "10:00",
    "status": "open",
@@ -3255,7 +4156,8 @@
    "grades": "Pre-K, TK-5",
    "link": "https://forms.gle/6NdeYvMnrFGicyKQA",
    "date": "2026-11-13",
-   "time": "9:00-10:00 am",
+   "time": "9:00\u201310:00 AM",
+   "raw_time": "9:00-10:00 am",
    "start": "09:00",
    "end": "10:00",
    "status": "open",
@@ -3914,7 +4816,8 @@
    "grades": "Pre-K, TK-5",
    "link": "https://forms.gle/6NdeYvMnrFGicyKQA",
    "date": "2026-11-20",
-   "time": "9:00-10:00 am",
+   "time": "9:00\u201310:00 AM",
+   "raw_time": "9:00-10:00 am",
    "start": "09:00",
    "end": "10:00",
    "status": "open",
@@ -4063,7 +4966,8 @@
    "grades": "Pre-K, TK-5",
    "link": "https://forms.gle/6NdeYvMnrFGicyKQA",
    "date": "2026-11-30",
-   "time": "9:00-10:00 am",
+   "time": "9:00\u201310:00 AM",
+   "raw_time": "9:00-10:00 am",
    "start": "09:00",
    "end": "10:00",
    "status": "open",
@@ -4707,7 +5611,8 @@
    "grades": "Pre-K, TK-5",
    "link": "https://forms.gle/6NdeYvMnrFGicyKQA",
    "date": "2026-12-07",
-   "time": "9:00-10:00 am",
+   "time": "9:00\u201310:00 AM",
+   "raw_time": "9:00-10:00 am",
    "start": "09:00",
    "end": "10:00",
    "status": "open",
@@ -5726,7 +6631,8 @@
    "grades": "Pre-K, TK-5",
    "link": "https://forms.gle/6NdeYvMnrFGicyKQA",
    "date": "2026-12-18",
-   "time": "9:00-10:00 am",
+   "time": "9:00\u201310:00 AM",
+   "raw_time": "9:00-10:00 am",
    "start": "09:00",
    "end": "10:00",
    "status": "open",
@@ -6010,7 +6916,8 @@
    "grades": "Pre-K, TK-5",
    "link": "https://forms.gle/6NdeYvMnrFGicyKQA",
    "date": "2027-01-07",
-   "time": "9:00-10:00 am",
+   "time": "9:00\u201310:00 AM",
+   "raw_time": "9:00-10:00 am",
    "start": "09:00",
    "end": "10:00",
    "status": "open",

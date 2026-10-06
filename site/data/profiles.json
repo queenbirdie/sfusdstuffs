@@ -1,0 +1,1134 @@
+{
+ "Alamo Elementary": {
+  "url": "https://www.sfusd.edu/school/alamo-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Richmond",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Moderate/severe with autism focus"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Alvarado Elementary": {
+  "url": "https://www.sfusd.edu/school/alvarado-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Noe Valley",
+  "languages": [
+   "Spanish Dual Language Immersion"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Moderate/severe"
+  ],
+  "language_tags": [
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Argonne Elementary": {
+  "url": "https://www.sfusd.edu/school/argonne-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Richmond",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Mild/moderate with autism focus"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Argonne Early Education School": {
+  "url": "https://www.sfusd.edu/school/argonne-early-education-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Inner Richmond",
+  "languages": [],
+  "special_ed": [
+   "Integrated General Education Class (PK only)"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Bryant Elementary": {
+  "url": "https://www.sfusd.edu/school/bryant-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Mission",
+  "languages": [
+   "Spanish Biliteracy Program"
+  ],
+  "special_ed": [
+   "PreK Special Day Class",
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Carver Elementary": {
+  "url": "https://www.sfusd.edu/school/dr-george-washington-carver-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Bayview",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Chavez Elementary": {
+  "url": "https://www.sfusd.edu/school/cesar-chavez-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Mission",
+  "languages": [
+   "Spanish Biliteracy Program"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Deaf and hard of hearing (total communication)"
+  ],
+  "language_tags": [
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Chin Elementary": {
+  "url": "https://www.sfusd.edu/school/john-yehall-chin-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "North Beach",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Chinese Immersion School": {
+  "url": "https://www.sfusd.edu/school/chinese-immersion-school-de-avila-zhongwenchenjinxuexiao",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Haight Ashbury",
+  "languages": [
+   "Cantonese Dual Language Immersion"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Cantonese"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Clarendon Elementary": {
+  "url": "https://www.sfusd.edu/school/clarendon-alternative-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Twin Peaks",
+  "languages": [
+   "Japanese Foreign Language in Elementary School (FLES) Program"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Japanese"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Cleveland Elementary": {
+  "url": "https://www.sfusd.edu/school/cleveland-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Excelsior",
+  "languages": [
+   "Spanish Biliteracy Program"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Cobb Elementary": {
+  "url": "https://www.sfusd.edu/school/dr-william-l-cobb-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Lower Pacific Heights",
+  "languages": [],
+  "special_ed": [
+   "PreK Special Day Class",
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Drew Elementary": {
+  "url": "https://www.sfusd.edu/school/dr-charles-r-drew-college-preparatory-academy",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Bayview",
+  "languages": [],
+  "special_ed": [],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "El Dorado Elementary": {
+  "url": "https://www.sfusd.edu/school/el-dorado-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Visitacion Valley",
+  "languages": [],
+  "special_ed": [
+   "PreK Special Day Class",
+   "Related Services Only (Speech Only/No SAI)",
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Feinstein Elementary": {
+  "url": "https://www.sfusd.edu/school/dianne-feinstein-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Parkside/Sunset",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "SOAR (Success, Opportunity, Achievement, Resiliency formerly known as ED or Emotionally Disturbed)"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Flynn Elementary": {
+  "url": "https://www.sfusd.edu/school/leonard-r-flynn-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Bernal Heights",
+  "languages": [
+   "Spanish Dual Language Immersion"
+  ],
+  "special_ed": [
+   "Integrated General Education Class (TK)",
+   "Resource Specialist Program Services",
+   "SOAR (Success, Opportunity, Achievement, Resiliency formerly known as ED or Emotionally Disturbed)"
+  ],
+  "language_tags": [
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Garfield Elementary": {
+  "url": "https://www.sfusd.edu/school/garfield-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "North Beach",
+  "languages": [
+   "Cantonese Dual Language Immersion"
+  ],
+  "special_ed": [
+   "Learning Center 50%+ of the day; assigned to GE",
+   "Resource Specialist Program Services",
+   "Separate class - Mild/moderate with autism focus"
+  ],
+  "language_tags": [
+   "Cantonese"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Glen Park Elementary": {
+  "url": "https://www.sfusd.edu/school/glen-park-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Glen Park",
+  "languages": [
+   "Spanish Biliteracy Program"
+  ],
+  "special_ed": [
+   "Separate class - Moderate/severe with autism focus"
+  ],
+  "language_tags": [
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Grattan Elementary": {
+  "url": "https://www.sfusd.edu/school/grattan-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Haight Ashbury",
+  "languages": [],
+  "special_ed": [
+   "PreK Special Day Class",
+   "Resource Specialist Program Services",
+   "Separate class - Moderate/severe with autism focus"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Guadalupe Elementary": {
+  "url": "https://www.sfusd.edu/school/guadalupe-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Excelsior",
+  "languages": [
+   "Spanish Biliteracy Program"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Harte Elementary": {
+  "url": "https://www.sfusd.edu/school/bret-harte-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Bayview",
+  "languages": [
+   "Spanish Dual Language Immersion"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Mild/moderate"
+  ],
+  "language_tags": [
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Hillcrest Elementary": {
+  "url": "https://www.sfusd.edu/school/hillcrest-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Excelsior",
+  "languages": [
+   "Spanish Biliteracy Program"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Mild/moderate"
+  ],
+  "language_tags": [
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Huerta Elementary": {
+  "url": "https://www.sfusd.edu/school/dolores-huerta-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Glen Park",
+  "languages": [
+   "Spanish Dual Language Immersion",
+   "Spanish Dual Language Learner Pre-Kindergarten"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Moderate/severe"
+  ],
+  "language_tags": [
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Jefferson Elementary": {
+  "url": "https://www.sfusd.edu/school/jefferson-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Inner Sunset",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Mild/moderate with autism focus"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Key Elementary": {
+  "url": "https://www.sfusd.edu/school/francis-scott-key-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Outer Sunset",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Moderate/severe"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Lafayette Elementary": {
+  "url": "https://www.sfusd.edu/school/lafayette-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Outer Richmond",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Deaf and hard of hearing (auditory/oral)"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Lakeshore Elementary": {
+  "url": "https://www.sfusd.edu/school/lakeshore-alternative-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Lakeshore",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Mild/moderate with autism focus"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Lau Elementary": {
+  "url": "https://www.sfusd.edu/school/gordon-j-lau-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Chinatown",
+  "languages": [
+   "Cantonese Biliteracy Program"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Cantonese"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Lawton Elementary": {
+  "url": "https://www.sfusd.edu/school/lawton-alternative-school-k-8",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Outer Sunset",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Moderate/severe"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Lee Newcomer School": {
+  "url": "https://www.sfusd.edu/school/edwin-and-anita-lee-newcomer-school-limengxiankanglixinyiminxuexiao",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Chinatown",
+  "languages": [
+   "Chinese Newcomer Program"
+  ],
+  "special_ed": [
+   "Integrated General Education Class (PK only)"
+  ],
+  "language_tags": [
+   "Chinese"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Longfellow Elementary": {
+  "url": "https://www.sfusd.edu/school/longfellow-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Outer Mission",
+  "languages": [
+   "Filipino Foreign Language in Elementary School (FLES) Program",
+   "Spanish Biliteracy Program"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Mild/moderate"
+  ],
+  "language_tags": [
+   "Filipino",
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Malcolm X Elementary": {
+  "url": "https://www.sfusd.edu/school/malcolm-x-academy-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Bayview",
+  "languages": [],
+  "special_ed": [
+   "Learning Center 50%+ of the day; assigned to GE",
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Marshall Elementary": {
+  "url": "https://www.sfusd.edu/school/marshall-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Mission",
+  "languages": [
+   "Spanish Dual Language Immersion"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "McKinley Elementary": {
+  "url": "https://www.sfusd.edu/school/mckinley-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Castro/Upper Market",
+  "languages": [],
+  "special_ed": [
+   "Separate class - Mild/moderate with autism focus"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "McLaren Early Education School": {
+  "url": "https://www.sfusd.edu/school/john-mclaren-early-education-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Excelsior",
+  "languages": [],
+  "special_ed": [
+   "Integrated General Education Class (PK only)",
+   "PreK Inclusion",
+   "PreK Special Day Class",
+   "Separate class - Mild/moderate"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Milk Civil Rights Elementary": {
+  "url": "https://www.sfusd.edu/school/harvey-milk-civil-rights-academy",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Castro/Upper Market",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Miraloma Elementary": {
+  "url": "https://www.sfusd.edu/school/miraloma-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Miraloma",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Mild/moderate with autism focus"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Mission Bay Elementary School": {
+  "url": "https://www.sfusd.edu/school/mission-bay-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Mission Bay",
+  "languages": [],
+  "special_ed": [],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Monroe Elementary": {
+  "url": "https://www.sfusd.edu/school/monroe-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Excelsior",
+  "languages": [
+   "Cantonese Biliteracy Program",
+   "Spanish Dual Language Immersion"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Cantonese",
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Moscone Elementary": {
+  "url": "https://www.sfusd.edu/school/george-r-moscone-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Mission",
+  "languages": [
+   "Cantonese Biliteracy Program",
+   "Cantonese Dual Language Learner Pre-Kindergarten",
+   "Spanish Biliteracy Program",
+   "Spanish Dual Language Learner Pre-Kindergarten"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Cantonese",
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Muir Elementary": {
+  "url": "https://www.sfusd.edu/school/john-muir-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Lower Haight/Western Addition",
+  "languages": [
+   "Spanish Biliteracy Program"
+  ],
+  "special_ed": [
+   "PreK Special Day Class",
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "New Traditions Elementary": {
+  "url": "https://www.sfusd.edu/school/new-traditions-creative-arts-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Haight Ashbury",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Noriega Early Education School": {
+  "url": "https://www.sfusd.edu/school/noriega-early-education-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Outer Sunset",
+  "languages": [
+   "Cantonese Dual Language Learner Pre-Kindergarten"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Cantonese"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Ortega Elementary": {
+  "url": "https://www.sfusd.edu/school/jose-ortega-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Ocean View",
+  "languages": [
+   "Mandarin Dual Language Immersion"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Mandarin"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Parker Elementary": {
+  "url": "https://www.sfusd.edu/school/jean-parker-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Chinatown",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Parks Elementary": {
+  "url": "https://www.sfusd.edu/school/rosa-parks-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Western Addition",
+  "languages": [
+   "Japanese Foreign Language in Elementary School (FLES) Program",
+   "Japanese World Language"
+  ],
+  "special_ed": [
+   "PreK Special Day Class",
+   "Resource Specialist Program Services",
+   "Separate class - Mild/moderate with autism focus"
+  ],
+  "language_tags": [
+   "Japanese"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Peabody Elementary": {
+  "url": "https://www.sfusd.edu/school/george-peabody-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Inner Richmond",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Mild/moderate"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Redding Elementary": {
+  "url": "https://www.sfusd.edu/school/redding-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Nob Hill",
+  "languages": [
+   "Arabic Foreign Language in Elementary School (FLES) Program"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Arabic"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Rodriguez Early Education School": {
+  "url": "https://www.sfusd.edu/school/zaida-t-rodriguez-early-education-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Mission",
+  "languages": [],
+  "special_ed": [],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Rooftop TK-8 School": {
+  "url": "https://www.sfusd.edu/school/rooftop-school-tk-8",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Twin Peaks",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "San Francisco Public Montessori Elementary": {
+  "url": "https://www.sfusd.edu/school/san-francisco-public-montessori",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Pacific Heights",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Sanchez Elementary": {
+  "url": "https://www.sfusd.edu/school/sanchez-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Mission / Castro / Upper Market",
+  "languages": [
+   "Spanish Biliteracy Program"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Mild/moderate"
+  ],
+  "language_tags": [
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Serra Elementary": {
+  "url": "https://www.sfusd.edu/school/junipero-serra-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Bernal Heights",
+  "languages": [
+   "Spanish Biliteracy Program"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Sheridan Elementary": {
+  "url": "https://www.sfusd.edu/school/sheridan-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Ocean View",
+  "languages": [],
+  "special_ed": [
+   "PreK Special Day Class",
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Sherman Elementary": {
+  "url": "https://www.sfusd.edu/school/sherman-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Marina",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Mild/moderate with autism focus"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Sloat Elementary": {
+  "url": "https://www.sfusd.edu/school/commodore-sloat-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Lakeside",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Spring Valley Science Elementary": {
+  "url": "https://www.sfusd.edu/school/spring-valley-science-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Nob Hill",
+  "languages": [
+   "Cantonese Biliteracy Program",
+   "Spanish Biliteracy Program"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Cantonese",
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Starr King Elementary": {
+  "url": "https://www.sfusd.edu/school/starr-king-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Potrero Hill",
+  "languages": [
+   "Mandarin Dual Language Immersion"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Moderate/severe with autism focus"
+  ],
+  "language_tags": [
+   "Mandarin"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Stevenson Elementary": {
+  "url": "https://www.sfusd.edu/school/robert-louis-stevenson-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Outer Sunset",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Mild/moderate"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Stockton Early Education School": {
+  "url": "https://www.sfusd.edu/school/commodore-stockton-early-education-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Chinatown",
+  "languages": [
+   "Cantonese Dual Language Learner Pre-Kindergarten"
+  ],
+  "special_ed": [],
+  "language_tags": [
+   "Cantonese"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Sunnyside Elementary": {
+  "url": "https://www.sfusd.edu/school/sunnyside-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Sunnyside",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Moderate/severe"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Sunset Elementary": {
+  "url": "https://www.sfusd.edu/school/sunset-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Outer Sunset",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Moderate/severe with autism focus"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Sutro Elementary": {
+  "url": "https://www.sfusd.edu/school/sutro-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Inner Richmond",
+  "languages": [
+   "Cantonese Biliteracy Program"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Cantonese"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Taylor Elementary": {
+  "url": "https://www.sfusd.edu/school/er-taylor-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Portola",
+  "languages": [
+   "Cantonese Biliteracy Program",
+   "Spanish Biliteracy Program"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Mild/moderate with autism focus"
+  ],
+  "language_tags": [
+   "Cantonese",
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Tenderloin Community Elementary": {
+  "url": "https://www.sfusd.edu/school/tenderloin-community-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Downtown/Civic Center",
+  "languages": [
+   "Vietnamese Foreign Language in Elementary School (FLES) Program"
+  ],
+  "special_ed": [
+   "SOAR (Success, Opportunity, Achievement, Resiliency formerly known as ED or Emotionally Disturbed)"
+  ],
+  "language_tags": [
+   "Vietnamese"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Tule Elk Park Early Education School": {
+  "url": "https://www.sfusd.edu/school/tule-elk-park-early-education-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Marina",
+  "languages": [],
+  "special_ed": [
+   "Integrated General Education Class (PK only)",
+   "Integrated General Education Class (TK)",
+   "Resource Specialist Program Services",
+   "Separate class - Mild/moderate",
+   "Separate class - Moderate/severe"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Ulloa Elementary": {
+  "url": "https://www.sfusd.edu/school/ulloa-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Outer Sunset",
+  "languages": [
+   "Cantonese Biliteracy Program"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Cantonese"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Visitacion Valley Elementary": {
+  "url": "https://www.sfusd.edu/school/visitacion-valley-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Visitacion Valley",
+  "languages": [
+   "Cantonese Biliteracy Program"
+  ],
+  "special_ed": [
+   "Learning Center 50%+ of the day; assigned to GE",
+   "Related Services Only (Speech Only/No SAI)",
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Cantonese"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "Webster Elementary": {
+  "url": "https://www.sfusd.edu/school/daniel-webster-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Potrero Hill",
+  "languages": [
+   "Spanish Dual Language Immersion"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Spanish"
+  ],
+  "fetched": "2026-10-05"
+ },
+ "West Portal Elementary": {
+  "url": "https://www.sfusd.edu/school/west-portal-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "West Portal",
+  "languages": [],
+  "special_ed": [],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Yick Wo Elementary School": {
+  "url": "https://www.sfusd.edu/school/yick-wo-alternative-elementary-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "North Beach",
+  "languages": [],
+  "special_ed": [
+   "Resource Specialist Program Services",
+   "Separate class - Moderate/severe with autism focus"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-05"
+ },
+ "Yu K-8 School": {
+  "url": "https://www.sfusd.edu/school/alice-fong-yu-alternative-school-k-8",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Inner Sunset",
+  "languages": [
+   "Cantonese Dual Language Immersion"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Cantonese"
+  ],
+  "fetched": "2026-10-05"
+ }
+}
