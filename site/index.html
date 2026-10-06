@@ -41,7 +41,7 @@ h1{font:800 clamp(2.4rem,9vw,3.6rem)/.95 var(--display);letter-spacing:-.03em;ma
 input[type=search],select{font:inherit;color:var(--ink);background:var(--card);border:1px solid var(--line);
   border-radius:10px;padding:9px 12px;min-height:44px}
 input[type=search]{flex:1 1 220px}
-select{flex:1 1 140px}
+select{flex:1 1 140px;min-width:0;max-width:100%;text-overflow:ellipsis}
 .chip{display:inline-flex;align-items:center;gap:8px;min-height:40px;padding:6px 14px;border:1px solid var(--line);
   border-radius:999px;background:var(--card);cursor:pointer;user-select:none;font-size:.95rem}
 .chip input{accent-color:var(--ink);width:18px;height:18px;margin:0}
@@ -64,12 +64,24 @@ ul.tours{list-style:none;margin:0;padding:0;display:grid;gap:10px}
 .tags{display:inline-flex;gap:6px;flex-wrap:wrap}
 .tag{font-size:.78rem;font-weight:700;padding:2px 8px;border-radius:6px;border:1px solid var(--line);color:var(--muted)}
 .tag.new{background:var(--bus);border-color:var(--bus);color:var(--bus-ink)}
-.actions{display:flex;gap:16px;margin-top:8px;font-size:.95rem}
+.actions{display:flex;flex-wrap:wrap;gap:4px 16px;margin-top:8px;font-size:.95rem}
 .actions a,.actions button{font:inherit;font-weight:700;color:var(--link);background:none;border:0;padding:6px 0;cursor:pointer;text-decoration:underline;text-underline-offset:3px}
 .tour.full{background:transparent;border-style:dashed}
 .tour.full .time,.tour.full .school{color:var(--full);text-decoration:line-through;text-decoration-thickness:2px}
 .tour.full .actions{display:none}
 
+details.more{margin-top:8px}
+details.more > summary{cursor:pointer;font-weight:700;color:var(--link);min-height:40px;display:inline-flex;align-items:center;list-style:none}
+details.more > summary::-webkit-details-marker{display:none}
+details.more > summary::before{content:"+";display:inline-block;width:1.1em;font-weight:800}
+details.more[open] > summary::before{content:"\2212"}
+details.more .row{margin-top:6px}
+.meta{display:flex;flex-wrap:wrap;gap:6px 14px;margin:6px 0 0;font-size:.9rem;color:var(--muted)}
+.meta b{color:var(--ink);font-weight:700}
+.lang{font-size:.8rem;font-weight:700;padding:2px 8px;border-radius:6px;background:var(--paper);color:var(--ink)}
+details.sped{margin-top:6px;font-size:.9rem;color:var(--muted)}
+details.sped summary{cursor:pointer;color:var(--ink);font-weight:700}
+details.sped ul{margin:4px 0 0;padding-left:18px}
 .empty{padding:40px 0;text-align:center;color:var(--muted)}
 .empty button{font:inherit;font-weight:700;color:var(--link);background:none;border:0;text-decoration:underline;cursor:pointer}
 footer{border-top:1px solid var(--line);padding:24px 0 48px;color:var(--muted);font-size:.9rem}
@@ -112,6 +124,17 @@ footer p{max-width:62ch}
         <option value="30">Next 30 days</option>
       </select>
     </div>
+    <details class="more" id="more">
+      <summary id="moresum">More filters</summary>
+      <div class="row">
+        <select id="lang" aria-label="Language program"><option value="">Any language program</option></select>
+        <select id="sped" aria-label="Special education program"><option value="">Any special ed program</option></select>
+      </div>
+      <div class="row">
+        <select id="start" aria-label="School start time"><option value="">Any school start time</option></select>
+        <select id="hood" aria-label="Neighborhood"><option value="">Any neighborhood</option></select>
+      </div>
+    </details>
     <div class="row">
       <label class="chip"><input type="checkbox" id="offhours"> Weekends &amp; evenings</label>
       <label class="chip"><input type="checkbox" id="newonly"> New this week</label>
@@ -148,8 +171,27 @@ function gradeMatch(g, f){
   return true;
 }
 
+let SCH = {};
+const SELECTS = ["#lang", "#sped", "#start", "#hood"];
+const hm12 = hm => { if (!hm) return ""; let [h, m] = hm.split(":").map(Number); const ap = h >= 12 ? "PM" : "AM"; h = h % 12 || 12; return `${h}:${String(m).padStart(2,"0")} ${ap}`; };
+
+function fillSelect(sel, values, label = v => v){
+  $(sel).insertAdjacentHTML("beforeend", values.map(v => `<option value="${esc(v)}">${esc(label(v))}</option>`).join(""));
+}
+function buildFilters(){
+  const S = DATA.schools, uniq = a => [...new Set(a.filter(Boolean))];
+  fillSelect("#lang", uniq(S.flatMap(s => s.language_tags || [])).sort(), v => v + " program");
+  fillSelect("#sped", uniq(S.flatMap(s => s.special_ed || [])).sort());
+  fillSelect("#start", uniq(S.map(s => s.start)).sort(), v => "Starts " + hm12(v));
+  fillSelect("#hood", uniq(S.map(s => s.neighborhood)).sort());
+  if (!S.some(s => s.neighborhood || s.start || (s.language_tags||[]).length)) $("#more").hidden = true;
+}
+
 function filtered(){
   const q = $("#q").value.trim().toLowerCase(), grade = $("#grade").value, when = $("#when").value;
+  const lang = $("#lang").value, sped = $("#sped").value, start = $("#start").value, hood = $("#hood").value;
+  const active = SELECTS.filter(s => $(s).value).length;
+  $("#moresum").textContent = active ? `More filters (${active})` : "More filters";
   const end = when === "all" ? "9999" : addDays(todayISO, +when);
   return DATA.tours.filter(t =>
     t.date >= todayISO && t.date <= end &&
@@ -157,7 +199,11 @@ function filtered(){
     (!q || t.school.toLowerCase().includes(q)) &&
     gradeMatch(t.grades, grade) &&
     (!$("#offhours").checked || isOffHours(t)) &&
-    (!$("#newonly").checked || isNew(t)));
+    (!$("#newonly").checked || isNew(t)) &&
+    (!lang || (SCH[t.school]?.language_tags || []).includes(lang)) &&
+    (!sped || (SCH[t.school]?.special_ed || []).includes(sped)) &&
+    (!start || SCH[t.school]?.start === start) &&
+    (!hood || SCH[t.school]?.neighborhood === hood));
 }
 
 function render(){
@@ -166,7 +212,7 @@ function render(){
   $("#count").textContent = `${open} open` + (tours.length > open ? `, ${tours.length - open} full` : "");
   if (!tours.length){
     $("#list").innerHTML = `<div class="empty"><p>No tours match these filters.</p><button type="button" id="reset">Clear filters</button></div>`;
-    $("#reset").onclick = () => { $("#q").value=""; $("#grade").value=""; $("#when").value="all";
+    $("#reset").onclick = () => { $("#q").value=""; $("#grade").value=""; $("#when").value="all"; SELECTS.forEach(x => $(x).value = "");
       ["#offhours","#newonly","#showfull"].forEach(s => $(s).checked = false); render(); };
     return;
   }
@@ -181,14 +227,22 @@ function render(){
 }
 
 function card(t, note){
-  const full = t.status !== "open", tags = [];
+  const full = t.status !== "open", tags = [], sc = SCH[t.school] || {};
+  const meta = [];
+  if (sc.start) meta.push(`<span>School day <b>${hm12(sc.start)}${sc.end ? "\u2013" + hm12(sc.end) : ""}</b></span>`);
+  if (sc.neighborhood) meta.push(`<span>${esc(sc.neighborhood)}</span>`);
+  (sc.languages || []).forEach(l => meta.push(`<span class="lang">${esc(l)}</span>`));
+  const sped = (sc.special_ed || []).length && !full
+    ? `<details class="sped"><summary>Special education (${sc.special_ed.length})</summary><ul>${sc.special_ed.map(x => `<li>${esc(x)}</li>`).join("")}</ul></details>` : "";
   if (isNew(t) && !full) tags.push(`<span class="tag new">New</span>`);
   if (t.start && t.start >= "16:00") tags.push(`<span class="tag">Evening</span>`);
   if (full) tags.push(`<span class="tag">Full${t.full_since ? " since " + fmt(t.full_since,{month:"short",day:"numeric"}) : ""}</span>`);
   return `<li class="tour${full ? " full" : ""}">
     <div class="top"><span class="time">${esc(t.time)}</span><span class="school">${esc(t.school)}</span><span class="grades">${esc(t.grades)}</span><span class="tags">${tags.join("")}</span></div>
+    ${meta.length && !full ? `<div class="meta">${meta.join("")}</div>` : ""}
     ${note ? `<p class="note">${esc(note)}</p>` : ""}
-    <div class="actions"><a href="${esc(t.link)}" target="_blank" rel="noopener">Sign up</a>${t.start ? `<button type="button" data-ics="${esc(t.id)}">Add to calendar</button>` : ""}</div>
+    ${sped}
+    <div class="actions"><a href="${esc(t.link)}" target="_blank" rel="noopener">Sign up</a>${t.start ? `<button type="button" data-ics="${esc(t.id)}">Add to calendar</button>` : ""}${sc.profile_url ? `<a href="${esc(sc.profile_url)}/details" target="_blank" rel="noopener">School details</a>` : ""}</div>
   </li>`;
 }
 
@@ -210,13 +264,24 @@ function downloadICS(id){
 }
 
 function footer(){
-  const closed = DATA.schools.filter(s => s.status);
+  const upcomingOpen = new Set(DATA.tours.filter(t => t.status === "open" && t.date >= todayISO).map(t => t.school));
+  const hadFull = new Set(DATA.tours.filter(t => t.status !== "open").map(t => t.school));
+  const closed = DATA.schools.filter(s => !upcomingOpen.has(s.name));
+  const link = (s, text) => `<a href="${esc(s.link)}" target="_blank" rel="noopener">${text}</a>`;
+  const label = s => {
+    if (!s.link) return "No sign-up form yet";
+    if (/couldn't read/i.test(s.status || "")) return `Form unavailable right now. ${link(s, "Check the form")}`;
+    if (hadFull.has(s.name)) return `All tours full. ${link(s, "Join the interest list")}`;
+    return `Tour times not posted yet. ${link(s, "Join the interest list")}`;
+  };
   const upd = new Date(DATA.updated);
   $("#footer").innerHTML = `
-    ${closed.length ? `<h2>Schools with no open tour times</h2><ul>${closed.map(s =>
-      `<li><strong>${esc(s.name)}</strong>: ${esc(s.status)}${s.link ? ` (<a href="${esc(s.link)}" target="_blank" rel="noopener">form</a>)` : ""}</li>`).join("")}</ul>` : ""}
+    ${closed.length ? `<h2>Schools without open tour times</h2>
+      <p>These schools either haven't posted tour times yet or have filled every tour. Many use their sign-up form as an interest list to announce new dates.</p>
+      <ul>${closed.map(s => `<li><strong>${esc(s.name)}</strong>: ${label(s)}</li>`).join("")}</ul>` : ""}
     <h2>About this list</h2>
     <p>Tour times are pulled from each school's Google Form, linked from the <a href="${esc(DATA.source)}" target="_blank" rel="noopener">SFUSD school tours page</a>. Full tours are times that dropped off a school's form, usually because they filled up and occasionally because they were cancelled. Always confirm on the form before you go.</p>
+    <p>School hours, neighborhoods, and programs come from each school's SFUSD details page and are refreshed weekly. The <a href="https://www.sfusd.edu/schools/enroll/discover/school-finder" target="_blank" rel="noopener">SFUSD School Finder</a> has more filters, including distance from your address.</p>
     <p>Last updated ${upd.toLocaleString("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit",timeZone:"America/Los_Angeles"})} Pacific. <a href="data/tours.csv">Download as a spreadsheet</a>.</p>
     <p>Not affiliated with SFUSD.</p>`;
 }
@@ -228,11 +293,13 @@ function setFiltersHeight(){
 
 fetch("data/tours.json", {cache: "no-store"}).then(r => { if (!r.ok) throw 0; return r.json(); }).then(d => {
   DATA = d;
+  SCH = Object.fromEntries(d.schools.map(s => [s.name, s]));
+  buildFilters();
   const upcoming = d.tours.filter(t => t.date >= todayISO && t.status === "open");
   const schools = new Set(upcoming.map(t => t.school)).size;
   const upd = new Date(d.updated).toLocaleString("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit",timeZone:"America/Los_Angeles"});
   $("#stats").textContent = `${upcoming.length} open tour times at ${schools} schools. Updated ${upd}.`;
-  ["#q","#grade","#when","#offhours","#newonly","#showfull"].forEach(s => $(s).addEventListener("input", render));
+  ["#q","#grade","#when","#offhours","#newonly","#showfull", ...SELECTS].forEach(s => $(s).addEventListener("input", render));
   $("#list").addEventListener("click", e => { const b = e.target.closest("[data-ics]"); if (b) downloadICS(b.dataset.ics); });
   setFiltersHeight(); addEventListener("resize", setFiltersHeight);
   render(); footer();
