@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T12:24-07:00",
+ "updated": "2026-10-06T23:44-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -2000,10 +2000,10 @@
    "raw_time": "8:30-9:15am",
    "start": "08:30",
    "end": "09:15",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-06",
-   "full_since": null
+   "full_since": "2026-10-06"
   },
   {
    "id": "Webster Elementary|2026-10-20|8:30-9:30am",
@@ -2210,10 +2210,10 @@
    "raw_time": "9:00 am - 10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-06",
-   "full_since": null
+   "full_since": "2026-10-06"
   },
   {
    "id": "Buena Vista Horace Mann TK-8 School|2026-10-21|9:30-10:30am",
@@ -3635,10 +3635,10 @@
    "raw_time": "9:30-10:45am",
    "start": "09:30",
    "end": "10:45",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-06",
-   "full_since": null
+   "full_since": "2026-10-06"
   },
   {
    "id": "Argonne Early Education School|2026-11-06|10:00am-10:30am(pk)",
@@ -3682,6 +3682,21 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-10-06",
+   "full_since": null
+  },
+  {
+   "id": "Ulloa Elementary|2026-11-06|10:00-11:00am",
+   "school": "Ulloa Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLScYZQK1WwjHRZW42pv-fR0Jaym0GzDui1KHksSAoU7sDsNkfg/viewform",
+   "date": "2026-11-06",
+   "time": "10:00\u201311:00 AM",
+   "raw_time": "10:00-11:00 AM",
+   "start": "10:00",
+   "end": "11:00",
+   "status": "open",
+   "first_seen": "2026-10-06",
    "last_seen": "2026-10-06",
    "full_since": null
   },
@@ -6845,10 +6860,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-06",
-   "full_since": null
+   "full_since": "2026-10-06"
   },
   {
    "id": "Ortega Elementary|2027-01-06|8:30-9:30am",
@@ -8195,10 +8210,10 @@
    "raw_time": "10:00-11:00 AM",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-06",
-   "full_since": null
+   "full_since": "2026-10-06"
   },
   {
    "id": "Parker Elementary|2027-03-22|10:15-11am",
@@ -8287,6 +8302,21 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-10-06",
+   "full_since": null
+  },
+  {
+   "id": "Noriega Early Education School|2027-04-28|9:00am-10:00am",
+   "school": "Noriega Early Education School",
+   "grades": "Pre-K, TK",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLScRG2VhCh2sGcvKfFGy5CF-5IN5bLaxnpk7iTNk2cjtUTCZ1w/viewform",
+   "date": "2027-04-28",
+   "time": "9:00\u201310:00 AM",
+   "raw_time": "9:00 am- 10:00 am",
+   "start": "09:00",
+   "end": "10:00",
+   "status": "open",
+   "first_seen": "2026-10-06",
    "last_seen": "2026-10-06",
    "full_since": null
   },
