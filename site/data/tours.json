@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T12:51-07:00",
+ "updated": "2026-10-07T23:53-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -958,7 +958,7 @@
    "grades": "K-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSdEiEUA3MjhN4g5vzKRwxvifBptvCl5d4ucOHMq0hShg5ZtWA/viewform",
    "note": "TK feeder at Tule Elk Park EES",
-   "status": "",
+   "status": "Couldn't read form (form data not found (closed, moved, or sign-in required))",
    "profile_url": "https://www.sfusd.edu/school/george-peabody-elementary-school",
    "start": null,
    "end": null,
@@ -2480,10 +2480,10 @@
    "raw_time": "9:30am - 10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-07",
-   "full_since": null
+   "full_since": "2026-10-07"
   },
   {
    "id": "Longfellow Elementary|2026-10-26|10:00-10:45am",
@@ -3065,10 +3065,10 @@
    "raw_time": "9:30am - 10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-06",
-   "full_since": "2026-10-07"
+   "last_seen": "2026-10-07",
+   "full_since": null
   },
   {
    "id": "Longfellow Elementary|2026-11-02|10:00-10:45am",
@@ -3635,10 +3635,10 @@
    "raw_time": "9:30-10:45am",
    "start": "09:30",
    "end": "10:45",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-06",
-   "full_since": "2026-10-06"
+   "last_seen": "2026-10-07",
+   "full_since": null
   },
   {
    "id": "Argonne Early Education School|2026-11-06|10:00am-10:30am(pk)",
@@ -4130,10 +4130,10 @@
    "raw_time": "8:15-9:15 am",
    "start": "08:15",
    "end": "09:15",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-07",
-   "full_since": null
+   "full_since": "2026-10-07"
   },
   {
    "id": "Feinstein Elementary|2026-11-13|8:30-9:30",
@@ -4537,6 +4537,21 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-10-07",
+   "full_since": null
+  },
+  {
+   "id": "Grattan Elementary|2026-11-18|8:20-9:10am",
+   "school": "Grattan Elementary",
+   "grades": "Pre-K, TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSfGKB9rGl5ZIy15j8V6KFqp7M4NvVaIOW0YGDBvsRaZyBnxuA/viewform",
+   "date": "2026-11-18",
+   "time": "8:20\u20139:10 AM",
+   "raw_time": "8:20-9:10am",
+   "start": "08:20",
+   "end": "09:10",
+   "status": "open",
+   "first_seen": "2026-10-07",
    "last_seen": "2026-10-07",
    "full_since": null
   },
@@ -7721,6 +7736,21 @@
    "full_since": null
   },
   {
+   "id": "Alamo Elementary|2027-01-22|8:15-9:15am",
+   "school": "Alamo Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSfyup35MI3qBYfzCCaEGEyWOLe6kiLhILyenjvolpGXnRhiOg/viewform",
+   "date": "2027-01-22",
+   "time": "8:15\u20139:15 AM",
+   "raw_time": "8:15-9:15 am",
+   "start": "08:15",
+   "end": "09:15",
+   "status": "open",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "full_since": null
+  },
+  {
    "id": "Alvarado Elementary|2027-01-22|8:30-9:30am",
    "school": "Alvarado Elementary",
    "grades": "TK-5",
@@ -7955,10 +7985,10 @@
    "raw_time": "8:20-9:10am",
    "start": "08:20",
    "end": "09:10",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-07",
-   "full_since": null
+   "full_since": "2026-10-07"
   },
   {
    "id": "Noriega Early Education School|2027-01-27|9:00am-10:00am",
