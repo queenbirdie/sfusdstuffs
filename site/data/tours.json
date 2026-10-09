@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T00:02-07:00",
+ "updated": "2026-10-09T12:24-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -1670,10 +1670,10 @@
    "raw_time": "8:30 - 9:30",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-09",
-   "full_since": null
+   "full_since": "2026-10-09"
   },
   {
    "id": "Sherman Elementary|2026-10-09|9:00-10:00am",
@@ -1685,10 +1685,10 @@
    "raw_time": "9:00-10:00am",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-09",
-   "full_since": null
+   "full_since": "2026-10-09"
   },
   {
    "id": "Argonne Early Education School|2026-10-09|9:30am-10:00am(tk)",
@@ -1700,10 +1700,10 @@
    "raw_time": "9:30AM-10:00AM (TK)",
    "start": "09:30",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-09",
-   "full_since": null
+   "full_since": "2026-10-09"
   },
   {
    "id": "Guadalupe Elementary|2026-10-09|9:30-10:30am",
@@ -1730,10 +1730,10 @@
    "raw_time": "10:00AM-10:30AM (PK)",
    "start": "10:00",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-09",
-   "full_since": null
+   "full_since": "2026-10-09"
   },
   {
    "id": "Carmichael\u00a0TK-8 School|2026-10-09|10:00-10:30am",
@@ -1745,10 +1745,10 @@
    "raw_time": "10:00-10:30AM",
    "start": "10:00",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-09",
-   "full_since": null
+   "full_since": "2026-10-09"
   },
   {
    "id": "Chin Elementary|2026-10-09|10:00-11:00am",
@@ -1760,10 +1760,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-09",
-   "full_since": null
+   "full_since": "2026-10-09"
   },
   {
    "id": "Webster Elementary|2026-10-13|8:30-9:30am",
@@ -3665,10 +3665,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-09",
    "last_seen": "2026-10-09",
-   "full_since": null
+   "full_since": "2026-10-09"
   },
   {
    "id": "Cleveland Elementary|2026-11-06|10:00-11:00am",
@@ -4192,6 +4192,21 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
+   "id": "Starr King Elementary|2026-11-13|8:30-10:00am",
+   "school": "Starr King Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSeZKcjtmijMw6YrRJXPqVU2A4pPT3MrPgRL4eUxeSCWT4Ebxg/viewform",
+   "date": "2026-11-13",
+   "time": "8:30\u201310:00 AM",
+   "raw_time": "8:30-10:00 am",
+   "start": "08:30",
+   "end": "10:00",
+   "status": "open",
+   "first_seen": "2026-10-09",
    "last_seen": "2026-10-09",
    "full_since": null
   },
@@ -5246,6 +5261,21 @@
    "full_since": "2026-10-09"
   },
   {
+   "id": "Key Elementary|2026-12-02|8:30-9:30am",
+   "school": "Key Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSf9qtSo8KlkBd1Z8Eanxz6W7kd5pZL-fA-AqdbLG-RVeoGxTA/viewform",
+   "date": "2026-12-02",
+   "time": "8:30\u20139:30 AM",
+   "raw_time": "8:30-9:30 am",
+   "start": "08:30",
+   "end": "09:30",
+   "status": "open",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
    "id": "Bryant Elementary|2026-12-02|9:00-10:00am",
    "school": "Bryant Elementary",
    "grades": "TK-5",
@@ -5317,6 +5347,21 @@
    "end": "10:40",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
+   "id": "Chin Elementary|2026-12-02|10:00-11:00am",
+   "school": "Chin Elementary",
+   "grades": "K-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSeYdzPVlHgSsS5gsW7BVxzyyZkEYLeKBJcvk0HwlMeuEPjTJA/viewform",
+   "date": "2026-12-02",
+   "time": "10:00\u201311:00 AM",
+   "raw_time": "10:00-11:00 am",
+   "start": "10:00",
+   "end": "11:00",
+   "status": "open",
+   "first_seen": "2026-10-09",
    "last_seen": "2026-10-09",
    "full_since": null
   },
@@ -5602,6 +5647,21 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
+   "id": "Argonne Early Education School|2026-12-04|10:00am-10:30am(pk)",
+   "school": "Argonne Early Education School",
+   "grades": "Pre-K, TK",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSfA3NEtldkl2_9KJzIRHMvydNBr1iywRMp5MUGCh6DwJw9Xxw/viewform",
+   "date": "2026-12-04",
+   "time": "10:00\u201310:30 AM (PK)",
+   "raw_time": "10:00AM-10:30AM (PK)",
+   "start": "10:00",
+   "end": "10:30",
+   "status": "open",
+   "first_seen": "2026-10-09",
    "last_seen": "2026-10-09",
    "full_since": null
   },
@@ -6305,10 +6365,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-09",
-   "full_since": null
+   "full_since": "2026-10-09"
   },
   {
    "id": "Peabody Elementary|2026-12-11|8:30-9:30am(spedfocusedtour)",
@@ -6440,10 +6500,10 @@
    "raw_time": "10:00-11:00 AM",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-09",
-   "full_since": null
+   "full_since": "2026-10-09"
   },
   {
    "id": "Glen Park Elementary|2026-12-12|9:00amto10:15",
@@ -7196,6 +7256,21 @@
    "full_since": null
   },
   {
+   "id": "Argonne Early Education School|2027-01-08|9:30am-10:00am(tk)",
+   "school": "Argonne Early Education School",
+   "grades": "Pre-K, TK",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSfA3NEtldkl2_9KJzIRHMvydNBr1iywRMp5MUGCh6DwJw9Xxw/viewform",
+   "date": "2027-01-08",
+   "time": "9:30\u201310:00 AM (TK)",
+   "raw_time": "9:30AM-10:00AM (TK)",
+   "start": "09:30",
+   "end": "10:00",
+   "status": "open",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
    "id": "Visitacion Valley Elementary|2027-01-08|9:30-10:30am",
    "school": "Visitacion Valley Elementary",
    "grades": "TK-5",
@@ -7880,10 +7955,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-08",
-   "full_since": "2026-10-09"
+   "last_seen": "2026-10-09",
+   "full_since": null
   },
   {
    "id": "Ulloa Elementary|2027-01-22|10:00-11:00am",
@@ -8351,6 +8426,21 @@
    "full_since": null
   },
   {
+   "id": "Sherman Elementary|2027-03-19|9:00-10:00am",
+   "school": "Sherman Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSdOa41ZAnNoLqSvf1mCs931E-9X2ZRuL0Y-fKvjIsMGOGsqrA/viewform",
+   "date": "2027-03-19",
+   "time": "9:00\u201310:00 AM",
+   "raw_time": "9:00-10:00am",
+   "start": "09:00",
+   "end": "10:00",
+   "status": "open",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
    "id": "Ulloa Elementary|2027-03-19|10:00-11:00am",
    "school": "Ulloa Elementary",
    "grades": "TK-5",
@@ -8392,6 +8482,21 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
+   "id": "Ulloa Elementary|2027-03-24|11:00-12:00pm",
+   "school": "Ulloa Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLScYZQK1WwjHRZW42pv-fR0Jaym0GzDui1KHksSAoU7sDsNkfg/viewform",
+   "date": "2027-03-24",
+   "time": "11:00 AM\u201312:00 PM",
+   "raw_time": "11:00-12:00 PM",
+   "start": "11:00",
+   "end": "12:00",
+   "status": "open",
+   "first_seen": "2026-10-09",
    "last_seen": "2026-10-09",
    "full_since": null
   },
@@ -8525,10 +8630,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-09",
-   "full_since": null
+   "full_since": "2026-10-09"
   }
  ]
 }
