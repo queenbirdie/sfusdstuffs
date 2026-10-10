@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T12:24-07:00",
+ "updated": "2026-10-09T23:33-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -1035,6 +1035,22 @@
    ]
   },
   {
+   "name": "San Miguel Early Education School",
+   "grades": "Pre-K, TK",
+   "link": "https://forms.gle/1y2hXN2QgAdqEdte6",
+   "note": "",
+   "status": "",
+   "profile_url": "https://www.sfusd.edu/school/san-miguel-early-education-school",
+   "start": null,
+   "end": null,
+   "neighborhood": "Ingleside",
+   "languages": [],
+   "language_tags": [],
+   "special_ed": [
+    "Integrated General Education Class (PK only)"
+   ]
+  },
+  {
    "name": "San Francisco Community TK-8",
    "grades": "TK-8",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSevIbM2tFhpjTOu4JWh9Q2J_-0JgEaSg5m46UcfBdBtyZ_VVw/viewform",
@@ -1901,6 +1917,21 @@
    "full_since": null
   },
   {
+   "id": "San Miguel Early Education School|2026-10-14|10:00:00-10:30am",
+   "school": "San Miguel Early Education School",
+   "grades": "Pre-K, TK",
+   "link": "https://forms.gle/1y2hXN2QgAdqEdte6",
+   "date": "2026-10-14",
+   "time": "10:00:00-10:30 AM",
+   "raw_time": "10:00:00-10:30 AM",
+   "start": null,
+   "end": null,
+   "status": "open",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
    "id": "Parks Elementary|2026-10-16|7:45-8:45",
    "school": "Parks Elementary",
    "grades": "TK-5",
@@ -2000,10 +2031,10 @@
    "raw_time": "8:30-9:15am",
    "start": "08:30",
    "end": "09:15",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-09",
-   "full_since": null
+   "full_since": "2026-10-09"
   },
   {
    "id": "Webster Elementary|2026-10-20|8:30-9:30am",
@@ -2306,6 +2337,21 @@
    "full_since": null
   },
   {
+   "id": "San Miguel Early Education School|2026-10-21|10:00:00-10:30am",
+   "school": "San Miguel Early Education School",
+   "grades": "Pre-K, TK",
+   "link": "https://forms.gle/1y2hXN2QgAdqEdte6",
+   "date": "2026-10-21",
+   "time": "10:00:00-10:30 AM",
+   "raw_time": "10:00:00-10:30 AM",
+   "start": null,
+   "end": null,
+   "status": "open",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
    "id": "Ortega Elementary|2026-10-22|8:30-9:30am",
    "school": "Ortega Elementary",
    "grades": "Pre-K, TK-5",
@@ -2540,10 +2586,10 @@
    "raw_time": "8:30-9:30am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-09",
-   "full_since": null
+   "full_since": "2026-10-09"
   },
   {
    "id": "Webster Elementary|2026-10-27|8:30-9:30am",
@@ -2887,6 +2933,21 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
+   "id": "San Miguel Early Education School|2026-10-28|10:00:00-10:30am",
+   "school": "San Miguel Early Education School",
+   "grades": "Pre-K, TK",
+   "link": "https://forms.gle/1y2hXN2QgAdqEdte6",
+   "date": "2026-10-28",
+   "time": "10:00:00-10:30 AM",
+   "raw_time": "10:00:00-10:30 AM",
+   "start": null,
+   "end": null,
+   "status": "open",
+   "first_seen": "2026-10-09",
    "last_seen": "2026-10-09",
    "full_since": null
   },
@@ -3236,6 +3297,21 @@
    "full_since": null
   },
   {
+   "id": "Key Elementary|2026-11-04|8:30-9:30am",
+   "school": "Key Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSf9qtSo8KlkBd1Z8Eanxz6W7kd5pZL-fA-AqdbLG-RVeoGxTA/viewform",
+   "date": "2026-11-04",
+   "time": "8:30\u20139:30 AM",
+   "raw_time": "8:30-9:30 am",
+   "start": "08:30",
+   "end": "09:30",
+   "status": "open",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
    "id": "Serra Elementary|2026-11-04|8:30-9:10",
    "school": "Serra Elementary",
    "grades": "TK-5",
@@ -3442,6 +3518,21 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
+   "id": "San Miguel Early Education School|2026-11-04|10:00:00-10:30am",
+   "school": "San Miguel Early Education School",
+   "grades": "Pre-K, TK",
+   "link": "https://forms.gle/1y2hXN2QgAdqEdte6",
+   "date": "2026-11-04",
+   "time": "10:00:00-10:30 AM",
+   "raw_time": "10:00:00-10:30 AM",
+   "start": null,
+   "end": null,
+   "status": "open",
+   "first_seen": "2026-10-09",
    "last_seen": "2026-10-09",
    "full_since": null
   },
@@ -3965,10 +4056,10 @@
    "raw_time": "9:30-10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-09",
-   "full_since": null
+   "full_since": "2026-10-09"
   },
   {
    "id": "Harte Elementary|2026-11-10|10:00-10:45am",
@@ -4042,6 +4133,21 @@
    "end": "09:45",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
+   "id": "San Miguel Early Education School|2026-11-11|10:00:00-10:30am",
+   "school": "San Miguel Early Education School",
+   "grades": "Pre-K, TK",
+   "link": "https://forms.gle/1y2hXN2QgAdqEdte6",
+   "date": "2026-11-11",
+   "time": "10:00:00-10:30 AM",
+   "raw_time": "10:00:00-10:30 AM",
+   "start": null,
+   "end": null,
+   "status": "open",
+   "first_seen": "2026-10-09",
    "last_seen": "2026-10-09",
    "full_since": null
   },
@@ -4205,10 +4311,10 @@
    "raw_time": "8:30-10:00 am",
    "start": "08:30",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-09",
    "last_seen": "2026-10-09",
-   "full_since": null
+   "full_since": "2026-10-09"
   },
   {
    "id": "Cobb Elementary|2026-11-13|9:00-10:00am",
@@ -4781,6 +4887,21 @@
    "full_since": null
   },
   {
+   "id": "San Miguel Early Education School|2026-11-18|10:00:00-10:30am",
+   "school": "San Miguel Early Education School",
+   "grades": "Pre-K, TK",
+   "link": "https://forms.gle/1y2hXN2QgAdqEdte6",
+   "date": "2026-11-18",
+   "time": "10:00:00-10:30 AM",
+   "raw_time": "10:00:00-10:30 AM",
+   "start": null,
+   "end": null,
+   "status": "open",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
    "id": "Yu K-8 School|2026-11-19|9:30-10:30am",
    "school": "Yu K-8 School",
    "grades": "K-8",
@@ -5021,6 +5142,21 @@
    "full_since": null
   },
   {
+   "id": "Ulloa Elementary|2026-11-20|10:00-11:00am",
+   "school": "Ulloa Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLScYZQK1WwjHRZW42pv-fR0Jaym0GzDui1KHksSAoU7sDsNkfg/viewform",
+   "date": "2026-11-20",
+   "time": "10:00\u201311:00 AM",
+   "raw_time": "10:00-11:00 AM",
+   "start": "10:00",
+   "end": "11:00",
+   "status": "open",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
    "id": "Webster Elementary|2026-11-24|8:30-9:30am",
    "school": "Webster Elementary",
    "grades": "K-5",
@@ -5047,6 +5183,21 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-06",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
+   "id": "San Miguel Early Education School|2026-11-25|10:00:00-10:30am",
+   "school": "San Miguel Early Education School",
+   "grades": "Pre-K, TK",
+   "link": "https://forms.gle/1y2hXN2QgAdqEdte6",
+   "date": "2026-11-25",
+   "time": "10:00:00-10:30 AM",
+   "raw_time": "10:00:00-10:30 AM",
+   "start": null,
+   "end": null,
+   "status": "open",
+   "first_seen": "2026-10-09",
    "last_seen": "2026-10-09",
    "full_since": null
   },
@@ -6251,6 +6402,21 @@
    "full_since": null
   },
   {
+   "id": "Yu K-8 School|2026-12-10|9:30-10:30am",
+   "school": "Yu K-8 School",
+   "grades": "K-8",
+   "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLScl4ym57C_rlSI4QNi5sxxZ53dkZ0ERsHimAcUFzedABru_uA/viewform",
+   "date": "2026-12-10",
+   "time": "9:30\u201310:30 AM",
+   "raw_time": "9:30-10:30am",
+   "start": "09:30",
+   "end": "10:30",
+   "status": "open",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
    "id": "Miraloma Elementary|2026-12-11|8:00-9:15am",
    "school": "Miraloma Elementary",
    "grades": "TK-5",
@@ -6401,6 +6567,21 @@
    "full_since": null
   },
   {
+   "id": "Glen Park Elementary|2026-12-11|9:00amto10:15",
+   "school": "Glen Park Elementary",
+   "grades": "K-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSeorR9G6wD922pX3GX1ngOZwK4UrNAKdcRLmd6PtIRhDGlgOA/viewform",
+   "date": "2026-12-11",
+   "time": "9:00\u201310:15 AM",
+   "raw_time": "9:00am to 10:15",
+   "start": "09:00",
+   "end": "10:15",
+   "status": "open",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
    "id": "San Francisco Public Montessori Elementary|2026-12-11|9:00-10:00am",
    "school": "San Francisco Public Montessori Elementary",
    "grades": "Pre-K, TK-5",
@@ -6515,10 +6696,10 @@
    "raw_time": "9:00am to 10:15",
    "start": "09:00",
    "end": "10:15",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-09",
-   "full_since": null
+   "full_since": "2026-10-09"
   },
   {
    "id": "Sheridan Elementary|2026-12-12|9:00-10:00am",
@@ -6607,6 +6788,21 @@
    "end": "09:15",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-10-09",
+   "full_since": null
+  },
+  {
+   "id": "Peabody Elementary|2026-12-15|8:30-9:30am",
+   "school": "Peabody Elementary",
+   "grades": "K-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSdEiEUA3MjhN4g5vzKRwxvifBptvCl5d4ucOHMq0hShg5ZtWA/viewform",
+   "date": "2026-12-15",
+   "time": "8:30\u20139:30 AM",
+   "raw_time": "8:30-9:30am",
+   "start": "08:30",
+   "end": "09:30",
+   "status": "open",
+   "first_seen": "2026-10-09",
    "last_seen": "2026-10-09",
    "full_since": null
   },
@@ -8495,10 +8691,10 @@
    "raw_time": "11:00-12:00 PM",
    "start": "11:00",
    "end": "12:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-09",
    "last_seen": "2026-10-09",
-   "full_since": null
+   "full_since": "2026-10-09"
   },
   {
    "id": "Chavez Elementary|2027-04-07|9-9:45",

@@ -1130,5 +1130,18 @@
    "Cantonese"
   ],
   "fetched": "2026-10-05"
+ },
+ "San Miguel Early Education School": {
+  "url": "https://www.sfusd.edu/school/san-miguel-early-education-school",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Ingleside",
+  "languages": [],
+  "special_ed": [
+   "Integrated General Education Class (PK only)"
+  ],
+  "language_tags": [],
+  "fetched": "2026-10-09"
  }
 }
