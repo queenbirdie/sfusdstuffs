@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T11:45-07:00",
+ "updated": "2026-10-11T23:49-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -782,7 +782,7 @@
    "grades": "Pre-K, TK",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSe3387bwlTqXyaYl7959WCXvKNiQcG4vE5l50ScIXofau-sug/viewform",
    "note": "General Education TK feeds into Glen Park ES, Miraloma ES, Sunnyside ES, or West Portal ES Spanish Immersion TK feeds into Huerta ES or Marshall ES",
-   "status": "Full: interest list only",
+   "status": "Couldn't read form (form data not found (closed, moved, or sign-in required))",
    "profile_url": "",
    "start": null,
    "end": null,
@@ -3171,10 +3171,10 @@
    "raw_time": "8:30-9:15am",
    "start": "08:30",
    "end": "09:15",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-11",
-   "full_since": null
+   "full_since": "2026-10-11"
   },
   {
    "id": "Peabody Elementary|2026-11-03|8:30-9:30am",
@@ -5661,10 +5661,10 @@
    "raw_time": "8:30-10:00 am",
    "start": "08:30",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-10",
    "last_seen": "2026-10-11",
-   "full_since": null
+   "full_since": "2026-10-11"
   },
   {
    "id": "Chinese Immersion School|2026-12-04|9:00-10:00am",
