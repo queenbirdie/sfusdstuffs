@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T00:15-07:00",
+ "updated": "2026-10-13T13:10-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -165,7 +165,7 @@
    "grades": "K-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSeYdzPVlHgSsS5gsW7BVxzyyZkEYLeKBJcvk0HwlMeuEPjTJA/viewform",
    "note": "TK feeder at Stockton EES",
-   "status": "Couldn't read form (form data not found (closed, moved, or sign-in required))",
+   "status": "",
    "profile_url": "https://www.sfusd.edu/school/john-yehall-chin-elementary-school",
    "start": null,
    "end": null,
@@ -1085,7 +1085,7 @@
    "grades": "Pre-K, TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSe3nEx3wE-4PVwnjm6ZHa74b76ptSiy4khPuq5I_z2DRuJHfw/viewform",
    "note": "",
-   "status": "Couldn't read form (form data not found (closed, moved, or sign-in required))",
+   "status": "",
    "profile_url": "https://www.sfusd.edu/school/sanchez-elementary-school",
    "start": null,
    "end": null,
@@ -1254,7 +1254,7 @@
    "grades": "K-5",
    "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLSeq3ihwxPo-L8UWZwupaa9ay1l5tN35OSyZ1clIfwP8YLS-mw/viewform",
    "note": "TK feeder at San Miguel EES",
-   "status": "Couldn't read form (form data not found (closed, moved, or sign-in required))",
+   "status": "",
    "profile_url": "https://www.sfusd.edu/school/sunnyside-elementary-school",
    "start": null,
    "end": null,
@@ -1791,10 +1791,10 @@
    "raw_time": "8:30-9:15am",
    "start": "08:30",
    "end": "09:15",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
-   "full_since": null
+   "full_since": "2026-10-13"
   },
   {
    "id": "Webster Elementary|2026-10-13|8:30-9:30am",
@@ -1821,10 +1821,10 @@
    "raw_time": "10:00 - 10:45am",
    "start": "10:00",
    "end": "10:45",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-13",
-   "full_since": null
+   "full_since": "2026-10-13"
   },
   {
    "id": "Taylor Elementary|2026-10-14|8:30-9:30",
@@ -1928,7 +1928,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -2003,7 +2003,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -2303,7 +2303,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -2333,7 +2333,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -2453,6 +2453,21 @@
    "end": "09:15",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-10-13",
+   "full_since": null
+  },
+  {
+   "id": "Alvarado Elementary|2026-10-23|8:30-9:30am",
+   "school": "Alvarado Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSdKQlam4uOWYeqIf5d9CCQB1sjkJTuvQaIHqvWFX1PxiCDg3w/viewform",
+   "date": "2026-10-23",
+   "time": "8:30\u20139:30 AM",
+   "raw_time": "8:30-9:30am",
+   "start": "08:30",
+   "end": "09:30",
+   "status": "open",
+   "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "full_since": null
   },
@@ -3068,7 +3083,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -3083,7 +3098,22 @@
    "end": "09:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
+   "full_since": null
+  },
+  {
+   "id": "Chinese Immersion School|2026-10-30|9:00-10:00am",
+   "school": "Chinese Immersion School",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSc5PAj7fjP641XA0kC_KUbXZvKIM7pBwzWCfBU-NRUV838GDQ/viewform",
+   "date": "2026-10-30",
+   "time": "9:00\u201310:00 AM",
+   "raw_time": "9:00 - 10:00 am",
+   "start": "09:00",
+   "end": "10:00",
+   "status": "open",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -3096,10 +3126,10 @@
    "raw_time": "9:00-10:00am",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-13",
-   "full_since": null
+   "full_since": "2026-10-13"
   },
   {
    "id": "Cleveland Elementary|2026-10-30|10:00-11:00am",
@@ -3488,7 +3518,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -3518,7 +3548,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -4328,7 +4358,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -4448,7 +4478,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -4868,7 +4898,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -4883,7 +4913,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -5367,6 +5397,21 @@
    "full_since": null
   },
   {
+   "id": "Harte Elementary|2026-12-01|10:00-10:45am",
+   "school": "Harte Elementary",
+   "grades": "Pre-K, TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSeOiClzysiFbt8-BQEg36QFFEDNDTKQyt23M9vkTXxyN7rRNw/viewform",
+   "date": "2026-12-01",
+   "time": "10:00\u201310:45 AM",
+   "raw_time": "10:00 - 10:45am",
+   "start": "10:00",
+   "end": "10:45",
+   "status": "open",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "full_since": null
+  },
+  {
    "id": "Rodriguez Early Education School|2026-12-01|10:00-10:20am",
    "school": "Rodriguez Early Education School",
    "grades": "Pre-K, TK",
@@ -5558,7 +5603,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -6368,7 +6413,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -6623,7 +6668,7 @@
    "end": "09:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -7146,10 +7191,10 @@
    "raw_time": "10:00-11:00 AM",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-13",
-   "full_since": null
+   "full_since": "2026-10-13"
   },
   {
    "id": "Sheridan Elementary|2027-01-02|9:00-10:00am",
@@ -7328,7 +7373,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -7478,7 +7523,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -7838,7 +7883,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -8153,7 +8198,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-13",
    "full_since": null
   },
   {
@@ -8181,10 +8226,10 @@
    "raw_time": "9:00 - 10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-13",
-   "full_since": null
+   "full_since": "2026-10-13"
   },
   {
    "id": "Monroe Elementary|2027-01-22|9:00-10:00am",
