@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T13:10-07:00",
+ "updated": "2026-10-13T22:40-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -1911,10 +1911,10 @@
    "raw_time": "9:40am-10:40am",
    "start": "09:40",
    "end": "10:40",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-08",
-   "full_since": "2026-10-09"
+   "last_seen": "2026-10-13",
+   "full_since": null
   },
   {
    "id": "Sunnyside Elementary|2026-10-14|10:00-11:00am",
@@ -3111,10 +3111,10 @@
    "raw_time": "9:00 - 10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
-   "full_since": null
+   "full_since": "2026-10-13"
   },
   {
    "id": "San Francisco Public Montessori Elementary|2026-10-30|9:00-10:00am",
@@ -3426,10 +3426,10 @@
    "raw_time": "9:00 - 10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-13",
-   "full_since": null
+   "full_since": "2026-10-13"
   },
   {
    "id": "Drew Elementary|2026-11-04|9:00-10:00,11:00-12:00",
@@ -3801,10 +3801,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-09",
-   "full_since": "2026-10-09"
+   "last_seen": "2026-10-13",
+   "full_since": null
   },
   {
    "id": "Cleveland Elementary|2026-11-06|10:00-11:00am",
@@ -4041,10 +4041,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-12",
    "last_seen": "2026-10-13",
-   "full_since": null
+   "full_since": "2026-10-13"
   },
   {
    "id": "Webster Elementary|2026-11-10|8:30-9:30am",
@@ -7971,10 +7971,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-11",
-   "full_since": "2026-10-12"
+   "last_seen": "2026-10-13",
+   "full_since": null
   },
   {
    "id": "Sloat Elementary|2027-01-19|9:00-10:00am",
@@ -8061,10 +8061,10 @@
    "raw_time": "9:40am-10:40am",
    "start": "09:40",
    "end": "10:40",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-09",
    "last_seen": "2026-10-13",
-   "full_since": null
+   "full_since": "2026-10-13"
   },
   {
    "id": "Sutro Elementary|2027-01-20|10:00am-11:00am",
@@ -8226,10 +8226,10 @@
    "raw_time": "9:00 - 10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-13",
-   "full_since": "2026-10-13"
+   "full_since": null
   },
   {
    "id": "Monroe Elementary|2027-01-22|9:00-10:00am",
@@ -8256,10 +8256,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-13",
-   "full_since": null
+   "full_since": "2026-10-13"
   },
   {
    "id": "Ulloa Elementary|2027-01-22|10:00-11:00am",
