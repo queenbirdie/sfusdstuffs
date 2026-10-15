@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T11:28-07:00",
+ "updated": "2026-10-14T22:26-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -290,7 +290,7 @@
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSd3pWaENmETjb2yHFMj8VlI-4QhjeJWq3GaumCDw81El7uZhQ/viewform",
    "note": "",
-   "status": "",
+   "status": "Couldn't read form (form data not found (closed, moved, or sign-in required))",
    "profile_url": "https://www.sfusd.edu/school/dianne-feinstein-elementary-school",
    "start": null,
    "end": null,
@@ -700,7 +700,7 @@
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSeMI529Q3BcAO3Jf3CskqwYZfP-UxMpl-nAURYFQxpeFe_Dlw/viewform",
    "note": "",
-   "status": "",
+   "status": "Couldn't read form (form data not found (closed, moved, or sign-in required))",
    "profile_url": "https://www.sfusd.edu/school/mckinley-elementary-school",
    "start": null,
    "end": null,
@@ -2037,6 +2037,21 @@
    "full_since": null
   },
   {
+   "id": "Lawton Elementary|2026-10-19|9:30am-10:30am",
+   "school": "Lawton Elementary",
+   "grades": "TK-8",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSc9jhBJ9eLBUUoRVQPYLb6sKmBLVl_c14cpvPFQlW3hIdQoJA/viewform",
+   "date": "2026-10-19",
+   "time": "9:30\u201310:30 AM",
+   "raw_time": "9:30am - 10:30am",
+   "start": "09:30",
+   "end": "10:30",
+   "status": "open",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "full_since": null
+  },
+  {
    "id": "Mission Bay Elementary School|2026-10-20|8:30-9:15am",
    "school": "Mission Bay Elementary School",
    "grades": "Pre-K, TK-1",
@@ -2622,6 +2637,21 @@
    "full_since": "2026-10-09"
   },
   {
+   "id": "Stevenson Elementary|2026-10-27|8:30-9:30am",
+   "school": "Stevenson Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSfqTrSNlVPi1gRA3DyNN3sHJdqlSHDvSvouNBe4IAnbuGgVxA/viewform",
+   "date": "2026-10-27",
+   "time": "8:30\u20139:30 AM",
+   "raw_time": "8:30-9:30 am",
+   "start": "08:30",
+   "end": "09:30",
+   "status": "open",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "full_since": null
+  },
+  {
    "id": "Webster Elementary|2026-10-27|8:30-9:30am",
    "school": "Webster Elementary",
    "grades": "K-5",
@@ -3111,10 +3141,10 @@
    "raw_time": "9:00 - 10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13",
-   "full_since": "2026-10-13"
+   "last_seen": "2026-10-14",
+   "full_since": null
   },
   {
    "id": "San Francisco Public Montessori Elementary|2026-10-30|9:00-10:00am",
@@ -4101,10 +4131,10 @@
    "raw_time": "9:00-10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-14",
-   "full_since": null
+   "full_since": "2026-10-14"
   },
   {
    "id": "Buena Vista Horace Mann TK-8 School|2026-11-10|9:30-10:30am",
@@ -5451,10 +5481,10 @@
    "raw_time": "10:00- 10:20 am",
    "start": "10:00",
    "end": "10:20",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-14",
-   "full_since": null
+   "full_since": "2026-10-14"
   },
   {
    "id": "Redding Elementary|2026-12-01|10:30-11:30am",
@@ -8496,10 +8526,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-14",
    "last_seen": "2026-10-14",
-   "full_since": null
+   "full_since": "2026-10-14"
   },
   {
    "id": "Sheridan Elementary|2027-01-26|9:00-10:00am",
@@ -8736,10 +8766,10 @@
    "raw_time": "9:00 am-10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-14",
-   "full_since": null
+   "full_since": "2026-10-14"
   },
   {
    "id": "McLaren Early Education School|2027-02-19|9:00-10:00am",
@@ -8843,6 +8873,21 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-10-14",
+   "full_since": null
+  },
+  {
+   "id": "Rodriguez Early Education School|2027-03-16|10:00-10:20am",
+   "school": "Rodriguez Early Education School",
+   "grades": "Pre-K, TK",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSeZ4aoLQGhOVW5cgYvn6JQcgYeLr-4vAx-aqezRTvXvDR6P7g/viewform",
+   "date": "2027-03-16",
+   "time": "10:00\u201310:20 AM",
+   "raw_time": "10:00- 10:20 am",
+   "start": "10:00",
+   "end": "10:20",
+   "status": "open",
+   "first_seen": "2026-10-14",
    "last_seen": "2026-10-14",
    "full_since": null
   },
@@ -9083,6 +9128,21 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-09",
+   "last_seen": "2026-10-14",
+   "full_since": null
+  },
+  {
+   "id": "Noriega Early Education School|2027-05-26|9:00am-10:00am",
+   "school": "Noriega Early Education School",
+   "grades": "Pre-K, TK",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLScRG2VhCh2sGcvKfFGy5CF-5IN5bLaxnpk7iTNk2cjtUTCZ1w/viewform",
+   "date": "2027-05-26",
+   "time": "9:00\u201310:00 AM",
+   "raw_time": "9:00 am - 10:00 am",
+   "start": "09:00",
+   "end": "10:00",
+   "status": "open",
+   "first_seen": "2026-10-14",
    "last_seen": "2026-10-14",
    "full_since": null
   },
