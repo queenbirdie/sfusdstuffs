@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T11:10-07:00",
+ "updated": "2026-10-15T22:18-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -2406,10 +2406,10 @@
    "raw_time": "9:45-10:45 am",
    "start": "09:45",
    "end": "10:45",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-15",
-   "full_since": null
+   "full_since": "2026-10-15"
   },
   {
    "id": "Lafayette Elementary|2026-10-22|12:45-1:45p",
@@ -4056,10 +4056,10 @@
    "raw_time": "8:30-9:15am",
    "start": "08:30",
    "end": "09:15",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-15",
-   "full_since": null
+   "full_since": "2026-10-15"
   },
   {
    "id": "Peabody Elementary|2026-11-10|8:30-9:30am",
@@ -6576,10 +6576,10 @@
    "raw_time": "8:30-10:00 am",
    "start": "08:30",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-15",
-   "full_since": null
+   "full_since": "2026-10-15"
   },
   {
    "id": "Malcolm X Elementary|2026-12-10|9:00-10:00am",
@@ -8618,6 +8618,21 @@
    "end": "11:15",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-10-15",
+   "full_since": null
+  },
+  {
+   "id": "Milk Civil Rights Elementary|2027-01-28|9:45-10:45am",
+   "school": "Milk Civil Rights Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSf6JQicVERGYqNFPr5V1aVjd8UwFs4ifeZdLKXSB0_bBsWzIA/viewform",
+   "date": "2027-01-28",
+   "time": "9:45\u201310:45 AM",
+   "raw_time": "9:45-10:45 am",
+   "start": "09:45",
+   "end": "10:45",
+   "status": "open",
+   "first_seen": "2026-10-15",
    "last_seen": "2026-10-15",
    "full_since": null
   },
