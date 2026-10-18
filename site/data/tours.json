@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T09:57-07:00",
+ "updated": "2026-10-17T22:17-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -635,7 +635,7 @@
    "grades": "Pre-K, TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfS9Wt--Mx3DyoDYNNpt9vKUG7lSr14DeOLSrAw7mmS3HKPfQ/viewform",
    "note": "",
-   "status": "",
+   "status": "Couldn't read form (form data not found (closed, moved, or sign-in required))",
    "profile_url": "https://www.sfusd.edu/school/malcolm-x-academy-elementary-school",
    "start": null,
    "end": null,
@@ -2181,10 +2181,10 @@
    "raw_time": "9:00:00 AM to 10:15am",
    "start": null,
    "end": null,
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-09",
-   "full_since": "2026-10-10"
+   "last_seen": "2026-10-17",
+   "full_since": null
   },
   {
    "id": "Flynn Elementary|2026-10-21|7:50-9:00am",
@@ -3726,10 +3726,10 @@
    "raw_time": "8:30-9:30am",
    "start": "08:30",
    "end": "09:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-06",
-   "full_since": "2026-10-07"
+   "last_seen": "2026-10-17",
+   "full_since": null
   },
   {
    "id": "Marshall Elementary|2026-11-06|8:30-10am",
@@ -5091,10 +5091,10 @@
    "raw_time": "8am-9am",
    "start": "08:00",
    "end": "09:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-08",
-   "full_since": "2026-10-09"
+   "last_seen": "2026-10-17",
+   "full_since": null
   },
   {
    "id": "Alamo Elementary|2026-11-20|8:15-9:15am",
@@ -6636,10 +6636,10 @@
    "raw_time": "8:30-10:00 am",
    "start": "08:30",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-17",
-   "full_since": null
+   "full_since": "2026-10-17"
   },
   {
    "id": "Malcolm X Elementary|2026-12-10|9:00-10:00am",
@@ -9036,10 +9036,10 @@
    "raw_time": "8am-9am",
    "start": "08:00",
    "end": "09:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-09",
    "last_seen": "2026-10-17",
-   "full_since": null
+   "full_since": "2026-10-17"
   },
   {
    "id": "Starr King Elementary|2027-03-19|8:30-10:00am",
