@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T12:45-07:00",
+ "updated": "2026-10-19T22:35-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -1331,7 +1331,7 @@
    "grades": "Pre-K, TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSf5fWGyNiZE_vwwUkjq24zpYt7v7vRcneobhzWZiQJd54E4zg/viewform",
    "note": "",
-   "status": "",
+   "status": "Couldn't read form (form data not found (closed, moved, or sign-in required))",
    "profile_url": "https://www.sfusd.edu/school/tenderloin-community-elementary-school",
    "start": null,
    "end": null,
@@ -1351,7 +1351,7 @@
    "grades": "Pre-K, TK",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSe5_WH3IJ3NRXqnIduat7LFflffTwYiWmXaGWWSCzzmBlrD2g/viewform",
    "note": "TK feeds into Lilienthal K-8, New Traditions ES, Peabody ES, or Yick Wo ES",
-   "status": "",
+   "status": "Full: interest list only",
    "profile_url": "https://www.sfusd.edu/school/tule-elk-park-early-education-school",
    "start": null,
    "end": null,
@@ -2421,10 +2421,10 @@
    "raw_time": "9:45-10:45 am",
    "start": "09:45",
    "end": "10:45",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-15",
-   "full_since": "2026-10-15"
+   "last_seen": "2026-10-19",
+   "full_since": null
   },
   {
    "id": "Lafayette Elementary|2026-10-22|12:45-1:45p",
@@ -2496,10 +2496,10 @@
    "raw_time": "8:30-9:30am",
    "start": "08:30",
    "end": "09:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-10-18",
-   "full_since": "2026-10-18"
+   "last_seen": "2026-10-19",
+   "full_since": null
   },
   {
    "id": "Feinstein Elementary|2026-10-23|8:30-9:30",
@@ -2922,6 +2922,21 @@
    "full_since": null
   },
   {
+   "id": "Noriega Early Education School|2026-10-28|9:00am-10:00am",
+   "school": "Noriega Early Education School",
+   "grades": "Pre-K, TK",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLScRG2VhCh2sGcvKfFGy5CF-5IN5bLaxnpk7iTNk2cjtUTCZ1w/viewform",
+   "date": "2026-10-28",
+   "time": "9:00\u201310:00 AM",
+   "raw_time": "9:00 am - 10:00 am",
+   "start": "09:00",
+   "end": "10:00",
+   "status": "open",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "full_since": null
+  },
+  {
    "id": "Buena Vista Horace Mann TK-8 School|2026-10-28|9:30-10:30am",
    "school": "Buena Vista Horace Mann TK-8 School",
    "grades": "TK-8",
@@ -3276,10 +3291,10 @@
    "raw_time": "8:30-9:30am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-19",
-   "full_since": null
+   "full_since": "2026-10-19"
   },
   {
    "id": "Webster Elementary|2026-11-03|8:30-9:30am",
@@ -3951,10 +3966,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
-   "full_since": null
+   "full_since": "2026-10-19"
   },
   {
    "id": "Ulloa Elementary|2026-11-06|10:00-11:00am",
@@ -5871,10 +5886,10 @@
    "raw_time": "8am-9am",
    "start": "08:00",
    "end": "09:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-19",
-   "full_since": null
+   "full_since": "2026-10-19"
   },
   {
    "id": "Alamo Elementary|2026-12-04|8:15-9:15am",
@@ -6141,10 +6156,10 @@
    "raw_time": "10:00-11:00 AM",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-18",
    "last_seen": "2026-10-19",
-   "full_since": null
+   "full_since": "2026-10-19"
   },
   {
    "id": "Yick Wo Elementary School|2026-12-04|10:00am-11:00am",
@@ -7527,6 +7542,21 @@
    "full_since": null
   },
   {
+   "id": "Peabody Elementary|2027-01-05|8:30-9:30am",
+   "school": "Peabody Elementary",
+   "grades": "K-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSdEiEUA3MjhN4g5vzKRwxvifBptvCl5d4ucOHMq0hShg5ZtWA/viewform",
+   "date": "2027-01-05",
+   "time": "8:30\u20139:30 AM",
+   "raw_time": "8:30-9:30am",
+   "start": "08:30",
+   "end": "09:30",
+   "status": "open",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "full_since": null
+  },
+  {
    "id": "Stevenson Elementary|2027-01-05|8:30-9:30am",
    "school": "Stevenson Elementary",
    "grades": "TK-5",
@@ -8796,10 +8826,10 @@
    "raw_time": "9:45-10:45 am",
    "start": "09:45",
    "end": "10:45",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-15",
    "last_seen": "2026-10-19",
-   "full_since": null
+   "full_since": "2026-10-19"
   },
   {
    "id": "West Portal Elementary|2027-01-29|8am-9am",
@@ -9336,10 +9366,10 @@
    "raw_time": "9:00 am - 10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-14",
    "last_seen": "2026-10-19",
-   "full_since": null
+   "full_since": "2026-10-19"
   },
   {
    "id": "Key Elementary|2027-12-02|8:30-9:30am",
