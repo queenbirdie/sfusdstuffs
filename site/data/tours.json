@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:31-07:00",
+ "updated": "2026-10-21T22:38-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -2496,10 +2496,10 @@
    "raw_time": "8:30-9:30am",
    "start": "08:30",
    "end": "09:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
-   "full_since": "2026-10-20"
+   "last_seen": "2026-10-21",
+   "full_since": null
   },
   {
    "id": "Feinstein Elementary|2026-10-23|8:30-9:30",
@@ -2873,6 +2873,21 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-10-21",
+   "full_since": null
+  },
+  {
+   "id": "Key Elementary|2026-10-28|8:30-9:30am",
+   "school": "Key Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSf9qtSo8KlkBd1Z8Eanxz6W7kd5pZL-fA-AqdbLG-RVeoGxTA/viewform",
+   "date": "2026-10-28",
+   "time": "8:30\u20139:30 AM",
+   "raw_time": "8:30-9:30 am",
+   "start": "08:30",
+   "end": "09:30",
+   "status": "open",
+   "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "full_since": null
   },
@@ -3786,10 +3801,10 @@
    "raw_time": "8am-9am",
    "start": "08:00",
    "end": "09:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-21",
-   "full_since": null
+   "full_since": "2026-10-21"
   },
   {
    "id": "Alamo Elementary|2026-11-06|8:15-9:15am",
@@ -3966,10 +3981,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-09",
    "last_seen": "2026-10-21",
-   "full_since": null
+   "full_since": "2026-10-21"
   },
   {
    "id": "Cleveland Elementary|2026-11-06|10:00-11:00am",
@@ -4131,10 +4146,10 @@
    "raw_time": "2:00-3:00 pm",
    "start": "14:00",
    "end": "15:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-21",
-   "full_since": null
+   "full_since": "2026-10-21"
   },
   {
    "id": "Lilienthal TK-8 School|2026-11-09|5:00-6:00pm",
@@ -4746,10 +4761,10 @@
    "raw_time": "9:30am - 10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-21",
-   "full_since": null
+   "full_since": "2026-10-21"
   },
   {
    "id": "McCoppin Elementary|2026-11-16|9:30-10:45am",
@@ -4761,10 +4776,10 @@
    "raw_time": "9:30-10:45am",
    "start": "09:30",
    "end": "10:45",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-21",
-   "full_since": null
+   "full_since": "2026-10-21"
   },
   {
    "id": "Longfellow Elementary|2026-11-16|10:00-10:45am",
@@ -5406,10 +5421,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-21",
-   "full_since": null
+   "full_since": "2026-10-21"
   },
   {
    "id": "Cleveland Elementary|2026-11-20|10:00-11:00am",
@@ -5586,10 +5601,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-21",
-   "full_since": null
+   "full_since": "2026-10-21"
   },
   {
    "id": "Webster Elementary|2026-12-01|8:30-9:30am",
@@ -6036,10 +6051,10 @@
    "raw_time": "9:00 - 10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-21",
-   "full_since": null
+   "full_since": "2026-10-21"
   },
   {
    "id": "Glen Park Elementary|2026-12-04|9:00amto10:15",
@@ -8841,10 +8856,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-20",
-   "full_since": "2026-10-20"
+   "last_seen": "2026-10-21",
+   "full_since": null
   },
   {
    "id": "Ulloa Elementary|2027-01-22|10:00-11:00am",
@@ -9083,6 +9098,21 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-07",
+   "last_seen": "2026-10-21",
+   "full_since": null
+  },
+  {
+   "id": "Argonne Elementary|2027-01-29|10:00-11:00am",
+   "school": "Argonne Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSeatjaXQ7YNYvE2OAuU4TU43BbDXquqqKRN9VzJZ-qOnV1NgA/viewform",
+   "date": "2027-01-29",
+   "time": "10:00\u201311:00 AM",
+   "raw_time": "10:00-11:00 am",
+   "start": "10:00",
+   "end": "11:00",
+   "status": "open",
+   "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "full_since": null
   },
@@ -9428,6 +9458,21 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-10-21",
+   "full_since": null
+  },
+  {
+   "id": "Stevenson Elementary|2027-03-23|8:30-9:30am",
+   "school": "Stevenson Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSfqTrSNlVPi1gRA3DyNN3sHJdqlSHDvSvouNBe4IAnbuGgVxA/viewform",
+   "date": "2027-03-23",
+   "time": "8:30\u20139:30 AM",
+   "raw_time": "8:30-9:30 am",
+   "start": "08:30",
+   "end": "09:30",
+   "status": "open",
+   "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "full_since": null
   },
