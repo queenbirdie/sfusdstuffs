@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T12:29-07:00",
+ "updated": "2026-10-22T22:36-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -2886,10 +2886,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-22",
-   "full_since": null
+   "full_since": "2026-10-22"
   },
   {
    "id": "Taylor Elementary|2026-10-28|8:30-9:30",
@@ -4737,6 +4737,21 @@
    "full_since": null
   },
   {
+   "id": "Ulloa Elementary|2026-11-13|10:00-11:00am",
+   "school": "Ulloa Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLScYZQK1WwjHRZW42pv-fR0Jaym0GzDui1KHksSAoU7sDsNkfg/viewform",
+   "date": "2026-11-13",
+   "time": "10:00\u201311:00 AM",
+   "raw_time": "10:00-11:00 AM",
+   "start": "10:00",
+   "end": "11:00",
+   "status": "open",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "full_since": null
+  },
+  {
    "id": "Yick Wo Elementary School|2026-11-13|10:00am-11:00am",
    "school": "Yick Wo Elementary School",
    "grades": "K-5",
@@ -5286,10 +5301,10 @@
    "raw_time": "8:30-9:30am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-22",
-   "full_since": null
+   "full_since": "2026-10-22"
   },
   {
    "id": "Marshall Elementary|2026-11-20|8:30-10am",
@@ -8151,10 +8166,10 @@
    "raw_time": "10:00-11:00 AM",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-22",
-   "full_since": null
+   "full_since": "2026-10-22"
   },
   {
    "id": "Yick Wo Elementary School|2027-01-08|10:00am-11:00am",
