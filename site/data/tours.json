@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T11:13-07:00",
+ "updated": "2026-10-23T22:15-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -653,12 +653,16 @@
    "link": "",
    "note": "This brand new school does not yet have tours available. Please check back periodically; we will add tour dates as soon as we can.",
    "status": "No sign-up form posted yet",
-   "profile_url": "",
+   "profile_url": "https://www.sfusd.edu/school/mandarin-immersion-tk-8-school",
    "start": null,
    "end": null,
    "neighborhood": "",
-   "languages": [],
-   "language_tags": [],
+   "languages": [
+    "Mandarin Dual Language Immersion"
+   ],
+   "language_tags": [
+    "Mandarin"
+   ],
    "special_ed": []
   },
   {
@@ -3231,10 +3235,10 @@
    "raw_time": "9:00-10:00am",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-23",
-   "full_since": null
+   "full_since": "2026-10-23"
   },
   {
    "id": "Cleveland Elementary|2026-10-30|10:00-11:00am",
@@ -4836,10 +4840,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-13",
-   "full_since": "2026-10-14"
+   "last_seen": "2026-10-23",
+   "full_since": null
   },
   {
    "id": "Webster Elementary|2026-11-17|8:30-9:30am",
@@ -9546,10 +9550,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-23",
-   "full_since": null
+   "full_since": "2026-10-23"
   },
   {
    "id": "Rodriguez Early Education School|2027-03-23|10:00-10:20am",
