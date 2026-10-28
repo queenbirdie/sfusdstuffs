@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T12:19-07:00",
+ "updated": "2026-10-27T23:28-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -772,7 +772,7 @@
    "grades": "Pre-K, TK-1",
    "link": "https://forms.gle/rDwhWjjHnDj4qTQ29",
    "note": "",
-   "status": "",
+   "status": "Full: interest list only",
    "profile_url": "https://www.sfusd.edu/school/mission-bay-school",
    "start": null,
    "end": null,
@@ -2875,10 +2875,10 @@
    "raw_time": "8:20-9:10am",
    "start": "08:20",
    "end": "09:10",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-26",
-   "full_since": "2026-10-27"
+   "last_seen": "2026-10-27",
+   "full_since": null
   },
   {
    "id": "Garfield Elementary|2026-10-28|8:30-9:30am",
@@ -3100,10 +3100,10 @@
    "raw_time": "10:00:00-10:30 AM",
    "start": null,
    "end": null,
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-24",
-   "full_since": "2026-10-25"
+   "last_seen": "2026-10-27",
+   "full_since": null
   },
   {
    "id": "Parks Elementary|2026-10-29|7:45-8:45",
@@ -3430,10 +3430,10 @@
    "raw_time": "9:00-10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-16",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-27"
   },
   {
    "id": "Yu K-8 School|2026-11-03|9:30-10:30am",
@@ -3910,10 +3910,10 @@
    "raw_time": "9:00-10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-27"
   },
   {
    "id": "Monroe Elementary|2026-11-06|9:00-10:00am",
@@ -5215,10 +5215,10 @@
    "raw_time": "9:00 - 10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-27"
   },
   {
    "id": "Drew Elementary|2026-11-18|9:00-10:00,11:00-12:00",
@@ -7105,10 +7105,10 @@
    "raw_time": "8am-9am",
    "start": "08:00",
    "end": "09:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-27"
   },
   {
    "id": "Alamo Elementary|2026-12-11|8:15-9:15am",
@@ -7480,10 +7480,10 @@
    "raw_time": "8:30-9:15am",
    "start": "08:30",
    "end": "09:15",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-27"
   },
   {
    "id": "Peabody Elementary|2026-12-15|8:30-9:30am",
@@ -9715,10 +9715,10 @@
    "raw_time": "9:00 am- 10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-26",
-   "full_since": "2026-10-26"
+   "last_seen": "2026-10-27",
+   "full_since": null
   },
   {
    "id": "West Portal Elementary|2027-03-19|8am-9am",
