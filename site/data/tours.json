@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T23:28-07:00",
+ "updated": "2026-10-28T12:25-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -2830,10 +2830,10 @@
    "raw_time": "7:50-9:00am",
    "start": "07:50",
    "end": "09:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Alamo Elementary|2026-10-28|8:15-9:15am",
@@ -2860,10 +2860,10 @@
    "raw_time": "8:15 AM -9:00 AM",
    "start": "08:15",
    "end": "09:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Grattan Elementary|2026-10-28|8:20-9:10am",
@@ -2875,10 +2875,10 @@
    "raw_time": "8:20-9:10am",
    "start": "08:20",
    "end": "09:10",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Garfield Elementary|2026-10-28|8:30-9:30am",
@@ -2890,10 +2890,10 @@
    "raw_time": "8:30-9:30am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Key Elementary|2026-10-28|8:30-9:30am",
@@ -2905,10 +2905,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Taylor Elementary|2026-10-28|8:30-9:30",
@@ -2920,10 +2920,10 @@
    "raw_time": "8:30 - 9:30",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Bryant Elementary|2026-10-28|9:00-10:00am",
@@ -2935,10 +2935,10 @@
    "raw_time": "9:00 - 10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Drew Elementary|2026-10-28|9:00-10:00,11:00-12:00",
@@ -2950,10 +2950,10 @@
    "raw_time": "9:00-10:00, 11:00-12:00",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Hillcrest Elementary|2026-10-28|9:00-10:00a.m.",
@@ -2965,10 +2965,10 @@
    "raw_time": "9:00- 10:00 a.m.",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Moscone Elementary|2026-10-28|9:00-9:30",
@@ -2980,10 +2980,10 @@
    "raw_time": "9:00-9:30",
    "start": "09:00",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Noriega Early Education School|2026-10-28|9:00am-10:00am",
@@ -3010,10 +3010,10 @@
    "raw_time": "9:30-10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "McCoppin Elementary|2026-10-28|9:30-10:45am",
@@ -3025,10 +3025,10 @@
    "raw_time": "9:30-10:45am",
    "start": "09:30",
    "end": "10:45",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Sunset Elementary|2026-10-28|9:40am-10:40am",
@@ -3040,10 +3040,10 @@
    "raw_time": "9:40am-10:40am",
    "start": "09:40",
    "end": "10:40",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Lakeshore Elementary|2026-10-28|10:00-11:15am",
@@ -3055,10 +3055,10 @@
    "raw_time": "10:00-11:15 am",
    "start": "10:00",
    "end": "11:15",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Sutro Elementary|2026-10-28|10:00am-11:00am",
@@ -3070,10 +3070,10 @@
    "raw_time": "10:00am-11:00am",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Yick Wo Elementary School|2026-10-28|10:00am-11:00am",
@@ -3085,10 +3085,10 @@
    "raw_time": "10:00am - 11:00am",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "San Miguel Early Education School|2026-10-28|10:00:00-10:30am",
@@ -3100,10 +3100,10 @@
    "raw_time": "10:00:00-10:30 AM",
    "start": null,
    "end": null,
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-09",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Parks Elementary|2026-10-29|7:45-8:45",
@@ -3117,7 +3117,7 @@
    "end": "08:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3132,7 +3132,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3162,7 +3162,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3192,7 +3192,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3222,7 +3222,7 @@
    "end": "09:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3267,7 +3267,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3282,7 +3282,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3312,7 +3312,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3342,7 +3342,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3357,7 +3357,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3402,7 +3402,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3417,7 +3417,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3462,7 +3462,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3477,7 +3477,7 @@
    "end": "11:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3492,7 +3492,7 @@
    "end": "13:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3507,7 +3507,7 @@
    "end": null,
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3522,7 +3522,7 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3535,10 +3535,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-09",
-   "full_since": "2026-10-10"
+   "last_seen": "2026-10-28",
+   "full_since": null
   },
   {
    "id": "Serra Elementary|2026-11-04|8:30-9:10",
@@ -3552,7 +3552,7 @@
    "end": "09:10",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3567,7 +3567,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3582,7 +3582,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3597,7 +3597,7 @@
    "end": "09:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3627,7 +3627,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3642,7 +3642,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3657,7 +3657,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3672,7 +3672,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3687,7 +3687,7 @@
    "end": "10:40",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3702,7 +3702,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3717,7 +3717,7 @@
    "end": "11:15",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3747,7 +3747,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3762,7 +3762,7 @@
    "end": null,
    "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3777,7 +3777,7 @@
    "end": "08:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3807,7 +3807,7 @@
    "end": "17:15",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3820,10 +3820,10 @@
    "raw_time": "4:30pm - 5:30pm",
    "start": "16:30",
    "end": "17:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Milk Civil Rights Elementary|2026-11-05|5:30-6:30pm",
@@ -3837,7 +3837,7 @@
    "end": "18:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3897,7 +3897,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3927,7 +3927,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3942,7 +3942,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3957,7 +3957,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -3972,7 +3972,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4002,7 +4002,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4047,7 +4047,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4062,7 +4062,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4107,7 +4107,7 @@
    "end": "11:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4122,7 +4122,7 @@
    "end": "17:55",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4137,7 +4137,7 @@
    "end": "18:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4197,7 +4197,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4257,7 +4257,7 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4287,7 +4287,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4317,7 +4317,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4332,7 +4332,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4362,7 +4362,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4377,7 +4377,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4392,7 +4392,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4422,7 +4422,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4437,7 +4437,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4452,7 +4452,7 @@
    "end": "11:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4467,7 +4467,7 @@
    "end": "11:30",
    "status": "open",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4482,7 +4482,7 @@
    "end": null,
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4512,7 +4512,7 @@
    "end": "09:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4542,7 +4542,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4557,7 +4557,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4587,7 +4587,7 @@
    "end": "08:55",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4602,7 +4602,7 @@
    "end": "09:15",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4617,7 +4617,7 @@
    "end": "09:15",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4647,7 +4647,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4662,7 +4662,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4677,7 +4677,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4707,7 +4707,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4737,7 +4737,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4752,7 +4752,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4767,7 +4767,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4782,7 +4782,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4797,7 +4797,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4812,7 +4812,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4842,7 +4842,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4902,7 +4902,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4917,7 +4917,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4947,7 +4947,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4962,7 +4962,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4977,7 +4977,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -4992,7 +4992,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5022,7 +5022,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5037,7 +5037,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5052,7 +5052,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5067,7 +5067,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5082,7 +5082,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5097,7 +5097,7 @@
    "end": null,
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5112,7 +5112,7 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5127,7 +5127,7 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5146,6 +5146,21 @@
    "full_since": "2026-10-08"
   },
   {
+   "id": "Key Elementary|2026-11-18|8:30-9:30am",
+   "school": "Key Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSf9qtSo8KlkBd1Z8Eanxz6W7kd5pZL-fA-AqdbLG-RVeoGxTA/viewform",
+   "date": "2026-11-18",
+   "time": "8:30\u20139:30 AM",
+   "raw_time": "8:30-9:30 am",
+   "start": "08:30",
+   "end": "09:30",
+   "status": "open",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "full_since": null
+  },
+  {
    "id": "Ortega Elementary|2026-11-18|8:30-9:30am",
    "school": "Ortega Elementary",
    "grades": "Pre-K, TK-5",
@@ -5157,7 +5172,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5172,7 +5187,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5187,7 +5202,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5202,7 +5217,7 @@
    "end": "09:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5232,7 +5247,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5247,7 +5262,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5262,7 +5277,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5277,7 +5292,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5292,7 +5307,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5322,7 +5337,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5337,7 +5352,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5352,7 +5367,7 @@
    "end": null,
    "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5367,7 +5382,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5382,7 +5397,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5397,7 +5412,7 @@
    "end": "08:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5457,7 +5472,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5472,7 +5487,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5487,7 +5502,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5502,7 +5517,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5517,7 +5532,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5532,7 +5547,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5547,7 +5562,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5592,7 +5607,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5607,7 +5622,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5637,7 +5652,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5652,7 +5667,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-06",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5682,7 +5697,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5712,7 +5727,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5742,7 +5757,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5772,7 +5787,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5787,7 +5802,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5802,7 +5817,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5817,7 +5832,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5847,7 +5862,7 @@
    "end": "11:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5862,7 +5877,7 @@
    "end": "11:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5877,7 +5892,7 @@
    "end": null,
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5892,7 +5907,7 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5920,10 +5935,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-24",
-   "full_since": "2026-10-24"
+   "last_seen": "2026-10-28",
+   "full_since": null
   },
   {
    "id": "Bryant Elementary|2026-12-02|9:00-10:00am",
@@ -5937,7 +5952,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5952,7 +5967,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5967,7 +5982,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -5997,7 +6012,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6012,7 +6027,7 @@
    "end": "10:40",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6027,7 +6042,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6042,7 +6057,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6057,7 +6072,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6072,7 +6087,7 @@
    "end": null,
    "status": "open",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6087,7 +6102,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6102,7 +6117,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6117,7 +6132,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6177,7 +6192,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6222,7 +6237,7 @@
    "end": "10:15",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6237,7 +6252,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6252,7 +6267,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6267,7 +6282,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6282,7 +6297,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6297,7 +6312,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6312,7 +6327,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6327,7 +6342,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6342,7 +6357,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6357,7 +6372,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6387,7 +6402,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6402,7 +6417,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6432,7 +6447,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6447,7 +6462,7 @@
    "end": "18:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6477,7 +6492,7 @@
    "end": "10:50",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6492,7 +6507,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6507,7 +6522,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6522,7 +6537,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6537,7 +6552,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6552,7 +6567,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6582,7 +6597,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6597,7 +6612,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6612,7 +6627,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6627,7 +6642,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6642,7 +6657,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6657,7 +6672,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6672,7 +6687,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6687,7 +6702,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6702,7 +6717,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6717,7 +6732,7 @@
    "end": null,
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6732,7 +6747,7 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6762,7 +6777,7 @@
    "end": "09:10",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6777,7 +6792,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6792,7 +6807,7 @@
    "end": "09:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6807,7 +6822,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6822,7 +6837,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6837,7 +6852,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6852,7 +6867,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6882,7 +6897,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6897,7 +6912,7 @@
    "end": "10:40",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6912,7 +6927,7 @@
    "end": "11:15",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6942,7 +6957,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6957,7 +6972,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6972,7 +6987,7 @@
    "end": null,
    "status": "open",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -6987,7 +7002,7 @@
    "end": "08:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7002,7 +7017,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7032,7 +7047,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7047,7 +7062,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7062,7 +7077,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7077,7 +7092,7 @@
    "end": "09:15",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7092,7 +7107,7 @@
    "end": "09:15",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7122,7 +7137,7 @@
    "end": "09:15",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7137,7 +7152,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7152,7 +7167,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7167,7 +7182,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7197,7 +7212,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7212,7 +7227,7 @@
    "end": "09:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7227,7 +7242,7 @@
    "end": "10:15",
    "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7242,7 +7257,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7257,7 +7272,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7272,7 +7287,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7287,7 +7302,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7302,7 +7317,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7317,7 +7332,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7332,7 +7347,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7407,7 +7422,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7422,7 +7437,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7437,7 +7452,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7452,7 +7467,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7467,7 +7482,7 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7497,7 +7512,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7512,7 +7527,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7527,7 +7542,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7542,7 +7557,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7557,7 +7572,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7572,7 +7587,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7587,7 +7602,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7617,7 +7632,7 @@
    "end": null,
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7632,7 +7647,7 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7647,7 +7662,7 @@
    "end": "09:15",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7677,7 +7692,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7692,7 +7707,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7707,7 +7722,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7722,7 +7737,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7737,7 +7752,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7752,7 +7767,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7767,7 +7782,7 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7782,7 +7797,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7797,7 +7812,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7812,7 +7827,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7842,7 +7857,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7857,7 +7872,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7887,7 +7902,7 @@
    "end": null,
    "status": "open",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7902,7 +7917,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7917,7 +7932,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7932,7 +7947,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7947,7 +7962,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7962,7 +7977,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7977,7 +7992,7 @@
    "end": "10:20",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -7992,7 +8007,7 @@
    "end": null,
    "status": "open",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8007,7 +8022,7 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8022,7 +8037,7 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8037,7 +8052,7 @@
    "end": "09:10",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8050,10 +8065,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-06",
-   "full_since": "2026-10-06"
+   "last_seen": "2026-10-28",
+   "full_since": null
   },
   {
    "id": "Ortega Elementary|2027-01-06|8:30-9:30am",
@@ -8067,7 +8082,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8082,7 +8097,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8097,7 +8112,7 @@
    "end": "09:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8112,7 +8127,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8127,7 +8142,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8142,7 +8157,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8157,7 +8172,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8172,7 +8187,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8187,7 +8202,7 @@
    "end": "18:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8202,7 +8217,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8217,7 +8232,7 @@
    "end": "18:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8232,7 +8247,7 @@
    "end": "08:55",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8247,7 +8262,7 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8262,7 +8277,7 @@
    "end": "09:15",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8277,7 +8292,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8307,7 +8322,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8337,7 +8352,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8352,7 +8367,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8367,7 +8382,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8382,7 +8397,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8412,7 +8427,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8427,7 +8442,7 @@
    "end": "11:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8457,7 +8472,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8472,7 +8487,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8487,7 +8502,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8502,7 +8517,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8517,7 +8532,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8532,7 +8547,7 @@
    "end": "11:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8547,7 +8562,7 @@
    "end": "17:30",
    "status": "open",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8562,7 +8577,7 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8577,7 +8592,7 @@
    "end": "09:10",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8592,7 +8607,22 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
+   "full_since": null
+  },
+  {
+   "id": "Bryant Elementary|2027-01-13|9:00-10:00am",
+   "school": "Bryant Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSf26_LledLvcRk10HF6XTZM_INrgS6qrXpULVXp-xU37DZLmQ/viewform",
+   "date": "2027-01-13",
+   "time": "9:00\u201310:00 AM",
+   "raw_time": "9:00 - 10:00 am",
+   "start": "09:00",
+   "end": "10:00",
+   "status": "open",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8607,7 +8637,7 @@
    "end": "09:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8622,7 +8652,7 @@
    "end": "09:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8637,7 +8667,37 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
+   "full_since": null
+  },
+  {
+   "id": "Drew Elementary|2027-01-13|9:00-10:00,11:00-12:00",
+   "school": "Drew Elementary",
+   "grades": "Toddler, Pre-K, TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSf9c_ZCodOW06O6l2HxbMQ3kU8a8AxoZU3-Ojevz723lyqR8Q/viewform",
+   "date": "2027-01-13",
+   "time": "9:00\u201310:00 AM, 11:00 AM\u201312:00 PM",
+   "raw_time": "9:00-10:00, 11:00-12:00",
+   "start": "09:00",
+   "end": "10:00",
+   "status": "open",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "full_since": null
+  },
+  {
+   "id": "Hillcrest Elementary|2027-01-13|9:00-10:00a.m.",
+   "school": "Hillcrest Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSfdSiVr8KU6feah_nrffWnx3CiGO4fJm2A2LxaOzFlyaz8YpQ/viewform",
+   "date": "2027-01-13",
+   "time": "9:00\u201310:00 AM",
+   "raw_time": "9:00- 10:00 a.m.",
+   "start": "09:00",
+   "end": "10:00",
+   "status": "open",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8652,7 +8712,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8682,7 +8742,7 @@
    "end": "10:40",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8697,7 +8757,7 @@
    "end": "11:15",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8712,7 +8772,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8727,7 +8787,22 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
+   "full_since": null
+  },
+  {
+   "id": "Yick Wo Elementary School|2027-01-13|10:00am-11:00am",
+   "school": "Yick Wo Elementary School",
+   "grades": "K-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSf0go9Rsh8q032i7X8al-Pk2zUHLL1ukUOvUnRRHLM8dhJjaw/viewform",
+   "date": "2027-01-13",
+   "time": "10:00\u201311:00 AM",
+   "raw_time": "10:00am - 11:00am",
+   "start": "10:00",
+   "end": "11:00",
+   "status": "open",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8742,7 +8817,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8757,7 +8832,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8772,7 +8847,7 @@
    "end": "09:15",
    "status": "open",
    "first_seen": "2026-10-06",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8787,7 +8862,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8802,7 +8877,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8817,7 +8892,22 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
+   "full_since": null
+  },
+  {
+   "id": "Glen Park Elementary|2027-01-15|9:00:00amto10:15am",
+   "school": "Glen Park Elementary",
+   "grades": "K-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSeorR9G6wD922pX3GX1ngOZwK4UrNAKdcRLmd6PtIRhDGlgOA/viewform",
+   "date": "2027-01-15",
+   "time": "9:00:00 AM to 10:15am",
+   "raw_time": "9:00:00 AM to 10:15am",
+   "start": null,
+   "end": null,
+   "status": "open",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8832,7 +8922,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8847,7 +8937,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8862,7 +8952,22 @@
    "end": "10:20",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
+   "full_since": null
+  },
+  {
+   "id": "Glen Park Elementary|2027-01-19|9:00:00amto10:15am",
+   "school": "Glen Park Elementary",
+   "grades": "K-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSeorR9G6wD922pX3GX1ngOZwK4UrNAKdcRLmd6PtIRhDGlgOA/viewform",
+   "date": "2027-01-19",
+   "time": "9:00:00 AM to 10:15am",
+   "raw_time": "9:00:00 AM to 10:15am",
+   "start": null,
+   "end": null,
+   "status": "open",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8877,7 +8982,7 @@
    "end": "09:10",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8890,10 +8995,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-24",
-   "full_since": "2026-10-24"
+   "last_seen": "2026-10-28",
+   "full_since": null
   },
   {
    "id": "Carver Elementary|2027-01-20|9:00-9:45",
@@ -8907,7 +9012,7 @@
    "end": "09:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8922,7 +9027,7 @@
    "end": "10:40",
    "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8937,7 +9042,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8952,7 +9057,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8982,7 +9087,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -8997,7 +9102,7 @@
    "end": "09:15",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9012,7 +9117,7 @@
    "end": "09:15",
    "status": "open",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9027,7 +9132,7 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9042,7 +9147,7 @@
    "end": "09:15",
    "status": "open",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9057,7 +9162,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9072,7 +9177,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9087,7 +9192,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9102,7 +9207,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9117,7 +9222,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9132,7 +9237,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9147,7 +9252,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9162,7 +9267,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9177,7 +9282,7 @@
    "end": "11:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9207,7 +9312,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9222,7 +9327,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9237,7 +9342,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9252,7 +9357,7 @@
    "end": "15:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9267,7 +9372,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9282,7 +9387,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9297,7 +9402,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9312,7 +9417,7 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9325,10 +9430,10 @@
    "raw_time": "8:15 AM -9:00 AM",
    "start": "08:15",
    "end": "09:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-16",
-   "full_since": "2026-10-16"
+   "last_seen": "2026-10-28",
+   "full_since": null
   },
   {
    "id": "Grattan Elementary|2027-01-27|8:20-9:10am",
@@ -9342,7 +9447,7 @@
    "end": "09:10",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9372,7 +9477,7 @@
    "end": "11:15",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9387,7 +9492,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9402,7 +9507,7 @@
    "end": "10:45",
    "status": "open",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9417,7 +9522,7 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9432,7 +9537,7 @@
    "end": "10:30",
    "status": "open",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9447,7 +9552,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9462,7 +9567,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9477,7 +9582,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9492,7 +9597,7 @@
    "end": "10:20",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9507,7 +9612,7 @@
    "end": "11:30",
    "status": "open",
    "first_seen": "2026-10-06",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9522,7 +9627,7 @@
    "end": "11:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9537,7 +9642,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9552,7 +9657,7 @@
    "end": "10:20",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9582,7 +9687,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9612,7 +9717,7 @@
    "end": "11:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9627,7 +9732,7 @@
    "end": "10:20",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9642,7 +9747,7 @@
    "end": "11:30",
    "status": "open",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9657,7 +9762,7 @@
    "end": "11:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9672,7 +9777,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9687,7 +9792,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9702,7 +9807,22 @@
    "end": "10:20",
    "status": "open",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
+   "full_since": null
+  },
+  {
+   "id": "Moscone Elementary|2027-03-17|9:00-9:30",
+   "school": "Moscone Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSd_oPcd9kYNy9L9iWU-1v-wXJwOY8eIO3N2onmr8WRPGDdqWA/viewform",
+   "date": "2027-03-17",
+   "time": "9:00\u20139:30 AM",
+   "raw_time": "9:00-9:30",
+   "start": "09:00",
+   "end": "09:30",
+   "status": "open",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9717,7 +9837,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9732,7 +9852,7 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9747,7 +9867,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9762,7 +9882,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9777,7 +9897,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9792,7 +9912,7 @@
    "end": null,
    "status": "open",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9807,7 +9927,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9822,7 +9942,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9837,7 +9957,7 @@
    "end": "10:20",
    "status": "open",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9852,7 +9972,7 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9867,7 +9987,7 @@
    "end": "11:30",
    "status": "open",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9882,7 +10002,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9897,7 +10017,7 @@
    "end": "12:00",
    "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9912,7 +10032,7 @@
    "end": "09:45",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9927,7 +10047,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9942,7 +10062,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9957,7 +10077,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9972,7 +10092,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-06",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -9987,7 +10107,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -10002,7 +10122,7 @@
    "end": "09:30",
    "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -10017,7 +10137,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -10032,7 +10152,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
@@ -10047,7 +10167,7 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "full_since": null
   },
   {
