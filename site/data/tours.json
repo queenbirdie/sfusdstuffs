@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T12:25-07:00",
+ "updated": "2026-10-28T23:39-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -3145,10 +3145,10 @@
    "raw_time": "9:00 a.m. - 10 a.m.",
    "start": "09:00",
    "end": "10:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-26",
-   "full_since": "2026-10-26"
+   "last_seen": "2026-10-28",
+   "full_since": null
   },
   {
    "id": "Lee Newcomer School|2026-10-29|9:00a.m.-10a.m.",
@@ -3175,10 +3175,10 @@
    "raw_time": "9:00-10:00am",
    "start": "09:00",
    "end": "10:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-22",
-   "full_since": "2026-10-23"
+   "last_seen": "2026-10-28",
+   "full_since": null
   },
   {
    "id": "San Francisco Community TK-8|2026-10-29|9:30-10:30am",
@@ -3280,10 +3280,10 @@
    "raw_time": "10:00-11:00 AM",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-28",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Revere TK-8 School|2026-10-30|sat,dec30,1899",
@@ -3760,10 +3760,10 @@
    "raw_time": "10:00:00-10:30 AM",
    "start": null,
    "end": null,
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-09",
    "last_seen": "2026-10-28",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Parks Elementary|2026-11-05|7:45-8:45",
@@ -5380,10 +5380,10 @@
    "raw_time": "9:30-10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-28",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Milk Civil Rights Elementary|2026-11-19|9:45-10:45am",
@@ -7771,6 +7771,21 @@
    "full_since": null
   },
   {
+   "id": "Yu K-8 School|2026-12-17|9:30-10:30am",
+   "school": "Yu K-8 School",
+   "grades": "K-8",
+   "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLScl4ym57C_rlSI4QNi5sxxZ53dkZ0ERsHimAcUFzedABru_uA/viewform",
+   "date": "2026-12-17",
+   "time": "9:30\u201310:30 AM",
+   "raw_time": "9:30-10:30am",
+   "start": "09:30",
+   "end": "10:30",
+   "status": "open",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "full_since": null
+  },
+  {
    "id": "West Portal Elementary|2026-12-18|8am-9am",
    "school": "West Portal Elementary",
    "grades": "TK-5",
@@ -7990,10 +8005,10 @@
    "raw_time": "10:00- 10:20 am",
    "start": "10:00",
    "end": "10:20",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-28",
-   "full_since": null
+   "full_since": "2026-10-28"
   },
   {
    "id": "Muir Elementary|2027-01-05|11:00:00am-11:30am",
@@ -10002,6 +10017,21 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-10-28",
+   "full_since": null
+  },
+  {
+   "id": "Rodriguez Early Education School|2027-03-24|10:00-10:20am",
+   "school": "Rodriguez Early Education School",
+   "grades": "Pre-K, TK",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSeZ4aoLQGhOVW5cgYvn6JQcgYeLr-4vAx-aqezRTvXvDR6P7g/viewform",
+   "date": "2027-03-24",
+   "time": "10:00\u201310:20 AM",
+   "raw_time": "10:00- 10:20 am",
+   "start": "10:00",
+   "end": "10:20",
+   "status": "open",
+   "first_seen": "2026-10-28",
    "last_seen": "2026-10-28",
    "full_since": null
   },
