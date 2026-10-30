@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T12:29-07:00",
+ "updated": "2026-10-29T23:40-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -3235,10 +3235,10 @@
    "raw_time": "9:00 - 10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-10-14",
-   "full_since": "2026-10-15"
+   "last_seen": "2026-10-29",
+   "full_since": null
   },
   {
    "id": "San Francisco Public Montessori Elementary|2026-10-30|9:00-10:00am",
@@ -3250,10 +3250,10 @@
    "raw_time": "9:00-10:00am",
    "start": "09:00",
    "end": "10:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-23",
-   "full_since": "2026-10-23"
+   "last_seen": "2026-10-29",
+   "full_since": null
   },
   {
    "id": "Cleveland Elementary|2026-10-30|10:00-11:00am",
@@ -3796,6 +3796,21 @@
    "full_since": "2026-10-20"
   },
   {
+   "id": "Yu K-8 School|2026-11-05|9:30-10:30am",
+   "school": "Yu K-8 School",
+   "grades": "K-8",
+   "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLScl4ym57C_rlSI4QNi5sxxZ53dkZ0ERsHimAcUFzedABru_uA/viewform",
+   "date": "2026-11-05",
+   "time": "9:30\u201310:30 AM",
+   "raw_time": "9:30-10:30am",
+   "start": "09:30",
+   "end": "10:30",
+   "status": "open",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "full_since": null
+  },
+  {
    "id": "San Francisco Community TK-8|2026-11-05|4:15-5:15pm",
    "school": "San Francisco Community TK-8",
    "grades": "TK-8",
@@ -3865,10 +3880,10 @@
    "raw_time": "8:15-9:15 am",
    "start": "08:15",
    "end": "09:15",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-18",
    "last_seen": "2026-10-29",
-   "full_since": null
+   "full_since": "2026-10-29"
   },
   {
    "id": "Alvarado Elementary|2026-11-06|8:30-9:30am",
@@ -4120,10 +4135,10 @@
    "raw_time": "4:30-5:55pm",
    "start": "16:30",
    "end": "17:55",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-29",
-   "full_since": null
+   "full_since": "2026-10-29"
   },
   {
    "id": "Flynn Elementary|2026-11-06|5:00-6:00pm",
@@ -6415,10 +6430,10 @@
    "raw_time": "10:00-11:00 AM",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-29",
-   "full_since": null
+   "full_since": "2026-10-29"
   },
   {
    "id": "Ulloa Elementary|2026-12-04|10:00-11:00am",
@@ -6610,10 +6625,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-29",
-   "full_since": null
+   "full_since": "2026-10-29"
   },
   {
    "id": "Webster Elementary|2026-12-08|8:30-9:30am",
@@ -7780,10 +7795,10 @@
    "raw_time": "9:30-10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-28",
    "last_seen": "2026-10-29",
-   "full_since": null
+   "full_since": "2026-10-29"
   },
   {
    "id": "West Portal Elementary|2026-12-18|8am-9am",
@@ -8412,6 +8427,21 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-10-29",
+   "full_since": null
+  },
+  {
+   "id": "Cleveland Elementary|2027-01-08|10:00-11:00am",
+   "school": "Cleveland Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSdSyTo2pkf45UnefaUTJ4jFa2nYzmqx1FvDpsoRD1SDj86tvw/viewform",
+   "date": "2027-01-08",
+   "time": "10:00\u201311:00 AM",
+   "raw_time": "10:00-11:00 AM",
+   "start": "10:00",
+   "end": "11:00",
+   "status": "open",
+   "first_seen": "2026-10-29",
    "last_seen": "2026-10-29",
    "full_since": null
   },
