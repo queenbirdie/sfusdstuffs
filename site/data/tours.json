@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T12:07-07:00",
+ "updated": "2026-10-30T23:30-07:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -4135,10 +4135,10 @@
    "raw_time": "4:30-5:55pm",
    "start": "16:30",
    "end": "17:55",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-30",
-   "full_since": null
+   "full_since": "2026-10-30"
   },
   {
    "id": "Flynn Elementary|2026-11-06|5:00-6:00pm",
@@ -4636,6 +4636,21 @@
    "full_since": null
   },
   {
+   "id": "West Portal Elementary|2026-11-13|8am-9am",
+   "school": "West Portal Elementary",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSeu4a63PL9LEKD4SIP1g9yYS6nZXfIkaSBOf6_Ls_kjy3BddQ/viewform",
+   "date": "2026-11-13",
+   "time": "8:00\u20139:00 AM",
+   "raw_time": "8am-9am",
+   "start": "08:00",
+   "end": "09:00",
+   "status": "open",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "full_since": null
+  },
+  {
    "id": "Alamo Elementary|2026-11-13|8:15-9:15am",
    "school": "Alamo Elementary",
    "grades": "TK-5",
@@ -4810,10 +4825,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-30",
-   "full_since": null
+   "full_since": "2026-10-30"
   },
   {
    "id": "Cleveland Elementary|2026-11-13|10:00-11:00am",
@@ -9886,6 +9901,21 @@
    "full_since": null
   },
   {
+   "id": "Stockton Early Education School|2027-03-16|10:30-11:30am",
+   "school": "Stockton Early Education School",
+   "grades": "Toddler, Pre-K, TK",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLScQCvqzTgXNf6l1Y7pcsFykC4EYKUA79TEqh4TjU9GnXiSSDg/viewform",
+   "date": "2027-03-16",
+   "time": "10:30\u201311:30 AM",
+   "raw_time": "10:30-11:30 am",
+   "start": "10:30",
+   "end": "11:30",
+   "status": "open",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "full_since": null
+  },
+  {
    "id": "Moscone Elementary|2027-03-17|9:00-9:30",
    "school": "Moscone Elementary",
    "grades": "TK-5",
@@ -10060,10 +10090,10 @@
    "raw_time": "10:30-11:30 am",
    "start": "10:30",
    "end": "11:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-30",
-   "full_since": null
+   "full_since": "2026-10-30"
   },
   {
    "id": "Ortega Elementary|2027-03-24|8:30-9:30am",
