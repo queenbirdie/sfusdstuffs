@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T00:01-07:00",
+ "updated": "2026-11-01T10:50-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -3535,10 +3535,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-09",
    "last_seen": "2026-11-01",
-   "full_since": null
+   "full_since": "2026-11-01"
   },
   {
    "id": "Serra Elementary|2026-11-04|8:30-9:10",
@@ -3805,10 +3805,10 @@
    "raw_time": "9:30-10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29",
-   "full_since": "2026-10-30"
+   "last_seen": "2026-11-01",
+   "full_since": null
   },
   {
    "id": "San Francisco Community TK-8|2026-11-05|4:15-5:15pm",
@@ -4045,10 +4045,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-21",
-   "full_since": "2026-10-21"
+   "last_seen": "2026-11-01",
+   "full_since": null
   },
   {
    "id": "Cleveland Elementary|2026-11-06|10:00-11:00am",
@@ -4915,10 +4915,10 @@
    "raw_time": "9:30-10:45am",
    "start": "09:30",
    "end": "10:45",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-21",
-   "full_since": "2026-10-21"
+   "last_seen": "2026-11-01",
+   "full_since": null
   },
   {
    "id": "Longfellow Elementary|2026-11-16|10:00-10:45am",
@@ -7810,10 +7810,10 @@
    "raw_time": "9:30-10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-28",
    "last_seen": "2026-11-01",
-   "full_since": null
+   "full_since": "2026-11-01"
   },
   {
    "id": "West Portal Elementary|2026-12-18|8am-9am",
@@ -9640,10 +9640,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-21",
    "last_seen": "2026-11-01",
-   "full_since": null
+   "full_since": "2026-11-01"
   },
   {
    "id": "Ulloa Elementary|2027-01-29|10:00-11:00am",
@@ -9940,10 +9940,10 @@
    "raw_time": "9:00 am- 10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-01",
-   "full_since": null
+   "full_since": "2026-11-01"
   },
   {
    "id": "West Portal Elementary|2027-03-19|8am-9am",
