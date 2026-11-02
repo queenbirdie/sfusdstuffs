@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T10:50-08:00",
+ "updated": "2026-11-01T23:00-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -3385,10 +3385,10 @@
    "raw_time": "8:30-9:30am",
    "start": "08:30",
    "end": "09:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-19",
-   "full_since": "2026-10-19"
+   "last_seen": "2026-11-01",
+   "full_since": null
   },
   {
    "id": "Webster Elementary|2026-11-03|8:30-9:30am",
@@ -3522,6 +3522,21 @@
    "end": "09:00",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-11-01",
+   "full_since": null
+  },
+  {
+   "id": "Grattan Elementary|2026-11-04|8:20-9:10am",
+   "school": "Grattan Elementary",
+   "grades": "Pre-K, TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSfGKB9rGl5ZIy15j8V6KFqp7M4NvVaIOW0YGDBvsRaZyBnxuA/viewform",
+   "date": "2026-11-04",
+   "time": "8:20\u20139:10 AM",
+   "raw_time": "8:20-9:10am",
+   "start": "08:20",
+   "end": "09:10",
+   "status": "open",
+   "first_seen": "2026-11-01",
    "last_seen": "2026-11-01",
    "full_since": null
   },
@@ -4135,10 +4150,10 @@
    "raw_time": "4:30-5:55pm",
    "start": "16:30",
    "end": "17:55",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-30",
-   "full_since": "2026-10-30"
+   "last_seen": "2026-11-01",
+   "full_since": null
   },
   {
    "id": "Flynn Elementary|2026-11-06|5:00-6:00pm",
@@ -4315,10 +4330,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-10-13",
-   "full_since": "2026-10-13"
+   "last_seen": "2026-11-01",
+   "full_since": null
   },
   {
    "id": "Webster Elementary|2026-11-10|8:30-9:30am",
@@ -4855,10 +4870,10 @@
    "raw_time": "10:00-11:00 AM",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-22",
    "last_seen": "2026-11-01",
-   "full_since": null
+   "full_since": "2026-11-01"
   },
   {
    "id": "Yick Wo Elementary School|2026-11-13|10:00am-11:00am",
@@ -5080,10 +5095,10 @@
    "raw_time": "9:30-10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-01",
-   "full_since": null
+   "full_since": "2026-11-01"
   },
   {
    "id": "Harte Elementary|2026-11-17|10:00-10:45am",
@@ -7450,10 +7465,10 @@
    "raw_time": "9:00-10:00 AM",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-01",
-   "full_since": null
+   "full_since": "2026-11-01"
   },
   {
    "id": "Milk Civil Rights Elementary|2026-12-12|9:30-10:30am",
@@ -7587,6 +7602,21 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-14",
+   "last_seen": "2026-11-01",
+   "full_since": null
+  },
+  {
+   "id": "Sheridan Elementary|2026-12-15|9:00-10:00am",
+   "school": "Sheridan Elementary",
+   "grades": "Pre-K, TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSezIpXttoKr28anB_YG88ceRIcge0tYoTIY1FmjsJJsBWbJuA/viewform",
+   "date": "2026-12-15",
+   "time": "9:00\u201310:00 AM",
+   "raw_time": "9:00-10:00 AM",
+   "start": "09:00",
+   "end": "10:00",
+   "status": "open",
+   "first_seen": "2026-11-01",
    "last_seen": "2026-11-01",
    "full_since": null
   },
@@ -7810,10 +7840,10 @@
    "raw_time": "9:30-10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-28",
    "last_seen": "2026-11-01",
-   "full_since": "2026-11-01"
+   "full_since": null
   },
   {
    "id": "West Portal Elementary|2026-12-18|8am-9am",
@@ -7960,10 +7990,10 @@
    "raw_time": "9:00-10:00 AM",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-01",
-   "full_since": null
+   "full_since": "2026-11-01"
   },
   {
    "id": "Longfellow Elementary|2027-01-04|10:00-10:45am",
@@ -7990,10 +8020,10 @@
    "raw_time": "8:30-9:30am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-19",
    "last_seen": "2026-11-01",
-   "full_since": null
+   "full_since": "2026-11-01"
   },
   {
    "id": "Stevenson Elementary|2027-01-05|8:30-9:30am",
@@ -9001,6 +9031,21 @@
    "full_since": null
   },
   {
+   "id": "Sheridan Elementary|2027-01-19|9:00-10:00am",
+   "school": "Sheridan Elementary",
+   "grades": "Pre-K, TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSezIpXttoKr28anB_YG88ceRIcge0tYoTIY1FmjsJJsBWbJuA/viewform",
+   "date": "2027-01-19",
+   "time": "9:00\u201310:00 AM",
+   "raw_time": "9:00-10:00 AM",
+   "start": "09:00",
+   "end": "10:00",
+   "status": "open",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01",
+   "full_since": null
+  },
+  {
    "id": "Sloat Elementary|2027-01-19|9:00-10:00am",
    "school": "Sloat Elementary",
    "grades": "TK-5",
@@ -9670,10 +9715,10 @@
    "raw_time": "8:30-9:30am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-01",
-   "full_since": null
+   "full_since": "2026-11-01"
   },
   {
    "id": "Rodriguez Early Education School|2027-02-02|10:00-10:20am",
