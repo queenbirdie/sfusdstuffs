@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T12:27-08:00",
+ "updated": "2026-11-03T23:07-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -867,7 +867,7 @@
    "grades": "K-5",
    "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLSdttbyVviotDeHYJWbJOjaRLGrE-E_yMMf28mRxCuE_MEYZRg/viewform",
    "note": "TK feeder at Tule Elk Park EES",
-   "status": "",
+   "status": "Full: interest list only",
    "profile_url": "https://www.sfusd.edu/school/new-traditions-creative-arts-elementary-school",
    "start": null,
    "end": null,
@@ -1355,7 +1355,7 @@
    "grades": "Pre-K, TK",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSe5_WH3IJ3NRXqnIduat7LFflffTwYiWmXaGWWSCzzmBlrD2g/viewform",
    "note": "TK feeds into Lilienthal K-8, New Traditions ES, Peabody ES, or Yick Wo ES",
-   "status": "Full: interest list only",
+   "status": "",
    "profile_url": "https://www.sfusd.edu/school/tule-elk-park-early-education-school",
    "start": null,
    "end": null,
@@ -3655,10 +3655,10 @@
    "raw_time": "9:00 - 10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-11-02",
-   "full_since": "2026-11-03"
+   "last_seen": "2026-11-03",
+   "full_since": null
   },
   {
    "id": "Drew Elementary|2026-11-04|9:00-10:00,11:00-12:00",
@@ -3715,10 +3715,10 @@
    "raw_time": "9:00-10:00 AM",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-03",
-   "full_since": null
+   "full_since": "2026-11-03"
   },
   {
    "id": "Visitacion Valley Elementary|2026-11-04|9:30-10:30am",
@@ -3925,10 +3925,10 @@
    "raw_time": "8am-9am",
    "start": "08:00",
    "end": "09:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-20",
    "last_seen": "2026-11-03",
-   "full_since": null
+   "full_since": "2026-11-03"
   },
   {
    "id": "Alamo Elementary|2026-11-06|8:15-9:15am",
@@ -3955,10 +3955,10 @@
    "raw_time": "8:30-9:30am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-03",
-   "full_since": null
+   "full_since": "2026-11-03"
   },
   {
    "id": "Marshall Elementary|2026-11-06|8:30-10am",
@@ -4150,10 +4150,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-19",
-   "full_since": "2026-10-19"
+   "last_seen": "2026-11-03",
+   "full_since": null
   },
   {
    "id": "Ulloa Elementary|2026-11-06|10:00-11:00am",
@@ -8140,10 +8140,10 @@
    "raw_time": "9:30-10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-11-02",
    "last_seen": "2026-11-03",
-   "full_since": null
+   "full_since": "2026-11-03"
   },
   {
    "id": "Rodriguez Early Education School|2027-01-05|10:00-10:20am",
@@ -8382,6 +8382,21 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-11-03",
+   "full_since": null
+  },
+  {
+   "id": "Yu K-8 School|2027-01-07|9:30-10:30am",
+   "school": "Yu K-8 School",
+   "grades": "K-8",
+   "link": "https://docs.google.com/forms/u/2/d/e/1FAIpQLScl4ym57C_rlSI4QNi5sxxZ53dkZ0ERsHimAcUFzedABru_uA/viewform",
+   "date": "2027-01-07",
+   "time": "9:30\u201310:30 AM",
+   "raw_time": "9:30-10:30am",
+   "start": "09:30",
+   "end": "10:30",
+   "status": "open",
+   "first_seen": "2026-11-03",
    "last_seen": "2026-11-03",
    "full_since": null
   },
