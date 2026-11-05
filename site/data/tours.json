@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T12:43-08:00",
+ "updated": "2026-11-04T23:36-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -1355,7 +1355,7 @@
    "grades": "Pre-K, TK",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSe5_WH3IJ3NRXqnIduat7LFflffTwYiWmXaGWWSCzzmBlrD2g/viewform",
    "note": "TK feeds into Lilienthal K-8, New Traditions ES, Peabody ES, or Yick Wo ES",
-   "status": "",
+   "status": "Full: interest list only",
    "profile_url": "https://www.sfusd.edu/school/tule-elk-park-early-education-school",
    "start": null,
    "end": null,
@@ -3865,10 +3865,10 @@
    "raw_time": "9:30-10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-29",
    "last_seen": "2026-11-04",
-   "full_since": null
+   "full_since": "2026-11-04"
   },
   {
    "id": "San Francisco Community TK-8|2026-11-05|4:15-5:15pm",
@@ -4150,10 +4150,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-19",
    "last_seen": "2026-11-04",
-   "full_since": null
+   "full_since": "2026-11-04"
   },
   {
    "id": "Ulloa Elementary|2026-11-06|10:00-11:00am",
@@ -4285,10 +4285,10 @@
    "raw_time": "2:00-3:00 pm",
    "start": "14:00",
    "end": "15:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-26",
-   "full_since": "2026-10-27"
+   "last_seen": "2026-11-04",
+   "full_since": null
   },
   {
    "id": "Lilienthal TK-8 School|2026-11-09|5:00-6:00pm",
@@ -5245,10 +5245,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-28",
    "last_seen": "2026-11-04",
-   "full_since": null
+   "full_since": "2026-11-04"
   },
   {
    "id": "Ortega Elementary|2026-11-18|8:30-9:30am",
@@ -6025,10 +6025,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-09",
    "last_seen": "2026-11-04",
-   "full_since": null
+   "full_since": "2026-11-04"
   },
   {
    "id": "Bryant Elementary|2026-12-02|9:00-10:00am",
@@ -8011,6 +8011,21 @@
    "full_since": "2026-10-13"
   },
   {
+   "id": "San Miguel Early Education School|2026-12-18|10:00:00-10:30am",
+   "school": "San Miguel Early Education School",
+   "grades": "Pre-K, TK",
+   "link": "https://forms.gle/1y2hXN2QgAdqEdte6",
+   "date": "2026-12-18",
+   "time": "10:00:00-10:30 AM",
+   "raw_time": "10:00:00-10:30 AM",
+   "start": null,
+   "end": null,
+   "status": "open",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "full_since": null
+  },
+  {
    "id": "San Miguel Early Education School|2026-12-19|10:00:00-10:30am",
    "school": "San Miguel Early Education School",
    "grades": "Pre-K, TK",
@@ -8020,10 +8035,10 @@
    "raw_time": "10:00:00-10:30 AM",
    "start": null,
    "end": null,
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-14",
    "last_seen": "2026-11-04",
-   "full_since": null
+   "full_since": "2026-11-04"
   },
   {
    "id": "Harte Elementary|2026-12-22|10:00-10:45am",
@@ -8215,10 +8230,10 @@
    "raw_time": "8:20-9:10am",
    "start": "08:20",
    "end": "09:10",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-04",
-   "full_since": null
+   "full_since": "2026-11-04"
   },
   {
    "id": "Key Elementary|2027-01-06|8:30-9:30am",
@@ -8395,10 +8410,10 @@
    "raw_time": "9:30-10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
-   "full_since": "2026-11-04"
+   "last_seen": "2026-11-04",
+   "full_since": null
   },
   {
    "id": "Milk Civil Rights Elementary|2027-01-07|5:30-6:30pm",
@@ -9190,10 +9205,10 @@
    "raw_time": "10:00- 10:20 am",
    "start": "10:00",
    "end": "10:20",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-04",
-   "full_since": null
+   "full_since": "2026-11-04"
   },
   {
    "id": "Glen Park Elementary|2027-01-19|9:00:00amto10:15am",
