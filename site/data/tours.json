@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T12:58-08:00",
+ "updated": "2026-11-05T23:31-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -3955,10 +3955,10 @@
    "raw_time": "8:30-9:30am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-05",
-   "full_since": null
+   "full_since": "2026-11-05"
   },
   {
    "id": "Marshall Elementary|2026-11-06|8:30-10am",
@@ -4105,10 +4105,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-11-02",
-   "full_since": "2026-11-03"
+   "last_seen": "2026-11-05",
+   "full_since": null
   },
   {
    "id": "Cleveland Elementary|2026-11-06|10:00-11:00am",
@@ -4195,10 +4195,10 @@
    "raw_time": "4:30-5:55pm",
    "start": "16:30",
    "end": "17:55",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-05",
-   "full_since": null
+   "full_since": "2026-11-05"
   },
   {
    "id": "Flynn Elementary|2026-11-06|5:00-6:00pm",
@@ -4255,10 +4255,10 @@
    "raw_time": "9:30am - 10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-05",
-   "full_since": null
+   "full_since": "2026-11-05"
   },
   {
    "id": "Parker Elementary|2026-11-09|10:15-11am",
@@ -9505,10 +9505,10 @@
    "raw_time": "8:30-10:00 am",
    "start": "08:30",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-05",
-   "full_since": null
+   "full_since": "2026-11-05"
   },
   {
    "id": "Chinese Immersion School|2027-01-22|9:00-10:00am",
