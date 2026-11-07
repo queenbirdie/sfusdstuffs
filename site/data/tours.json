@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T12:20-08:00",
+ "updated": "2026-11-06T22:44-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -490,7 +490,7 @@
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSf9qtSo8KlkBd1Z8Eanxz6W7kd5pZL-fA-AqdbLG-RVeoGxTA/viewform",
    "note": "",
-   "status": "",
+   "status": "Full: interest list only",
    "profile_url": "https://www.sfusd.edu/school/francis-scott-key-elementary-school",
    "start": null,
    "end": null,
@@ -598,7 +598,7 @@
    "grades": "K-8",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSddb8ggymi3fjB7lnNbw058u4V930lgzl9yV06QtyYxjVkxjQ/viewform",
    "note": "TK feeder at Tule Elk Park EES",
-   "status": "",
+   "status": "Full: interest list only",
    "profile_url": "",
    "start": null,
    "end": null,
@@ -4300,10 +4300,10 @@
    "raw_time": "5:00-6:00pm",
    "start": "17:00",
    "end": "18:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-06",
-   "full_since": null
+   "full_since": "2026-11-06"
   },
   {
    "id": "New Traditions Elementary|2026-11-09|5:00-6:00pm",
@@ -4932,6 +4932,21 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-11-06",
+   "full_since": null
+  },
+  {
+   "id": "Revere TK-8 School|2026-11-13|10:30-11:30am",
+   "school": "Revere TK-8 School",
+   "grades": "Pre-K, TK-8",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSfg19NDZGaA_GpLWWpHE08OqXM7cTCzEe-0HUQfSUX40ep1qA/viewform",
+   "date": "2026-11-13",
+   "time": "10:30\u201311:30 AM",
+   "raw_time": "10:30-11:30 am",
+   "start": "10:30",
+   "end": "11:30",
+   "status": "open",
+   "first_seen": "2026-11-06",
    "last_seen": "2026-11-06",
    "full_since": null
   },
@@ -5635,10 +5650,10 @@
    "raw_time": "9:30-10:45am",
    "start": "09:30",
    "end": "10:45",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-06",
-   "full_since": null
+   "full_since": "2026-11-06"
   },
   {
    "id": "Argonne Early Education School|2026-11-20|10:00am-10:30am(prek)",
@@ -5800,10 +5815,10 @@
    "raw_time": "9:30am - 10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-06",
-   "full_since": null
+   "full_since": "2026-11-06"
   },
   {
    "id": "Longfellow Elementary|2026-11-30|10:00-10:45am",
@@ -6537,6 +6552,21 @@
    "end": "11:00",
    "status": "open",
    "first_seen": "2026-10-07",
+   "last_seen": "2026-11-06",
+   "full_since": null
+  },
+  {
+   "id": "Revere TK-8 School|2026-12-04|10:30-11:30am",
+   "school": "Revere TK-8 School",
+   "grades": "Pre-K, TK-8",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSfg19NDZGaA_GpLWWpHE08OqXM7cTCzEe-0HUQfSUX40ep1qA/viewform",
+   "date": "2026-12-04",
+   "time": "10:30\u201311:30 AM",
+   "raw_time": "10:30-11:30 am",
+   "start": "10:30",
+   "end": "11:30",
+   "status": "open",
+   "first_seen": "2026-11-06",
    "last_seen": "2026-11-06",
    "full_since": null
   },
@@ -7469,6 +7499,21 @@
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-09",
    "full_since": "2026-10-09"
+  },
+  {
+   "id": "Revere TK-8 School|2026-12-11|10:30-11:30am",
+   "school": "Revere TK-8 School",
+   "grades": "Pre-K, TK-8",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSfg19NDZGaA_GpLWWpHE08OqXM7cTCzEe-0HUQfSUX40ep1qA/viewform",
+   "date": "2026-12-11",
+   "time": "10:30\u201311:30 AM",
+   "raw_time": "10:30-11:30 am",
+   "start": "10:30",
+   "end": "11:30",
+   "status": "open",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "full_since": null
   },
   {
    "id": "Revere TK-8 School|2026-12-11|sat,dec30,1899",
@@ -8500,10 +8545,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-25",
-   "full_since": "2026-10-26"
+   "last_seen": "2026-11-06",
+   "full_since": null
   },
   {
    "id": "Sanchez Elementary|2027-01-08|8:30-9:30",
@@ -8667,6 +8712,21 @@
    "end": "11:30",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-11-06",
+   "full_since": null
+  },
+  {
+   "id": "Revere TK-8 School|2027-01-08|10:30-11:30am",
+   "school": "Revere TK-8 School",
+   "grades": "Pre-K, TK-8",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSfg19NDZGaA_GpLWWpHE08OqXM7cTCzEe-0HUQfSUX40ep1qA/viewform",
+   "date": "2027-01-08",
+   "time": "10:30\u201311:30 AM",
+   "raw_time": "10:30-11:30 am",
+   "start": "10:30",
+   "end": "11:30",
+   "status": "open",
+   "first_seen": "2026-11-06",
    "last_seen": "2026-11-06",
    "full_since": null
   },
@@ -9265,10 +9325,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-06",
-   "full_since": null
+   "full_since": "2026-11-06"
   },
   {
    "id": "Bryant Elementary|2027-01-20|9:00-10:00am",
@@ -9657,6 +9717,21 @@
    "end": "11:30",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-11-06",
+   "full_since": null
+  },
+  {
+   "id": "Revere TK-8 School|2027-01-22|10:30-11:30am",
+   "school": "Revere TK-8 School",
+   "grades": "Pre-K, TK-8",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSfg19NDZGaA_GpLWWpHE08OqXM7cTCzEe-0HUQfSUX40ep1qA/viewform",
+   "date": "2027-01-22",
+   "time": "10:30\u201311:30 AM",
+   "raw_time": "10:30-11:30 am",
+   "start": "10:30",
+   "end": "11:30",
+   "status": "open",
+   "first_seen": "2026-11-06",
    "last_seen": "2026-11-06",
    "full_since": null
   },
