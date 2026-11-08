@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T10:37-08:00",
+ "updated": "2026-11-07T22:50-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -4360,10 +4360,10 @@
    "raw_time": "8:30-9:30am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-07",
-   "full_since": null
+   "full_since": "2026-11-07"
   },
   {
    "id": "Stevenson Elementary|2026-11-10|8:30-9:30am",
@@ -4480,10 +4480,10 @@
    "raw_time": "9:30-10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-09",
-   "full_since": "2026-10-09"
+   "last_seen": "2026-11-07",
+   "full_since": null
   },
   {
    "id": "Harte Elementary|2026-11-10|10:00-10:45am",
@@ -4810,10 +4810,10 @@
    "raw_time": "9:00-10:00am",
    "start": "09:00",
    "end": "10:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-24",
-   "full_since": "2026-10-24"
+   "last_seen": "2026-11-07",
+   "full_since": null
   },
   {
    "id": "Guadalupe Elementary|2026-11-13|9:30-10:30am",
@@ -6340,10 +6340,10 @@
    "raw_time": "9:00am to 10:15",
    "start": "09:00",
    "end": "10:15",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-07",
-   "full_since": null
+   "full_since": "2026-11-07"
   },
   {
    "id": "Lau Elementary|2026-12-04|9:00a.m.-10a.m.",
@@ -6460,10 +6460,10 @@
    "raw_time": "9:30-10:45am",
    "start": "09:30",
    "end": "10:45",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-07",
-   "full_since": null
+   "full_since": "2026-11-07"
   },
   {
    "id": "Argonne Early Education School|2026-12-04|10:00am-10:30am(prek)",
@@ -8455,10 +8455,10 @@
    "raw_time": "9:30-10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-07",
-   "full_since": null
+   "full_since": "2026-11-07"
   },
   {
    "id": "Milk Civil Rights Elementary|2027-01-07|5:30-6:30pm",
@@ -8549,6 +8549,21 @@
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-06",
    "full_since": "2026-11-07"
+  },
+  {
+   "id": "Peabody Elementary|2027-01-08|8:30-9:30am(spedfocusedtour)",
+   "school": "Peabody Elementary",
+   "grades": "K-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSdEiEUA3MjhN4g5vzKRwxvifBptvCl5d4ucOHMq0hShg5ZtWA/viewform",
+   "date": "2027-01-08",
+   "time": "8:30\u20139:30 AM (SPED focused tour)",
+   "raw_time": "8:30-9:30am (SPED focused tour)",
+   "start": "08:30",
+   "end": "09:30",
+   "status": "open",
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-07",
+   "full_since": null
   },
   {
    "id": "Sanchez Elementary|2027-01-08|8:30-9:30",
