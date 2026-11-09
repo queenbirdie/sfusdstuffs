@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T10:44-08:00",
+ "updated": "2026-11-08T23:29-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -598,7 +598,7 @@
    "grades": "K-8",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSddb8ggymi3fjB7lnNbw058u4V930lgzl9yV06QtyYxjVkxjQ/viewform",
    "note": "TK feeder at Tule Elk Park EES",
-   "status": "",
+   "status": "Full: interest list only",
    "profile_url": "",
    "start": null,
    "end": null,
@@ -4285,10 +4285,10 @@
    "raw_time": "2:00-3:00 pm",
    "start": "14:00",
    "end": "15:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-11-04",
-   "full_since": "2026-11-05"
+   "last_seen": "2026-11-08",
+   "full_since": null
   },
   {
    "id": "Lilienthal TK-8 School|2026-11-09|5:00-6:00pm",
@@ -4300,10 +4300,10 @@
    "raw_time": "5:00-6:00pm",
    "start": "17:00",
    "end": "18:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-08",
-   "full_since": null
+   "full_since": "2026-11-08"
   },
   {
    "id": "New Traditions Elementary|2026-11-09|5:00-6:00pm",
@@ -6610,10 +6610,10 @@
    "raw_time": "10:00-10:50am",
    "start": "10:00",
    "end": "10:50",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-08",
-   "full_since": null
+   "full_since": "2026-11-08"
   },
   {
    "id": "Spring Valley Science Elementary|2026-12-07|8:30-9:30am",
