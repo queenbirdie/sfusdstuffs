@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T15:21-08:00",
+ "updated": "2026-11-09T23:55-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -4375,10 +4375,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-02",
-   "full_since": "2026-11-02"
+   "last_seen": "2026-11-09",
+   "full_since": null
   },
   {
    "id": "Webster Elementary|2026-11-10|8:30-9:30am",
@@ -4420,10 +4420,10 @@
    "raw_time": "9:00-10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-14",
-   "full_since": "2026-10-14"
+   "last_seen": "2026-11-09",
+   "full_since": null
   },
   {
    "id": "Tenderloin Community Elementary|2026-11-10|9:00-10am",
@@ -4915,10 +4915,10 @@
    "raw_time": "10:00-11:00 AM",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-22",
    "last_seen": "2026-11-09",
-   "full_since": null
+   "full_since": "2026-11-09"
   },
   {
    "id": "Yick Wo Elementary School|2026-11-13|10:00am-11:00am",
@@ -5530,10 +5530,10 @@
    "raw_time": "8am-9am",
    "start": "08:00",
    "end": "09:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-25",
-   "full_since": "2026-10-25"
+   "last_seen": "2026-11-09",
+   "full_since": null
   },
   {
    "id": "Alamo Elementary|2026-11-20|8:15-9:15am",
@@ -6505,10 +6505,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-09",
-   "full_since": null
+   "full_since": "2026-11-09"
   },
   {
    "id": "Cleveland Elementary|2026-12-04|10:00-11:00am",
@@ -6655,10 +6655,10 @@
    "raw_time": "9:30am - 10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-09",
-   "full_since": null
+   "full_since": "2026-11-09"
   },
   {
    "id": "Longfellow Elementary|2026-12-07|10:00-10:45am",
