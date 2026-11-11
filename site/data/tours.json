@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T12:45-08:00",
+ "updated": "2026-11-10T23:24-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -561,7 +561,7 @@
    "grades": "TK-8",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSc9jhBJ9eLBUUoRVQPYLb6sKmBLVl_c14cpvPFQlW3hIdQoJA/viewform",
    "note": "",
-   "status": "",
+   "status": "Full: interest list only",
    "profile_url": "https://www.sfusd.edu/school/lawton-alternative-school-k-8",
    "start": null,
    "end": null,
@@ -4720,10 +4720,10 @@
    "raw_time": "8:15-9:15 am",
    "start": "08:15",
    "end": "09:15",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-18",
-   "full_since": "2026-10-18"
+   "last_seen": "2026-11-10",
+   "full_since": null
   },
   {
    "id": "Feinstein Elementary|2026-11-13|8:30-9:30",
@@ -4915,10 +4915,10 @@
    "raw_time": "10:00-11:00 AM",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-22",
    "last_seen": "2026-11-10",
-   "full_since": null
+   "full_since": "2026-11-10"
   },
   {
    "id": "Yick Wo Elementary School|2026-11-13|10:00am-11:00am",
@@ -7240,10 +7240,10 @@
    "raw_time": "9:00-10:00am",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-10",
-   "full_since": null
+   "full_since": "2026-11-10"
   },
   {
    "id": "Yu K-8 School|2026-12-10|9:30-10:30am",
@@ -7330,10 +7330,10 @@
    "raw_time": "8:30-9:30am",
    "start": "08:30",
    "end": "09:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-11-09",
-   "full_since": "2026-11-10"
+   "last_seen": "2026-11-10",
+   "full_since": null
   },
   {
    "id": "Feinstein Elementary|2026-12-11|8:30-9:30",
@@ -7645,10 +7645,10 @@
    "raw_time": "9:30am - 10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-10",
-   "full_since": null
+   "full_since": "2026-11-10"
   },
   {
    "id": "Rooftop TK-8 School|2026-12-14|10:00-11:00am",
