@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T13:12-08:00",
+ "updated": "2026-11-11T23:53-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -4720,10 +4720,10 @@
    "raw_time": "8:15-9:15 am",
    "start": "08:15",
    "end": "09:15",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-11",
-   "full_since": null
+   "full_since": "2026-11-11"
   },
   {
    "id": "Feinstein Elementary|2026-11-13|8:30-9:30",
@@ -4810,10 +4810,10 @@
    "raw_time": "9:00-10:00am",
    "start": "09:00",
    "end": "10:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-11-08",
-   "full_since": "2026-11-09"
+   "last_seen": "2026-11-11",
+   "full_since": null
   },
   {
    "id": "Guadalupe Elementary|2026-11-13|9:30-10:30am",
@@ -5035,10 +5035,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-11",
-   "full_since": null
+   "full_since": "2026-11-11"
   },
   {
    "id": "Webster Elementary|2026-11-17|8:30-9:30am",
@@ -5185,10 +5185,10 @@
    "raw_time": "10:00- 10:20 am",
    "start": "10:00",
    "end": "10:20",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-11",
-   "full_since": null
+   "full_since": "2026-11-11"
   },
   {
    "id": "Tenderloin Community Elementary|2026-11-17|10:00-11am",
@@ -9715,10 +9715,10 @@
    "raw_time": "8:30-10:00 am",
    "start": "08:30",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-11",
-   "full_since": null
+   "full_since": "2026-11-11"
   },
   {
    "id": "Chinese Immersion School|2027-01-22|9:00-10:00am",
