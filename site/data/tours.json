@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T12:50-08:00",
+ "updated": "2026-11-13T23:15-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -5590,10 +5590,10 @@
    "raw_time": "8:15-9:15 am",
    "start": "08:15",
    "end": "09:15",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-13",
-   "full_since": null
+   "full_since": "2026-11-13"
   },
   {
    "id": "Alvarado Elementary|2026-11-20|8:30-9:30am",
@@ -6250,10 +6250,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-13",
-   "full_since": null
+   "full_since": "2026-11-13"
   },
   {
    "id": "Sutro Elementary|2026-12-02|10:00am-11:00am",
@@ -7030,10 +7030,10 @@
    "raw_time": "9:00 - 10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-11-12",
-   "full_since": "2026-11-12"
+   "last_seen": "2026-11-13",
+   "full_since": null
   },
   {
    "id": "Drew Elementary|2026-12-09|9:00-10:00,11:00-12:00",
@@ -7855,10 +7855,10 @@
    "raw_time": "10:00- 10:20 am",
    "start": "10:00",
    "end": "10:20",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-19",
-   "full_since": "2026-10-20"
+   "last_seen": "2026-11-13",
+   "full_since": null
   },
   {
    "id": "Muir Elementary|2026-12-15|11:00:00am-11:30am",
