@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T11:40-08:00",
+ "updated": "2026-11-15T23:29-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -561,7 +561,7 @@
    "grades": "TK-8",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSc9jhBJ9eLBUUoRVQPYLb6sKmBLVl_c14cpvPFQlW3hIdQoJA/viewform",
    "note": "",
-   "status": "Full: interest list only",
+   "status": "",
    "profile_url": "https://www.sfusd.edu/school/lawton-alternative-school-k-8",
    "start": null,
    "end": null,
@@ -4990,10 +4990,10 @@
    "raw_time": "9:30am - 10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-11-14",
-   "full_since": "2026-11-15"
+   "last_seen": "2026-11-15",
+   "full_since": null
   },
   {
    "id": "McCoppin Elementary|2026-11-16|9:30-10:45am",
@@ -5005,10 +5005,10 @@
    "raw_time": "9:30-10:45am",
    "start": "09:30",
    "end": "10:45",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-15",
-   "full_since": null
+   "full_since": "2026-11-15"
   },
   {
    "id": "Longfellow Elementary|2026-11-16|10:00-10:45am",
@@ -6250,10 +6250,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-11-13",
-   "full_since": "2026-11-13"
+   "last_seen": "2026-11-15",
+   "full_since": null
   },
   {
    "id": "Sutro Elementary|2026-12-02|10:00am-11:00am",
@@ -8620,10 +8620,10 @@
    "raw_time": "8:15-9:15 am",
    "start": "08:15",
    "end": "09:15",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-15",
-   "full_since": null
+   "full_since": "2026-11-15"
   },
   {
    "id": "Alvarado Elementary|2027-01-08|8:30-9:30am",
