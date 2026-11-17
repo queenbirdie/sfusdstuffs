@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T00:42-08:00",
+ "updated": "2026-11-17T14:09-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -5605,10 +5605,10 @@
    "raw_time": "8:30-9:30am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-17",
-   "full_since": null
+   "full_since": "2026-11-17"
   },
   {
    "id": "Marshall Elementary|2026-11-20|8:30-10am",
@@ -6250,10 +6250,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-11-13",
-   "full_since": "2026-11-14"
+   "last_seen": "2026-11-17",
+   "full_since": null
   },
   {
    "id": "Rooftop TK-8 School|2026-12-02|10:00-11:00am",
@@ -6715,10 +6715,10 @@
    "raw_time": "10:00-10:50am",
    "start": "10:00",
    "end": "10:50",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-17",
-   "full_since": null
+   "full_since": "2026-11-17"
   },
   {
    "id": "Spring Valley Science Elementary|2026-12-07|8:30-9:30am",
@@ -8680,10 +8680,10 @@
    "raw_time": "8am-9am",
    "start": "08:00",
    "end": "09:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-17",
-   "full_since": null
+   "full_since": "2026-11-17"
   },
   {
    "id": "Alamo Elementary|2027-01-08|8:15-9:15am",
@@ -8725,10 +8725,10 @@
    "raw_time": "8:30-9:30 am",
    "start": "08:30",
    "end": "09:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-11-11",
-   "full_since": "2026-11-12"
+   "last_seen": "2026-11-17",
+   "full_since": null
   },
   {
    "id": "Peabody Elementary|2027-01-08|8:30-9:30am(spedfocusedtour)",
@@ -9130,10 +9130,10 @@
    "raw_time": "8:20-9:10am",
    "start": "08:20",
    "end": "09:10",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-17",
-   "full_since": null
+   "full_since": "2026-11-17"
   },
   {
    "id": "Ortega Elementary|2027-01-13|8:30-9:30am",
