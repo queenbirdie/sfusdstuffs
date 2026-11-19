@@ -1158,5 +1158,22 @@
    "Mandarin"
   ],
   "fetched": "2026-11-13"
+ },
+ "Chinese Immersion School at De Avila": {
+  "url": "https://www.sfusd.edu/school/chinese-immersion-school-de-avila-zhongwenchenjinxuexiao",
+  "start": null,
+  "end": null,
+  "hours": "",
+  "neighborhood": "Haight Ashbury",
+  "languages": [
+   "Cantonese Dual Language Immersion"
+  ],
+  "special_ed": [
+   "Resource Specialist Program Services"
+  ],
+  "language_tags": [
+   "Cantonese"
+  ],
+  "fetched": "2026-11-19"
  }
 }

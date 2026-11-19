@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T00:14-08:00",
+ "updated": "2026-11-19T14:03-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -177,10 +177,10 @@
    ]
   },
   {
-   "name": "Chinese Immersion School",
+   "name": "Chinese Immersion School at De Avila",
    "grades": "TK-5",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSc5PAj7fjP641XA0kC_KUbXZvKIM7pBwzWCfBU-NRUV838GDQ/viewform",
-   "note": "",
+   "note": "This is a TK-5 school in the Haight, and is different than the Mandarin Immersion K-8 opening in 2027",
    "status": "",
    "profile_url": "https://www.sfusd.edu/school/chinese-immersion-school-de-avila-zhongwenchenjinxuexiao",
    "start": null,
@@ -5530,10 +5530,10 @@
    "raw_time": "9:30-10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-19",
-   "full_since": null
+   "full_since": "2026-11-19"
   },
   {
    "id": "Milk Civil Rights Elementary|2026-11-19|9:45-10:45am",
@@ -5545,10 +5545,10 @@
    "raw_time": "9:45-10:45 am",
    "start": "09:45",
    "end": "10:45",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-19",
-   "full_since": null
+   "full_since": "2026-11-19"
   },
   {
    "id": "Parks Elementary|2026-11-20|7:45-8:45",
@@ -5740,10 +5740,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-21",
-   "full_since": "2026-10-21"
+   "last_seen": "2026-11-19",
+   "full_since": null
   },
   {
    "id": "Cleveland Elementary|2026-11-20|10:00-11:00am",
@@ -6760,10 +6760,10 @@
    "raw_time": "9:30am - 10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-19",
-   "full_since": null
+   "full_since": "2026-11-19"
   },
   {
    "id": "Longfellow Elementary|2026-12-07|10:00-10:45am",
@@ -8635,10 +8635,10 @@
    "raw_time": "9:30-10:30am",
    "start": "09:30",
    "end": "10:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-17",
-   "full_since": "2026-11-18"
+   "last_seen": "2026-11-19",
+   "full_since": null
   },
   {
    "id": "Milk Civil Rights Elementary|2027-01-07|5:30-6:30pm",
@@ -9207,6 +9207,21 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-11-19",
+   "full_since": null
+  },
+  {
+   "id": "Chinese Immersion School at De Avila|2027-01-13|9:00-10:00am",
+   "school": "Chinese Immersion School at De Avila",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSc5PAj7fjP641XA0kC_KUbXZvKIM7pBwzWCfBU-NRUV838GDQ/viewform",
+   "date": "2027-01-13",
+   "time": "9:00\u201310:00 AM",
+   "raw_time": "9:00 - 10:00 am",
+   "start": "09:00",
+   "end": "10:00",
+   "status": "open",
+   "first_seen": "2026-11-19",
    "last_seen": "2026-11-19",
    "full_since": null
   },
@@ -9882,6 +9897,21 @@
    "end": "10:00",
    "status": "open",
    "first_seen": "2026-10-05",
+   "last_seen": "2026-11-19",
+   "full_since": null
+  },
+  {
+   "id": "Chinese Immersion School at De Avila|2027-01-22|9:00-10:00am",
+   "school": "Chinese Immersion School at De Avila",
+   "grades": "TK-5",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSc5PAj7fjP641XA0kC_KUbXZvKIM7pBwzWCfBU-NRUV838GDQ/viewform",
+   "date": "2027-01-22",
+   "time": "9:00\u201310:00 AM",
+   "raw_time": "9:00 - 10:00 am",
+   "start": "09:00",
+   "end": "10:00",
+   "status": "open",
+   "first_seen": "2026-11-19",
    "last_seen": "2026-11-19",
    "full_since": null
   },
@@ -10870,10 +10900,10 @@
    "raw_time": "9:00 am - 10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-19",
-   "full_since": null
+   "full_since": "2026-11-19"
   },
   {
    "id": "Rodriguez Early Education School|2027-03-24|10:00-10:20am",
