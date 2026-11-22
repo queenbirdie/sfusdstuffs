@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T12:26-08:00",
+ "updated": "2026-11-21T23:39-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -7375,10 +7375,10 @@
    "raw_time": "8:30-9:30am",
    "start": "08:30",
    "end": "09:30",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-21",
-   "full_since": null
+   "full_since": "2026-11-21"
   },
   {
    "id": "Feinstein Elementary|2026-12-11|8:30-9:30",
