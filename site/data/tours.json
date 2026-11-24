@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T00:28-08:00",
+ "updated": "2026-11-23T17:35-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -10615,10 +10615,10 @@
    "raw_time": "9:00 am-10:00 am",
    "start": "09:00",
    "end": "10:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-14",
-   "full_since": "2026-10-14"
+   "last_seen": "2026-11-23",
+   "full_since": null
   },
   {
    "id": "McLaren Early Education School|2027-02-19|9:00-10:00am",
