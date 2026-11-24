@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:35-08:00",
+ "updated": "2026-11-24T15:26-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -1355,7 +1355,7 @@
    "grades": "Pre-K, TK",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSe5_WH3IJ3NRXqnIduat7LFflffTwYiWmXaGWWSCzzmBlrD2g/viewform",
    "note": "TK feeds into Lilienthal K-8, New Traditions ES, Peabody ES, or Yick Wo ES",
-   "status": "Full: interest list only",
+   "status": "",
    "profile_url": "https://www.sfusd.edu/school/tule-elk-park-early-education-school",
    "start": null,
    "end": null,
@@ -6415,10 +6415,10 @@
    "raw_time": "8:30-10:00 am",
    "start": "08:30",
    "end": "10:00",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-11",
-   "full_since": "2026-10-11"
+   "last_seen": "2026-11-24",
+   "full_since": null
   },
   {
    "id": "Chinese Immersion School|2026-12-04|9:00-10:00am",
@@ -6629,6 +6629,21 @@
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-29",
    "full_since": "2026-10-29"
+  },
+  {
+   "id": "Tule Elk Park Early Education School|2026-12-04|10:00-11:00am",
+   "school": "Tule Elk Park Early Education School",
+   "grades": "Pre-K, TK",
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSe5_WH3IJ3NRXqnIduat7LFflffTwYiWmXaGWWSCzzmBlrD2g/viewform",
+   "date": "2026-12-04",
+   "time": "10:00\u201311:00 AM",
+   "raw_time": "10:00-11:00 am",
+   "start": "10:00",
+   "end": "11:00",
+   "status": "open",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "full_since": null
   },
   {
    "id": "Ulloa Elementary|2026-12-04|10:00-11:00am",
@@ -7375,10 +7390,10 @@
    "raw_time": "8:30-9:30am",
    "start": "08:30",
    "end": "09:30",
-   "status": "full",
+   "status": "open",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-11-21",
-   "full_since": "2026-11-21"
+   "last_seen": "2026-11-24",
+   "full_since": null
   },
   {
    "id": "Feinstein Elementary|2026-12-11|8:30-9:30",
