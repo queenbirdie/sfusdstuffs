@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:25-08:00",
+ "updated": "2026-11-25T15:01-08:00",
  "first_run": "2026-10-05",
  "source": "https://www.sfusd.edu/schools/enroll/discover/sfusd-school-tours",
  "schools": [
@@ -1355,7 +1355,7 @@
    "grades": "Pre-K, TK",
    "link": "https://docs.google.com/forms/d/e/1FAIpQLSe5_WH3IJ3NRXqnIduat7LFflffTwYiWmXaGWWSCzzmBlrD2g/viewform",
    "note": "TK feeds into Lilienthal K-8, New Traditions ES, Peabody ES, or Yick Wo ES",
-   "status": "",
+   "status": "Full: interest list only",
    "profile_url": "https://www.sfusd.edu/school/tule-elk-park-early-education-school",
    "start": null,
    "end": null,
@@ -6640,10 +6640,10 @@
    "raw_time": "10:00-11:00 am",
    "start": "10:00",
    "end": "11:00",
-   "status": "open",
+   "status": "full",
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-25",
-   "full_since": null
+   "full_since": "2026-11-25"
   },
   {
    "id": "Ulloa Elementary|2026-12-04|10:00-11:00am",
